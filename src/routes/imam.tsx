@@ -67,14 +67,17 @@ function ImamPage() {
         </div>
       </section>
 
-      {/* Hadith on learning and teaching the Qur'an: the imam's work as muallim */}
+      {/* Ayah on the rank of knowledge */}
       <section className="border-y border-border/60 bg-secondary/50 py-14">
-        <Hadith
-          ar="خَيْرُكُمْ مَنْ تَعَلَّمَ الْقُرْآنَ وَعَلَّمَهُ"
-          bs="Najbolji od vas je onaj ko nauči Kur'an i druge ga poduči."
-          source="Buhari, 5027"
-          large
-        />
+        <figure className="mx-auto max-w-3xl px-6 text-center">
+          <p dir="rtl" lang="ar" className="font-arabic text-3xl leading-[2] text-primary md:text-4xl">
+            يَرۡفَعِ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ مِنكُمۡ وَٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ دَرَجَٰتࣲ
+          </p>
+          <blockquote className="mt-4 font-display text-xl text-foreground/80 md:text-2xl">
+            „Allah će na visoke stepene uzdignuti one među vama koji vjeruju i kojima je dato znanje.“
+          </blockquote>
+          <figcaption className="mt-3 text-xs uppercase tracking-widest text-[color:var(--wood)]">El-Mudžadele, 11</figcaption>
+        </figure>
       </section>
 
       {/* His story */}
@@ -168,14 +171,14 @@ function Chapter({ title, children }: { title: string; children: ReactNode }) {
 }
 
 /** A saying of the Prophet, s.a.v.s., in Arabic with the Bosnian translation and its source. */
-function Hadith({ ar, bs, source, large = false }: { ar: string; bs: string; source: string; large?: boolean }) {
+function Hadith({ ar, bs, source }: { ar: string; bs: string; source: string }) {
   return (
     <figure className="mx-auto max-w-3xl px-6 text-center">
       <p className="text-xs uppercase tracking-[0.22em] text-[color:var(--gold)]">Poslanik, s.a.v.s., je rekao</p>
-      <p dir="rtl" lang="ar" className={`mt-4 font-arabic leading-[2] text-primary ${large ? "text-3xl md:text-4xl" : "text-2xl md:text-3xl"}`}>
+      <p dir="rtl" lang="ar" className="mt-4 font-arabic text-2xl leading-[2] text-primary md:text-3xl">
         {ar}
       </p>
-      <blockquote className={`mt-3 font-display text-foreground/80 ${large ? "text-xl md:text-2xl" : "text-lg md:text-xl"}`}>„{bs}“</blockquote>
+      <blockquote className="mt-3 font-display text-lg text-foreground/80 md:text-xl">„{bs}“</blockquote>
       <figcaption className="mt-3 text-xs uppercase tracking-widest text-[color:var(--wood)]">{source}</figcaption>
     </figure>
   );
