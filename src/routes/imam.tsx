@@ -90,7 +90,7 @@ function ImamPage() {
             </p>
             <p>
               Još kao učenik, 1992. godine, obavljao je dužnost imama, hatiba i muallima u selu Grnčare. Potom je u
-              Prizrenu bio na praksi u Staroj džamiji i Iskender džamiji u Krilu, a bio je imam i u Emin-pašinoj
+              Prizrenu bio na praksi u Staroj džamiji i Iskender džamiji u Kurilu, a bio je imam i u Emin-pašinoj
               džamiji.
             </p>
           </Chapter>
