@@ -27,17 +27,21 @@ const LECTURERS: Lecturer[] = [
 ];
 
 const TOPICS = ["Namaz", "Porodica", "Ramazan", "Ahlak", "Kur'an"];
+const PAGE = 9;
 
 // Placeholders: titles and videos are filled in with real, approved YouTube links later
 const LECTURES: Lecture[] = LECTURERS.flatMap((l, i) =>
-  [0, 1].map((j) => ({
+  [0, 1, 2, 3, 4].map((j) => ({
     id: `${l.id}-${j}`,
     lecturer: l.id,
     title: "Naslov predavanja (primjer)",
-    topic: TOPICS[(i * 2 + j) % TOPICS.length],
-    length: j ? "48 min" : "32 min",
+    topic: TOPICS[(i * 3 + j) % TOPICS.length],
+    length: `${25 + ((i * 7 + j * 11) % 40)} min`,
   })),
 );
+
+/** "1 predavanje", "21 predavanje", otherwise "predavanja". */
+const count = (n: number) => `${n} ${n % 10 === 1 && n % 100 !== 11 ? "predavanje" : "predavanja"}`;
 
 const initials = (name: string) =>
   name
@@ -48,8 +52,19 @@ const initials = (name: string) =>
 
 function LecturesPage() {
   const [who, setWho] = useState<string | null>(null);
+  const [topic, setTopic] = useState<string | null>(null);
+  const [shown, setShown] = useState(PAGE);
   const [playing, setPlaying] = useState<string | null>(null);
-  const list = LECTURES.filter((l) => !who || l.lecturer === who);
+  const all = LECTURES.filter((l) => (!who || l.lecturer === who) && (!topic || l.topic === topic));
+  const list = all.slice(0, shown);
+  const pickWho = (id: string | null) => {
+    setWho(id);
+    setShown(PAGE);
+  };
+  const pickTopic = (t: string | null) => {
+    setTopic(t);
+    setShown(PAGE);
+  };
 
   return (
     <>
@@ -67,7 +82,7 @@ function LecturesPage() {
               return (
                 <button
                   key={l.id}
-                  onClick={() => setWho(active ? null : l.id)}
+                  onClick={() => pickWho(active ? null : l.id)}
                   aria-pressed={active}
                   className={`flex flex-col items-center gap-3 rounded-2xl border-2 p-5 text-center transition ${
                     active ? "border-primary bg-primary text-primary-foreground" : "border-border/60 bg-card hover:border-[var(--gold)]"
@@ -78,7 +93,7 @@ function LecturesPage() {
                   </span>
                   <span className="font-display text-xl leading-tight">{l.name}</span>
                   <span className={`text-xs ${active ? "text-primary-foreground/70" : "text-muted-foreground"}`}>
-                    {LECTURES.filter((x) => x.lecturer === l.id).length} predavanja
+                    {count(LECTURES.filter((x) => x.lecturer === l.id).length)}
                   </span>
                 </button>
               );
@@ -89,12 +104,30 @@ function LecturesPage() {
             <h2 className="font-display text-3xl text-primary">
               {who ? LECTURERS.find((l) => l.id === who)?.name : "Sva predavanja"}
             </h2>
-            {who && (
-              <button onClick={() => setWho(null)} className="text-sm text-[color:var(--wood)] underline underline-offset-4">
+            {(who || topic) && (
+              <button onClick={() => { pickWho(null); pickTopic(null); }} className="text-sm text-[color:var(--wood)] underline underline-offset-4">
                 Prikaži sve
               </button>
             )}
           </div>
+          <div className="mt-4 flex flex-wrap gap-2" role="group" aria-label="Teme">
+            {[null, ...TOPICS].map((t) => {
+              const active = topic === t;
+              return (
+                <button
+                  key={t ?? "sve"}
+                  onClick={() => pickTopic(t)}
+                  aria-pressed={active}
+                  className={`rounded-full border px-4 py-1.5 text-sm font-medium transition ${
+                    active ? "border-primary bg-primary text-primary-foreground" : "border-primary/30 bg-card text-primary hover:border-[var(--gold)]"
+                  }`}
+                >
+                  {t ?? "Sve teme"}
+                </button>
+              );
+            })}
+          </div>
+          <p className="mt-3 text-sm text-muted-foreground">{count(all.length)}</p>
           <div className="mt-5 grid gap-5 sm:grid-cols-2 lg:grid-cols-3">
             {list.map((v) => {
               const lecturer = LECTURERS.find((l) => l.id === v.lecturer)!;
@@ -131,6 +164,13 @@ function LecturesPage() {
               );
             })}
           </div>
+          {shown < all.length && (
+            <div className="mt-8 text-center">
+              <button onClick={() => setShown((n) => n + PAGE)} className="rounded-full border-2 border-primary px-7 py-2.5 font-semibold text-primary transition hover:bg-primary hover:text-primary-foreground">
+                Prikaži još ({all.length - shown})
+              </button>
+            </div>
+          )}
         </div>
       </section>
     </>
