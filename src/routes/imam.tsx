@@ -130,6 +130,14 @@ function ImamPage() {
               <em>Ikr'e</em>, koji se štampao pod pokroviteljstvom medrese u Skoplju.
             </p>
           </Chapter>
+
+          <div className="mt-12 rounded-2xl border border-[var(--gold)]/50 bg-card px-6 py-9 shadow-[var(--shadow-soft)]">
+            <Hadith
+              ar="مَنْ يُرِدِ اللَّهُ بِهِ خَيْرًا يُفَقِّهْهُ فِي الدِّينِ"
+              bs="Kome Allah želi dobro, podari mu razumijevanje vjere."
+              source="Buhari, 71; Muslim, 1037"
+            />
+          </div>
         </div>
       </section>
 
@@ -159,5 +167,19 @@ function Chapter({ title, children }: { title: string; children: ReactNode }) {
       </h2>
       <div className="mt-5 space-y-5 text-lg leading-relaxed text-muted-foreground">{children}</div>
     </div>
+  );
+}
+
+/** A saying of the Prophet, s.a.v.s., in Arabic with the Bosnian translation and its source. */
+function Hadith({ ar, bs, source }: { ar: string; bs: string; source: string }) {
+  return (
+    <figure className="mx-auto max-w-3xl px-6 text-center">
+      <p className="text-xs uppercase tracking-[0.22em] text-[color:var(--gold)]">Poslanik, s.a.v.s., je rekao</p>
+      <p dir="rtl" lang="ar" className="mt-4 font-arabic text-2xl leading-[2] text-primary md:text-3xl">
+        {ar}
+      </p>
+      <blockquote className="mt-3 font-display text-lg text-foreground/80 md:text-xl">„{bs}“</blockquote>
+      <figcaption className="mt-3 text-xs uppercase tracking-widest text-[color:var(--wood)]">{source}</figcaption>
+    </figure>
   );
 }
