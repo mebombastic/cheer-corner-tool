@@ -6,6 +6,7 @@ import { NotificationsButton } from "./notifications";
 const NAV = [
   { to: "/", label: "Početna" },
   { to: "/about", label: "O nama" },
+  { to: "/imam", label: "Imam" },
   { to: "/prayer-times", label: "Vreme namaza" },
   { to: "/qibla", label: "Kibla i tesbih" },
   { to: "/quran", label: "Kur'an i dove" },

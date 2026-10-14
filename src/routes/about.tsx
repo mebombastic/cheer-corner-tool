@@ -1,6 +1,7 @@
-import { createFileRoute } from "@tanstack/react-router";
+import { createFileRoute, Link } from "@tanstack/react-router";
 import { PageHeader } from "@/components/site-chrome";
 import duskImg from "@/assets/mosque-recane-dusk.jpg";
+import imamFaceImg from "@/assets/imam-masar-fejza-lice.jpg";
 import { canonical } from "@/lib/utils";
 
 export const Route = createFileRoute("/about")({
@@ -63,6 +64,30 @@ function About() {
               </div>
             ))}
           </div>
+        </div>
+      </section>
+
+      <section className="py-16">
+        <div className="mx-auto max-w-6xl px-6">
+          <Link
+            to="/imam"
+            className="group flex flex-col items-start gap-5 rounded-2xl border border-border/60 bg-card p-7 transition hover:border-[var(--gold)] hover:shadow-[var(--shadow-soft)] sm:flex-row sm:items-center"
+          >
+            <img
+              src={imamFaceImg}
+              alt=""
+              width={240}
+              height={240}
+              loading="lazy"
+              className="h-20 w-20 shrink-0 rounded-full object-cover ring-4 ring-[var(--gold)]/40"
+            />
+            <span className="flex-1">
+              <span className="block text-xs uppercase tracking-[0.22em] text-[color:var(--gold)]">Naš imam</span>
+              <span className="mt-1 block font-display text-3xl text-primary">Masar ef. Fejza</span>
+              <span className="mt-1 block text-muted-foreground">Imam, hatib i muallim u Rečanu od 1996. godine.</span>
+            </span>
+            <span className="font-semibold text-[color:var(--wood)] group-hover:text-primary">Upoznajte našeg imama →</span>
+          </Link>
         </div>
       </section>
     </>
