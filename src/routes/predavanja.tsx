@@ -26,18 +26,34 @@ const LECTURERS: Lecturer[] = [
   { id: "bugari", name: "Sulejman Bugari" },
 ];
 
-const TOPICS = ["Namaz", "Porodica", "Ramazan", "Ahlak", "Kur'an"];
+const TOPICS = [
+  "Namaz",
+  "Kur'an",
+  "Ramazan i post",
+  "Porodica i brak",
+  "Ahlak",
+  "Vjerovanje",
+  "Mladi",
+  "Smrt i ahiret",
+  "Sira",
+  "Dove i zikr",
+];
 const PAGE = 9;
 
 // Placeholders: titles and videos are filled in with real, approved YouTube links later
-const LECTURES: Lecture[] = LECTURERS.flatMap((l, i) =>
-  [0, 1, 2, 3, 4].map((j) => ({
+const BY_LECTURER: Lecture[] = LECTURERS.flatMap((l, i) =>
+  Array.from({ length: 30 }, (_, j) => ({
     id: `${l.id}-${j}`,
     lecturer: l.id,
     title: "Naslov predavanja (primjer)",
     topic: TOPICS[(i * 3 + j) % TOPICS.length],
     length: `${25 + ((i * 7 + j * 11) % 40)} min`,
   })),
+);
+
+// Mixed so the first page shows every lecturer: 1st of each, then 2nd of each, ...
+const LECTURES: Lecture[] = [...BY_LECTURER].sort(
+  (a, b) => Number(a.id.split("-")[1]) - Number(b.id.split("-")[1]) || LECTURERS.findIndex((l) => l.id === a.lecturer) - LECTURERS.findIndex((l) => l.id === b.lecturer),
 );
 
 /** "1 predavanje", "21 predavanje", otherwise "predavanja". */
