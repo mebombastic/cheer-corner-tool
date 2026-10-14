@@ -111,7 +111,7 @@ function ImamPage() {
         </figure>
 
         <div className="mx-auto max-w-3xl px-6">
-          <Chapter title="Znanje i pero">
+          <Chapter title="Znanje">
             <p>
               Uz službu u džamiji, krajem 2008. godine upisao je Fakultet islamskih studija u Prištini i završio ga
               2011. godine. Diplomski rad na temu „Umjerenost u hadisima Allahovog Poslanika a.s.“ odbranio je ocjenom
