@@ -11,6 +11,7 @@ const NAV = [
   { to: "/quran", label: "Kur'an i dove" },
   { to: "/calendar", label: "Kalendar" },
   { to: "/events", label: "Događaji" },
+  { to: "/predavanja", label: "Predavanja" },
 ] as const;
 
 function Mark({ className = "" }: { className?: string }) {
