@@ -2,6 +2,7 @@ import { createFileRoute, Link } from "@tanstack/react-router";
 import type { ReactNode } from "react";
 import interiorImg from "@/assets/mosque-recane-interior.jpg";
 import exteriorImg from "@/assets/mosque-recane-exterior.jpg";
+import imamImg from "@/assets/imam-masar-fejza.jpg";
 import { canonical } from "@/lib/utils";
 
 export const Route = createFileRoute("/imam")({
@@ -34,7 +35,14 @@ function ImamPage() {
       <section className="relative overflow-hidden bg-primary text-primary-foreground">
         <img src={interiorImg} alt="" aria-hidden className="absolute inset-0 h-full w-full object-cover opacity-35" />
         <div className="absolute inset-0 bg-gradient-to-t from-primary via-primary/70 to-primary/30" aria-hidden />
-        <div className="relative mx-auto max-w-4xl px-6 py-24 text-center md:py-32">
+        <div className="relative mx-auto max-w-4xl px-6 py-16 text-center md:py-24">
+          <img
+            src={imamImg}
+            alt="Masar ef. Fejza na kursiji u džamiji"
+            width={800}
+            height={796}
+            className="mx-auto mb-10 w-64 rounded-3xl object-cover shadow-[var(--shadow-glow)] ring-4 ring-[var(--gold)]/60 md:w-80"
+          />
           <p className="text-xs uppercase tracking-[0.3em] text-[color:var(--gold)]">Naš imam</p>
           <h1 className="mt-5 font-display text-5xl leading-tight md:text-7xl">Masar ef. Fejza</h1>
           <p className="mt-3 font-display text-xl italic text-primary-foreground/80 md:text-2xl">profesor islamskih studija</p>

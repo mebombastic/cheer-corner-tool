@@ -1,6 +1,7 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import { PageHeader } from "@/components/site-chrome";
 import duskImg from "@/assets/mosque-recane-dusk.jpg";
+import imamFaceImg from "@/assets/imam-masar-fejza-lice.jpg";
 import { canonical } from "@/lib/utils";
 
 export const Route = createFileRoute("/about")({
@@ -72,9 +73,14 @@ function About() {
             to="/imam"
             className="group flex flex-col items-start gap-5 rounded-2xl border border-border/60 bg-card p-7 transition hover:border-[var(--gold)] hover:shadow-[var(--shadow-soft)] sm:flex-row sm:items-center"
           >
-            <span className="grid h-20 w-20 shrink-0 place-items-center rounded-full bg-primary font-arabic text-3xl text-[color:var(--gold)] ring-4 ring-[var(--gold)]/40" aria-hidden>
-              ۞
-            </span>
+            <img
+              src={imamFaceImg}
+              alt=""
+              width={240}
+              height={240}
+              loading="lazy"
+              className="h-20 w-20 shrink-0 rounded-full object-cover ring-4 ring-[var(--gold)]/40"
+            />
             <span className="flex-1">
               <span className="block text-xs uppercase tracking-[0.22em] text-[color:var(--gold)]">Naš imam</span>
               <span className="mt-1 block font-display text-3xl text-primary">Masar ef. Fejza</span>
