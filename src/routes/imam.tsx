@@ -1,7 +1,6 @@
 import { createFileRoute, Link } from "@tanstack/react-router";
 import type { ReactNode } from "react";
 import interiorImg from "@/assets/mosque-recane-interior.jpg";
-import exteriorImg from "@/assets/mosque-recane-exterior.jpg";
 import imamImg from "@/assets/imam-masar-fejza.jpg";
 import { canonical } from "@/lib/utils";
 
@@ -108,15 +107,6 @@ function ImamPage() {
           </Chapter>
         </div>
 
-        <figure className="mx-auto my-14 max-w-5xl px-6">
-          <img
-            src={exteriorImg}
-            alt="Džamija u Rečanu"
-            loading="lazy"
-            className="aspect-[16/7] w-full rounded-2xl object-cover shadow-[var(--shadow-soft)]"
-          />
-          <figcaption className="mt-3 text-center text-sm text-muted-foreground">Džamija u Rečanu, njegova džamija od 1996. godine.</figcaption>
-        </figure>
 
         <div className="mx-auto max-w-3xl px-6">
           <Chapter title="Znanje">
