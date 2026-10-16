@@ -11,6 +11,7 @@ const NAV = [
   { to: "/qibla", label: "Kibla i tesbih" },
   { to: "/quran", label: "Kur'an i dove" },
   { to: "/calendar", label: "Kalendar" },
+  { to: "/hutbe", label: "Hutbe" },
   { to: "/events", label: "Događaji" },
 ] as const;
 

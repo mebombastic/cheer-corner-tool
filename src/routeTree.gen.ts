@@ -13,6 +13,7 @@ import { Route as IndexRouteImport } from './routes/index'
 import { Route as AboutRouteImport } from './routes/about'
 import { Route as CalendarRouteImport } from './routes/calendar'
 import { Route as EventsRouteImport } from './routes/events'
+import { Route as HutbeRouteImport } from './routes/hutbe'
 import { Route as ImamRouteImport } from './routes/imam'
 import { Route as InstalirajRouteImport } from './routes/instaliraj'
 import { Route as PrayerTimesRouteImport } from './routes/prayer-times'
@@ -37,6 +38,11 @@ const CalendarRoute = CalendarRouteImport.update({
 const EventsRoute = EventsRouteImport.update({
   id: '/events',
   path: '/events',
+  getParentRoute: () => rootRouteImport,
+} as any)
+const HutbeRoute = HutbeRouteImport.update({
+  id: '/hutbe',
+  path: '/hutbe',
   getParentRoute: () => rootRouteImport,
 } as any)
 const ImamRoute = ImamRouteImport.update({
@@ -70,6 +76,7 @@ export interface FileRoutesByFullPath {
   '/about': typeof AboutRoute
   '/calendar': typeof CalendarRoute
   '/events': typeof EventsRoute
+  '/hutbe': typeof HutbeRoute
   '/imam': typeof ImamRoute
   '/instaliraj': typeof InstalirajRoute
   '/prayer-times': typeof PrayerTimesRoute
@@ -81,6 +88,7 @@ export interface FileRoutesByTo {
   '/about': typeof AboutRoute
   '/calendar': typeof CalendarRoute
   '/events': typeof EventsRoute
+  '/hutbe': typeof HutbeRoute
   '/imam': typeof ImamRoute
   '/instaliraj': typeof InstalirajRoute
   '/prayer-times': typeof PrayerTimesRoute
@@ -93,6 +101,7 @@ export interface FileRoutesById {
   '/about': typeof AboutRoute
   '/calendar': typeof CalendarRoute
   '/events': typeof EventsRoute
+  '/hutbe': typeof HutbeRoute
   '/imam': typeof ImamRoute
   '/instaliraj': typeof InstalirajRoute
   '/prayer-times': typeof PrayerTimesRoute
@@ -106,6 +115,7 @@ export interface FileRouteTypes {
     | '/about'
     | '/calendar'
     | '/events'
+    | '/hutbe'
     | '/imam'
     | '/instaliraj'
     | '/prayer-times'
@@ -117,6 +127,7 @@ export interface FileRouteTypes {
     | '/about'
     | '/calendar'
     | '/events'
+    | '/hutbe'
     | '/imam'
     | '/instaliraj'
     | '/prayer-times'
@@ -128,6 +139,7 @@ export interface FileRouteTypes {
     | '/about'
     | '/calendar'
     | '/events'
+    | '/hutbe'
     | '/imam'
     | '/instaliraj'
     | '/prayer-times'
@@ -140,6 +152,7 @@ export interface RootRouteChildren {
   AboutRoute: typeof AboutRoute
   CalendarRoute: typeof CalendarRoute
   EventsRoute: typeof EventsRoute
+  HutbeRoute: typeof HutbeRoute
   ImamRoute: typeof ImamRoute
   InstalirajRoute: typeof InstalirajRoute
   PrayerTimesRoute: typeof PrayerTimesRoute
@@ -175,6 +188,13 @@ declare module '@tanstack/react-router' {
       path: '/events'
       fullPath: '/events'
       preLoaderRoute: typeof EventsRouteImport
+      parentRoute: typeof rootRouteImport
+    }
+    '/hutbe': {
+      id: '/hutbe'
+      path: '/hutbe'
+      fullPath: '/hutbe'
+      preLoaderRoute: typeof HutbeRouteImport
       parentRoute: typeof rootRouteImport
     }
     '/imam': {
@@ -220,6 +240,7 @@ const rootRouteChildren: RootRouteChildren = {
   AboutRoute: AboutRoute,
   CalendarRoute: CalendarRoute,
   EventsRoute: EventsRoute,
+  HutbeRoute: HutbeRoute,
   ImamRoute: ImamRoute,
   InstalirajRoute: InstalirajRoute,
   PrayerTimesRoute: PrayerTimesRoute,
