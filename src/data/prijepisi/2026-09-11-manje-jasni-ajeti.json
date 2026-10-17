@@ -1,0 +1,1952 @@
+{
+ "id": "2026-09-11-manje-jasni-ajeti",
+ "model": "whisper large-v3-turbo",
+ "language": "bs",
+ "segments": [
+  {
+   "start": 0.3,
+   "end": 2.64,
+   "text": "الحمد لله رب العالمين"
+  },
+  {
+   "start": 2.64,
+   "end": 8.9,
+   "text": "والصلاة والسلام على رسولنا محمد وآله وصحبه اجمعين"
+  },
+  {
+   "start": 8.9,
+   "end": 12.46,
+   "text": "قال الله تعالى في كتابه الكريم"
+  },
+  {
+   "start": 12.46,
+   "end": 14.76,
+   "text": "أعوذ بالله من الشيطان الرجيم"
+  },
+  {
+   "start": 14.76,
+   "end": 16.4,
+   "text": "اسم الله الرحمن الرحيم"
+  },
+  {
+   "start": 16.4,
+   "end": 21.52,
+   "text": "هو الذي أنزل عليك الكتاب منه آيات محكمات"
+  },
+  {
+   "start": 21.52,
+   "end": 25.36,
+   "text": "هن أم الكتاب وأخر متشابهات"
+  },
+  {
+   "start": 25.36,
+   "end": 55.36,
+   "text": "فَأَمَّ الَّذِينَ فِي قُلُوبِهِمْ زَيْغُونَ فَيَتَّبِعُونَ مَا تَشَابَهَ مِنْهُ بْتِغَاءَ الْفِتْنَةِ وَابْتِغَاءَ تَأْوِيلِهِ وَمَا يَعْلَمُ تَأْوِيلَهُ إِلَّا اللَّهِ وَالرَّاسِخُونَ فِي الْعِلْمِ يَقُولُونَ آمَنَّا بِهِ كُلٌّ مِّنْ عِنْدِ رَبِّنَا وَمَا يَذَّكَّرُ إِلَّا أُولُو الْأَلْ"
+  },
+  {
+   "start": 55.36,
+   "end": 59.9,
+   "text": "nek su naši salavati i selami upučeni na Mohameda, sallallahu anehi wa sallam."
+  },
+  {
+   "start": 60.86,
+   "end": 63.46,
+   "text": "Najbolji govor je govor Allah, tabaraka wa ta'ala,"
+  },
+  {
+   "start": 63.58,
+   "end": 66.82,
+   "text": "najbolja uputa je uputa Mohameda, sallallahu anehi wa sallam."
+  },
+  {
+   "start": 68.0,
+   "end": 70.84,
+   "text": "Dragi braćo, tema današnje hudbe jeste"
+  },
+  {
+   "start": 70.84,
+   "end": 78.3,
+   "text": "oni koji slijede manje jasne ajete žele stvoriti samo smutnju."
+  },
+  {
+   "start": 78.3,
+   "end": 85.8,
+   "text": "U citiranom ajetu sa početka ove hudbe uzrešeni Allah,"
+  },
+  {
+   "start": 85.8,
+   "end": 104.86,
+   "text": "kaže, on tebi objavljuje knjigu, u njoj su ajeti jasni, oni su glavnina knjige, a drugi su manji jasni, oni čija su srca pokvarana, željni smutnje i svog tumačenja, slijede ono što su manji jasni,"
+  },
+  {
+   "start": 104.86,
+   "end": 122.12,
+   "text": "A tumačenje njihovo zna samo Allah Anđelešanu. Oni koji su dobro u nauku upučeni govore. Mi vjerujemo u njih sve je od gospodara našeg, a samorazumom obdareni svačaju."
+  },
+  {
+   "start": 122.12,
+   "end": 149.16,
+   "text": "I ovo je ajet iz kojeg shvatamo da Kur'an Azimošan kao uputa za bogobojazne i dar za razumne, sam Kur'an i Kerim dijeli ajete na jasne ajete koji su glavnina knjige i po kojima trebamo vjerovati i raditi po njima,"
+  },
+  {
+   "start": 149.16,
+   "end": 176.16,
+   "text": "a zatim kaže da pored jasnih ajeta postoje manji jasni ajeti u kojih trebamo vjerovati bez da ulazimo u njihovo tumačenja jer njihovo tumačenje zna samo Allah dželješanuhu a generalno svi ajeti bilo jasni ili nejasni u Kur'an i Kerimu mi prihvatamo i vjerujemo u njih"
+  },
+  {
+   "start": 176.16,
+   "end": 182.26,
+   "text": "jer su deo objave oduzvišenog Allaha tebareke Lutahara."
+  },
+  {
+   "start": 186.14,
+   "end": 190.0,
+   "text": "Jedne prilike Allaho poslanik Ali Sratu Sran je proučio ovaj ajet"
+  },
+  {
+   "start": 190.0,
+   "end": 195.44,
+   "text": "i upozorio na ponašanje pojedinaca"
+  },
+  {
+   "start": 195.44,
+   "end": 199.96,
+   "text": "koji spornim tekstovima stvaraju razdor i smutnju."
+  },
+  {
+   "start": 201.3,
+   "end": 203.62,
+   "text": "Tako Aisha radi Allaho Anha prenosi"
+  },
+  {
+   "start": 203.62,
+   "end": 207.72,
+   "text": "da je Allaho poslanik Ali Sratu Sran rekao"
+  },
+  {
+   "start": 207.72,
+   "end": 209.94,
+   "text": "kada vidite one koji slijede manje jasne"
+  },
+  {
+   "start": 209.94,
+   "end": 211.12,
+   "text": "ajete iz Kur'ana"
+  },
+  {
+   "start": 211.12,
+   "end": 213.46,
+   "text": "to su oni koji je"
+  },
+  {
+   "start": 213.46,
+   "end": 215.5,
+   "text": "Jalan spomenuo o ovom ajetu"
+  },
+  {
+   "start": 215.5,
+   "end": 216.86,
+   "text": "pa ih se dobro čuvajte"
+  },
+  {
+   "start": 216.86,
+   "end": 220.91,
+   "text": "dobro čuvajte"
+  },
+  {
+   "start": 220.91,
+   "end": 223.79,
+   "text": "jedne pridike pejgabera"
+  },
+  {
+   "start": 223.79,
+   "end": 225.53,
+   "text": "ne je sratu sram kako prenosi"
+  },
+  {
+   "start": 225.53,
+   "end": 226.61,
+   "text": "evo sej del hodri"
+  },
+  {
+   "start": 226.61,
+   "end": 229.71,
+   "text": "hadis je kod"
+  },
+  {
+   "start": 229.71,
+   "end": 231.97,
+   "text": "imama Buharije i imama muslima"
+  },
+  {
+   "start": 231.97,
+   "end": 234.05,
+   "text": "jedne pridike pejgabera"
+  },
+  {
+   "start": 234.05,
+   "end": 235.53,
+   "text": "ne je sratu sram je drago braćo"
+  },
+  {
+   "start": 235.53,
+   "end": 236.95,
+   "text": "dijelio ratni prijen"
+  },
+  {
+   "start": 236.95,
+   "end": 240.04,
+   "text": "ashabima"
+  },
+  {
+   "start": 240.04,
+   "end": 243.04,
+   "text": "pa je bio jedan čovjek koji se zvao"
+  },
+  {
+   "start": 243.04,
+   "end": 245.02,
+   "text": "Zulu Huvairisa"
+  },
+  {
+   "start": 245.02,
+   "end": 249.06,
+   "text": "tako se zvao taj čovjek"
+  },
+  {
+   "start": 249.06,
+   "end": 252.52,
+   "text": "Zulu Huvairisira"
+  },
+  {
+   "start": 252.52,
+   "end": 253.82,
+   "text": "iz plemena"
+  },
+  {
+   "start": 253.82,
+   "end": 255.9,
+   "text": "iz plemena Benuteli"
+  },
+  {
+   "start": 255.9,
+   "end": 258.5,
+   "text": "i obratio se poslaniku"
+  },
+  {
+   "start": 258.5,
+   "end": 259.78,
+   "text": "Aleis Ratosram rečima"
+  },
+  {
+   "start": 259.78,
+   "end": 262.7,
+   "text": "O Mohamede budi pravedan"
+  },
+  {
+   "start": 262.7,
+   "end": 264.48,
+   "text": "pa je"
+  },
+  {
+   "start": 264.48,
+   "end": 265.8,
+   "text": "pjegambar Aleis Ratosram"
+  },
+  {
+   "start": 265.8,
+   "end": 267.68,
+   "text": "se obratio tom čovjeku"
+  },
+  {
+   "start": 267.68,
+   "end": 268.78,
+   "text": "kaže teško tebi"
+  },
+  {
+   "start": 268.78,
+   "end": 271.44,
+   "text": "ako ja nisam pravedan"
+  },
+  {
+   "start": 271.44,
+   "end": 274.44,
+   "text": "koji je onda pravedan"
+  },
+  {
+   "start": 274.44,
+   "end": 276.72,
+   "text": "pa je na kraju"
+  },
+  {
+   "start": 276.72,
+   "end": 278.94,
+   "text": "poslanika lije sratu sram rekao"
+  },
+  {
+   "start": 278.94,
+   "end": 283.76,
+   "text": "pojavit će se"
+  },
+  {
+   "start": 283.76,
+   "end": 286.64,
+   "text": "iz potomstva ovog čovjeka"
+  },
+  {
+   "start": 286.64,
+   "end": 288.46,
+   "text": "iz potomstva"
+  },
+  {
+   "start": 288.46,
+   "end": 290.2,
+   "text": "čovjeka"
+  },
+  {
+   "start": 290.2,
+   "end": 291.1,
+   "text": "koji se zvao"
+  },
+  {
+   "start": 291.1,
+   "end": 294.78,
+   "text": "Zulu Huesira"
+  },
+  {
+   "start": 294.78,
+   "end": 298.07,
+   "text": "potomstvo"
+  },
+  {
+   "start": 298.07,
+   "end": 300.69,
+   "text": "koje će"
+  },
+  {
+   "start": 300.69,
+   "end": 303.85,
+   "text": "učiti"
+  },
+  {
+   "start": 303.85,
+   "end": 304.67,
+   "text": "Kur'an"
+  },
+  {
+   "start": 304.67,
+   "end": 307.83,
+   "text": "ali oni neće prelaziti"
+  },
+  {
+   "start": 307.83,
+   "end": 309.03,
+   "text": "njihova grla."
+  },
+  {
+   "start": 310.71,
+   "end": 311.95,
+   "text": "Kur'an neće prelaziti"
+  },
+  {
+   "start": 311.95,
+   "end": 312.75,
+   "text": "njihova grla."
+  },
+  {
+   "start": 314.31,
+   "end": 315.59,
+   "text": "Kaže, oni će izlaziti"
+  },
+  {
+   "start": 315.59,
+   "end": 317.49,
+   "text": "iz vjere kao što strela"
+  },
+  {
+   "start": 317.49,
+   "end": 318.55,
+   "text": "prolazi kroz ulo."
+  },
+  {
+   "start": 320.37,
+   "end": 321.45,
+   "text": "U drugim hadisima"
+  },
+  {
+   "start": 321.45,
+   "end": 322.89,
+   "text": "poslane Kales Vato Sran"
+  },
+  {
+   "start": 322.89,
+   "end": 325.73,
+   "text": "ističe njihove karakteristike."
+  },
+  {
+   "start": 327.01,
+   "end": 327.71,
+   "text": "Kaže, oni će"
+  },
+  {
+   "start": 327.71,
+   "end": 329.55,
+   "text": "ubijati muslimane,"
+  },
+  {
+   "start": 330.27,
+   "end": 331.93,
+   "text": "a ostavljati nemuslimane."
+  },
+  {
+   "start": 333.23,
+   "end": 333.91,
+   "text": "Biće mladi"
+  },
+  {
+   "start": 333.91,
+   "end": 335.63,
+   "text": "po godinama nerazumni"
+  },
+  {
+   "start": 335.63,
+   "end": 337.87,
+   "text": "i ograničeni u shvatanju."
+  },
+  {
+   "start": 339.79,
+   "end": 340.33,
+   "text": "Govorit će"
+  },
+  {
+   "start": 340.33,
+   "end": 343.55,
+   "text": "riječima koje izgledaju"
+  },
+  {
+   "start": 343.55,
+   "end": 345.77,
+   "text": "istinito, ali se njima želi"
+  },
+  {
+   "start": 345.77,
+   "end": 347.53,
+   "text": "dakle nešto što je"
+  },
+  {
+   "start": 347.53,
+   "end": 349.69,
+   "text": "neispravno. I to govori"
+  },
+  {
+   "start": 349.69,
+   "end": 351.39,
+   "text": "da su ti ljudi"
+  },
+  {
+   "start": 351.39,
+   "end": 353.67,
+   "text": "ljudi koji ne razumiju Allahov govor."
+  },
+  {
+   "start": 354.75,
+   "end": 355.23,
+   "text": "Tako je"
+  },
+  {
+   "start": 355.23,
+   "end": 357.47,
+   "text": "prokomentarisao dakle ovaj hadis"
+  },
+  {
+   "start": 357.47,
+   "end": 359.47,
+   "text": "Iban"
+  },
+  {
+   "start": 359.47,
+   "end": 361.19,
+   "text": "Iban Hadjar al-Azhalani"
+  },
+  {
+   "start": 361.19,
+   "end": 362.53,
+   "text": "u svome el-Fethru."
+  },
+  {
+   "start": 364.6,
+   "end": 367.14,
+   "text": "Kaže to su nerazumni ljudi"
+  },
+  {
+   "start": 367.14,
+   "end": 372.26,
+   "text": "Koji ne razumiju i ne svačaju vjeru na pravi način."
+  },
+  {
+   "start": 373.36,
+   "end": 384.54,
+   "text": "Ja sam, dakle, uzeo za primer nekoliko tačaka da kažemo, oni koji se povode za manji jasnim ajetima istinski žele svutnju."
+  },
+  {
+   "start": 386.7,
+   "end": 394.06,
+   "text": "Najprej da kažemo, Allah za grešanu drabraću ima svoja savršena svojstva i svoja lijepa imena."
+  },
+  {
+   "start": 394.06,
+   "end": 419.29,
+   "text": "Ali njegova svojstva, bez da ih upoređujemo sa drugim stvorenjima, ili da ih negiramo posve, jer su bili ludi koji su govorili o Allahovim svojstvima i onda su ih upoređivali sa svojstvima ludi."
+  },
+  {
+   "start": 419.29,
+   "end": 422.25,
+   "text": "sa svojstvima ljudi."
+  },
+  {
+   "start": 423.49,
+   "end": 425.11,
+   "text": "Allah čuje kao što čovjek čuje."
+  },
+  {
+   "start": 425.23,
+   "end": 426.25,
+   "text": "Tako su oni govorili."
+  },
+  {
+   "start": 430.81,
+   "end": 431.59,
+   "text": "Željni smutnje."
+  },
+  {
+   "start": 431.69,
+   "end": 434.79,
+   "text": "Tako su shvatali ti ljudi koji su željeli smutnju da ubace."
+  },
+  {
+   "start": 436.11,
+   "end": 438.17,
+   "text": "Ali se u Korani ker imu kaže"
+  },
+  {
+   "start": 438.17,
+   "end": 441.15,
+   "text": "Lese ke mitlihi šeji"
+  },
+  {
+   "start": 441.15,
+   "end": 443.39,
+   "text": "Ništa nije slično Allahom."
+  },
+  {
+   "start": 447.5,
+   "end": 449.26,
+   "text": "Wa hua sami'u al-basir"
+  },
+  {
+   "start": 449.26,
+   "end": 452.5,
+   "text": "Ništa nije slično Allahom"
+  },
+  {
+   "start": 452.5,
+   "end": 457.91,
+   "text": "znači negira sličnost sa stvorenjima."
+  },
+  {
+   "start": 458.09,
+   "end": 460.17,
+   "text": "Allah dželešanu"
+  },
+  {
+   "start": 460.17,
+   "end": 462.43,
+   "text": "sam negira slišnost sa stvorenjima"
+  },
+  {
+   "start": 462.43,
+   "end": 464.29,
+   "text": "a onda kaže"
+  },
+  {
+   "start": 464.29,
+   "end": 468.41,
+   "text": "Allah sve čuje i sve vidi"
+  },
+  {
+   "start": 468.41,
+   "end": 470.55,
+   "text": "što potvrđuje"
+  },
+  {
+   "start": 470.55,
+   "end": 472.77,
+   "text": "postojanost njegovih"
+  },
+  {
+   "start": 472.77,
+   "end": 473.51,
+   "text": "svojstava"
+  },
+  {
+   "start": 473.51,
+   "end": 475.79,
+   "text": "u ovom slučaju Allah spominje"
+  },
+  {
+   "start": 475.79,
+   "end": 478.63,
+   "text": "da Allah sve čuje i Allah sve vidi"
+  },
+  {
+   "start": 478.63,
+   "end": 481.68,
+   "text": "i Allah sve vidi"
+  },
+  {
+   "start": 481.68,
+   "end": 483.26,
+   "text": "zato je poslanik Sadala"
+  },
+  {
+   "start": 483.26,
+   "end": 484.88,
+   "text": "ono je sad nam rekao, dragi braćo"
+  },
+  {
+   "start": 484.88,
+   "end": 486.32,
+   "text": "razmišljajte"
+  },
+  {
+   "start": 486.32,
+   "end": 489.08,
+   "text": "o svemu što je Allah stvorio"
+  },
+  {
+   "start": 489.08,
+   "end": 491.74,
+   "text": "a nemojte razmišljati"
+  },
+  {
+   "start": 491.74,
+   "end": 492.34,
+   "text": "u pravcu"
+  },
+  {
+   "start": 492.34,
+   "end": 495.88,
+   "text": "nemojte razmišljati"
+  },
+  {
+   "start": 495.88,
+   "end": 497.1,
+   "text": "u pravcu Allaha"
+  },
+  {
+   "start": 497.1,
+   "end": 498.2,
+   "text": "i stvarati sliku"
+  },
+  {
+   "start": 498.2,
+   "end": 498.9,
+   "text": "o Allahu"
+  },
+  {
+   "start": 498.9,
+   "end": 502.76,
+   "text": "jer mi to ne znamo"
+  },
+  {
+   "start": 502.76,
+   "end": 507.87,
+   "text": "ne znamo"
+  },
+  {
+   "start": 507.87,
+   "end": 510.51,
+   "text": "u hadisima se kaže"
+  },
+  {
+   "start": 510.51,
+   "end": 512.83,
+   "text": "Allah se spušta"
+  },
+  {
+   "start": 512.83,
+   "end": 514.83,
+   "text": "na prvo nebo"
+  },
+  {
+   "start": 514.83,
+   "end": 515.89,
+   "text": "vjerujemo"
+  },
+  {
+   "start": 515.89,
+   "end": 516.61,
+   "text": "kako"
+  },
+  {
+   "start": 516.61,
+   "end": 519.03,
+   "text": "nepoznato za nas"
+  },
+  {
+   "start": 519.03,
+   "end": 522.15,
+   "text": "pitati za to je novotarija"
+  },
+  {
+   "start": 522.15,
+   "end": 525.0,
+   "text": "je novotarija."
+  },
+  {
+   "start": 526.14,
+   "end": 528.34,
+   "text": "Ili Allah se uzdigo iznadarša."
+  },
+  {
+   "start": 528.42,
+   "end": 530.48,
+   "text": "Isto, isto,"
+  },
+  {
+   "start": 530.98,
+   "end": 532.4,
+   "text": "isti propis."
+  },
+  {
+   "start": 532.8,
+   "end": 533.48,
+   "text": "Vjerujemo"
+  },
+  {
+   "start": 533.48,
+   "end": 536.3,
+   "text": "da se Allah uzdigo iznadarša"
+  },
+  {
+   "start": 536.3,
+   "end": 538.26,
+   "text": "kako nepoznato za nas,"
+  },
+  {
+   "start": 539.62,
+   "end": 540.34,
+   "text": "a pitati"
+  },
+  {
+   "start": 540.34,
+   "end": 542.66,
+   "text": "o tome je novotarija."
+  },
+  {
+   "start": 547.64,
+   "end": 547.96,
+   "text": "Kako?"
+  },
+  {
+   "start": 548.4,
+   "end": 550.94,
+   "text": "Ne možemo mi kazati Allah čuje kao mi što čujemo."
+  },
+  {
+   "start": 551.38,
+   "end": 552.76,
+   "text": "Allah vidi kao što mi vidimo."
+  },
+  {
+   "start": 552.76,
+   "end": 553.6,
+   "text": "To je pogrešno."
+  },
+  {
+   "start": 556.73,
+   "end": 558.35,
+   "text": "Zatim rasprava o"
+  },
+  {
+   "start": 558.35,
+   "end": 560.89,
+   "text": "Allahome, Allahome kaderu."
+  },
+  {
+   "start": 561.19,
+   "end": 562.15,
+   "text": "Ta čovjek veruje"
+  },
+  {
+   "start": 562.15,
+   "end": 564.15,
+   "text": "o Allaho kaderu."
+  },
+  {
+   "start": 564.41,
+   "end": 566.05,
+   "text": "Kad je pigamir Alei Isratu Sran"
+  },
+  {
+   "start": 566.05,
+   "end": 567.61,
+   "text": "govorio o imanu,"
+  },
+  {
+   "start": 568.53,
+   "end": 570.31,
+   "text": "kazao, amentu billahi va melaiketi."
+  },
+  {
+   "start": 570.41,
+   "end": 570.93,
+   "text": "Što je iman?"
+  },
+  {
+   "start": 571.07,
+   "end": 572.47,
+   "text": "Amentu billahi va melaiketi"
+  },
+  {
+   "start": 572.47,
+   "end": 573.71,
+   "text": "i va kutubihi va rusulihi"
+  },
+  {
+   "start": 573.71,
+   "end": 574.57,
+   "text": "i va njavme lahire"
+  },
+  {
+   "start": 574.57,
+   "end": 576.25,
+   "text": "i bil kaderi hajrihi va šarrihi"
+  },
+  {
+   "start": 576.25,
+   "end": 577.53,
+   "text": "min Allaha i ta'ala."
+  },
+  {
+   "start": 579.55,
+   "end": 580.19,
+   "text": "To je iman."
+  },
+  {
+   "start": 581.25,
+   "end": 582.17,
+   "text": "Pa je jedne prilike"
+  },
+  {
+   "start": 582.17,
+   "end": 584.31,
+   "text": "se toliko bio razlutio"
+  },
+  {
+   "start": 584.31,
+   "end": 585.75,
+   "text": "poslanika Alei Isratu Sran"
+  },
+  {
+   "start": 585.75,
+   "end": 588.17,
+   "text": "što su ashabi razgovarali"
+  },
+  {
+   "start": 588.17,
+   "end": 589.45,
+   "text": "o lahome kaderu"
+  },
+  {
+   "start": 589.45,
+   "end": 591.83,
+   "text": "ono što je skriveno od nas"
+  },
+  {
+   "start": 591.83,
+   "end": 597.46,
+   "text": "pa su oni"
+  },
+  {
+   "start": 597.46,
+   "end": 600.28,
+   "text": "citirali jednim drugima ajete"
+  },
+  {
+   "start": 600.28,
+   "end": 602.24,
+   "text": "pokušavajući"
+  },
+  {
+   "start": 602.24,
+   "end": 604.42,
+   "text": "jednim ajetima da pobiju"
+  },
+  {
+   "start": 604.42,
+   "end": 605.24,
+   "text": "druge ajete"
+  },
+  {
+   "start": 605.24,
+   "end": 610.04,
+   "text": "taj pegnamber adesrat usram rekao"
+  },
+  {
+   "start": 610.04,
+   "end": 611.14,
+   "text": "da su narodi"
+  },
+  {
+   "start": 611.14,
+   "end": 613.78,
+   "text": "prije vas propali"
+  },
+  {
+   "start": 613.78,
+   "end": 614.74,
+   "text": "zbog"
+  },
+  {
+   "start": 614.74,
+   "end": 616.4,
+   "text": "ovoga"
+  },
+  {
+   "start": 616.4,
+   "end": 620.0,
+   "text": "zbog toga što su udarali"
+  },
+  {
+   "start": 620.0,
+   "end": 621.42,
+   "text": "dakle"
+  },
+  {
+   "start": 621.42,
+   "end": 623.9,
+   "text": "jedne ajete, jedne dokaze"
+  },
+  {
+   "start": 623.9,
+   "end": 625.82,
+   "text": "su koristile protiv"
+  },
+  {
+   "start": 625.82,
+   "end": 633.95,
+   "text": "drugih dokaza. Kaže"
+  },
+  {
+   "start": 633.95,
+   "end": 635.85,
+   "text": "gledajte ono što vam je naređeno"
+  },
+  {
+   "start": 635.85,
+   "end": 638.05,
+   "text": "pa to radite, a što vam je"
+  },
+  {
+   "start": 638.05,
+   "end": 641.57,
+   "text": "zabranjeno, ostavite. Gledajte"
+  },
+  {
+   "start": 641.57,
+   "end": 642.55,
+   "text": "što vam je naređeno."
+  },
+  {
+   "start": 643.95,
+   "end": 645.05,
+   "text": "Nemoj da raspravljamo"
+  },
+  {
+   "start": 645.05,
+   "end": 647.39,
+   "text": "o sudnjem danu, nemoj da"
+  },
+  {
+   "start": 647.39,
+   "end": 649.37,
+   "text": "raspravljamo o skrivenim"
+  },
+  {
+   "start": 649.37,
+   "end": 651.67,
+   "text": "stvarima koje mi ne možemo"
+  },
+  {
+   "start": 651.67,
+   "end": 653.43,
+   "text": "dokućiti, naš razum ne može"
+  },
+  {
+   "start": 653.43,
+   "end": 655.37,
+   "text": "da dokući, a trebamo vjerovati"
+  },
+  {
+   "start": 655.37,
+   "end": 656.53,
+   "text": "jer je od osnove vjere,"
+  },
+  {
+   "start": 658.71,
+   "end": 659.49,
+   "text": "ali trebamo"
+  },
+  {
+   "start": 659.49,
+   "end": 662.17,
+   "text": "trebamo na objavu gledati"
+  },
+  {
+   "start": 662.17,
+   "end": 664.01,
+   "text": "ono što nam je naređeno"
+  },
+  {
+   "start": 664.01,
+   "end": 665.19,
+   "text": "da izvršimo"
+  },
+  {
+   "start": 665.19,
+   "end": 668.13,
+   "text": "i ono što nam se zabranjuje"
+  },
+  {
+   "start": 668.13,
+   "end": 670.25,
+   "text": "da se toga klonimo"
+  },
+  {
+   "start": 670.25,
+   "end": 673.89,
+   "text": "zatim"
+  },
+  {
+   "start": 673.89,
+   "end": 675.65,
+   "text": "sljedeća stvar"
+  },
+  {
+   "start": 675.65,
+   "end": 678.21,
+   "text": "muštrici"
+  },
+  {
+   "start": 678.21,
+   "end": 680.07,
+   "text": "u ono vrijeme"
+  },
+  {
+   "start": 680.07,
+   "end": 682.41,
+   "text": "u vrijeme poslanika"
+  },
+  {
+   "start": 682.41,
+   "end": 684.39,
+   "text": "muštrici su"
+  },
+  {
+   "start": 684.39,
+   "end": 686.43,
+   "text": "govorili"
+  },
+  {
+   "start": 686.43,
+   "end": 687.37,
+   "text": "eto"
+  },
+  {
+   "start": 687.37,
+   "end": 689.55,
+   "text": "da Allah nije hteo"
+  },
+  {
+   "start": 689.55,
+   "end": 692.25,
+   "text": "mi ne bismo bili"
+  },
+  {
+   "start": 692.25,
+   "end": 692.99,
+   "text": "mnogobožci"
+  },
+  {
+   "start": 692.99,
+   "end": 696.15,
+   "text": "mi ne bismo bili mnogobožci"
+  },
+  {
+   "start": 696.15,
+   "end": 698.59,
+   "text": "a ne bi bili mnogobožci i naši očevi"
+  },
+  {
+   "start": 698.59,
+   "end": 703.45,
+   "text": "i oni su pogrešno razumeli"
+  },
+  {
+   "start": 703.45,
+   "end": 705.61,
+   "text": "Allahovu"
+  },
+  {
+   "start": 705.61,
+   "end": 708.01,
+   "text": "i radat Allahovu vodu"
+  },
+  {
+   "start": 708.01,
+   "end": 711.37,
+   "text": "pa je"
+  },
+  {
+   "start": 711.37,
+   "end": 712.29,
+   "text": "dakle"
+  },
+  {
+   "start": 712.29,
+   "end": 716.31,
+   "text": "u tešavih ajet izvučen iz konteksta"
+  },
+  {
+   "start": 716.31,
+   "end": 717.73,
+   "text": "gdje su mnogobožci koristili"
+  },
+  {
+   "start": 717.73,
+   "end": 718.65,
+   "text": "Allahovu vodu"
+  },
+  {
+   "start": 718.65,
+   "end": 721.27,
+   "text": "kao izgovor za grijehe"
+  },
+  {
+   "start": 721.27,
+   "end": 733.93,
+   "text": "Ako nas Allah nije sprečio, dakle, u našem vjerovanju u idole, znači da je bio Allah zadovoljan sa našim nevjerstvom."
+  },
+  {
+   "start": 733.93,
+   "end": 752.75,
+   "text": "A onda sledi drugi ajet koji kaže, ali on, ali Allah nije zadovoljan nevjerstvom svojih robova, nevjerstvom svojih robova, kao odgovor na takvo jedno razmišljanje."
+  },
+  {
+   "start": 752.75,
+   "end": 764.57,
+   "text": "Pa je pigamber ali sratu sran rekao, radite, jer svakome će biti odakšano ono zašto je stvoren."
+  },
+  {
+   "start": 765.31,
+   "end": 783.41,
+   "text": "Ovaj hades je vezan za slobodnu vođu, ali isto tako ovaj hades je veoma važan i ako je sve predodređeno, čovjeku je naređeno da djeluje, bira i da se trudi."
+  },
+  {
+   "start": 783.41,
+   "end": 803.75,
+   "text": "Zatim, jedne prilike u vrijeme Hazreti Alije i Hazreti Moalije, znate onaj spor koji se bio dogodio u to vrijeme, pa su se pojavili grupa Haridžije koji su bili protiv Hazreti Alije."
+  },
+  {
+   "start": 803.75,
+   "end": 807.64,
+   "text": "koji su ga protekvirili"
+  },
+  {
+   "start": 807.64,
+   "end": 809.1,
+   "text": "ili nazvali ga"
+  },
+  {
+   "start": 809.1,
+   "end": 811.94,
+   "text": "nemuslimanom"
+  },
+  {
+   "start": 811.94,
+   "end": 814.18,
+   "text": "nevjernikom"
+  },
+  {
+   "start": 814.18,
+   "end": 815.26,
+   "text": "itd. itd."
+  },
+  {
+   "start": 815.26,
+   "end": 815.94,
+   "text": "Zašto?"
+  },
+  {
+   "start": 816.68,
+   "end": 817.94,
+   "text": "Jer su oni rekli"
+  },
+  {
+   "start": 817.94,
+   "end": 820.98,
+   "text": "na osnovu jednog samoajeta"
+  },
+  {
+   "start": 820.98,
+   "end": 823.9,
+   "text": "doneli su zaključak"
+  },
+  {
+   "start": 823.9,
+   "end": 827.12,
+   "text": "i rekli sud pripada"
+  },
+  {
+   "start": 827.12,
+   "end": 827.76,
+   "text": "Allahu"
+  },
+  {
+   "start": 827.76,
+   "end": 830.48,
+   "text": "svaki spor koji ljudi imaju"
+  },
+  {
+   "start": 830.48,
+   "end": 832.22,
+   "text": "kaže to će"
+  },
+  {
+   "start": 832.22,
+   "end": 835.18,
+   "text": "dakle presuditi"
+  },
+  {
+   "start": 835.18,
+   "end": 837.3,
+   "text": "Allah Anđalešanu. I niko nema pravo"
+  },
+  {
+   "start": 837.3,
+   "end": 838.52,
+   "text": "da drugačije sudi"
+  },
+  {
+   "start": 838.52,
+   "end": 841.46,
+   "text": "ako sudite po onome"
+  },
+  {
+   "start": 841.46,
+   "end": 842.98,
+   "text": "što nije objavljeno"
+  },
+  {
+   "start": 842.98,
+   "end": 844.82,
+   "text": "od Allaha, znači da ste"
+  },
+  {
+   "start": 844.82,
+   "end": 847.3,
+   "text": "nevjornici. Tako su oni razumijeli"
+  },
+  {
+   "start": 847.3,
+   "end": 848.96,
+   "text": "tu stvar. Međutim,"
+  },
+  {
+   "start": 849.82,
+   "end": 850.4,
+   "text": "Međutim,"
+  },
+  {
+   "start": 851.62,
+   "end": 852.5,
+   "text": "Allah Anđalešanu"
+  },
+  {
+   "start": 852.5,
+   "end": 858.1,
+   "text": "je na ove riječi"
+  },
+  {
+   "start": 858.1,
+   "end": 859.54,
+   "text": "Hazat Jalija radi Allah"
+  },
+  {
+   "start": 859.54,
+   "end": 860.72,
+   "text": "onhu je kazao"
+  },
+  {
+   "start": 860.72,
+   "end": 863.56,
+   "text": "to je riječ istine"
+  },
+  {
+   "start": 863.56,
+   "end": 864.84,
+   "text": "kojim se želi neistina."
+  },
+  {
+   "start": 867.36,
+   "end": 868.9,
+   "text": "Da sud pripada Allahu tačno"
+  },
+  {
+   "start": 868.9,
+   "end": 870.86,
+   "text": "Jer je ajetu pitanje."
+  },
+  {
+   "start": 871.36,
+   "end": 874.22,
+   "text": "Ali ovim ajetom oni su željeli neistinu."
+  },
+  {
+   "start": 875.5,
+   "end": 876.8,
+   "text": "Neistinu. Zašto?"
+  },
+  {
+   "start": 877.94,
+   "end": 879.0,
+   "text": "Gdje je njihova greška?"
+  },
+  {
+   "start": 880.02,
+   "end": 888.32,
+   "text": "Da je alađam na šanohu, istovremeno potvrđuje mogućnost ljudskog posredovanja i arbitraže."
+  },
+  {
+   "start": 889.74,
+   "end": 897.1,
+   "text": "Kaže se u Purani Kerimu, pošalite jednog pomiriteva iz njegove porodice i jednog pomiriteva iz njene porodice."
+  },
+  {
+   "start": 897.1,
+   "end": 913.84,
+   "text": "Što je konačni dokaz da čovjek, da mu je Allah Žalšanu dozvolio čovjeku da u određenim pitanjima bude sudja, pomiritelj i tako dalje."
+  },
+  {
+   "start": 915.88,
+   "end": 924.8,
+   "text": "Pa je, pekambara ne je sratosram rekao, kada čovjek kaže svome bratu o kafire, to se vraća jednom od njih dvojce."
+  },
+  {
+   "start": 924.8,
+   "end": 949.37,
+   "text": "Ta riječ, ona ide tamo u vano, pa onda nađe mjesto kod koga završi. Zato je, trebamo biti uprezni, nemojmo govoriti muslimanu, ti si nevjernik. Nemojmo te teške riječi i teške kategorije i kvalifikacije, dakle, govoriti ljudima."
+  },
+  {
+   "start": 949.37,
+   "end": 958.07,
+   "text": "Jer ta riječ kruži između toga koga ti nazivaš kafirom i tebe koji tako postupaš."
+  },
+  {
+   "start": 959.49,
+   "end": 961.35,
+   "text": "A možda da završi i kod tebe."
+  },
+  {
+   "start": 963.43,
+   "end": 966.19,
+   "text": "Zato trebamo biti oprezni."
+  },
+  {
+   "start": 966.75,
+   "end": 983.4,
+   "text": "Zatim, u zadnje vrijeme, draga braćo, pojavila se jedna sekta, a ona se zove Kur'anije."
+  },
+  {
+   "start": 983.4,
+   "end": 1005.71,
+   "text": "Kur'anije su sekta koji negiraju sunet poslanika i ne prihvataju ga kao izvor u širijat. Bez obzira što mnogi kur'anski ajeti govore o tome da trebamo biti pokorni Allahu i poslaniku."
+  },
+  {
+   "start": 1005.71,
+   "end": 1010.37,
+   "text": "u jednom kuranskom ajetu"
+  },
+  {
+   "start": 1010.37,
+   "end": 1011.97,
+   "text": "Allah Đalešanu kaže"
+  },
+  {
+   "start": 1011.97,
+   "end": 1016.23,
+   "text": "a tebi objavljujemo opomenu"
+  },
+  {
+   "start": 1016.23,
+   "end": 1018.13,
+   "text": "da bi ljudima"
+  },
+  {
+   "start": 1018.13,
+   "end": 1020.45,
+   "text": "objasnio ono što im je objavljeno"
+  },
+  {
+   "start": 1020.45,
+   "end": 1021.75,
+   "text": "pa je svrha"
+  },
+  {
+   "start": 1021.75,
+   "end": 1023.07,
+   "text": "poslanika"
+  },
+  {
+   "start": 1023.07,
+   "end": 1026.41,
+   "text": "nije samo da doslovce ovako"
+  },
+  {
+   "start": 1026.41,
+   "end": 1027.45,
+   "text": "prenese"
+  },
+  {
+   "start": 1027.45,
+   "end": 1029.63,
+   "text": "u jesičkom smislu da prenese govor"
+  },
+  {
+   "start": 1029.63,
+   "end": 1029.91,
+   "text": "Allah"
+  },
+  {
+   "start": 1029.91,
+   "end": 1032.75,
+   "text": "ne"
+  },
+  {
+   "start": 1032.75,
+   "end": 1035.61,
+   "text": "nego isto vremeno"
+  },
+  {
+   "start": 1035.61,
+   "end": 1037.71,
+   "text": "da objasni ono što je Amlađer Nešanu"
+  },
+  {
+   "start": 1037.71,
+   "end": 1043.0,
+   "text": "objavio. Kako znamo?"
+  },
+  {
+   "start": 1043.86,
+   "end": 1044.74,
+   "text": "Da je poslanika"
+  },
+  {
+   "start": 1044.74,
+   "end": 1046.22,
+   "text": "desu ratu osram objasnio"
+  },
+  {
+   "start": 1046.22,
+   "end": 1048.48,
+   "text": "Koran. Evo, nekoliko primjera."
+  },
+  {
+   "start": 1048.94,
+   "end": 1050.56,
+   "text": "Koran naređuje klanjanje"
+  },
+  {
+   "start": 1050.56,
+   "end": 1054.53,
+   "text": "namaza, ali sumet"
+  },
+  {
+   "start": 1054.53,
+   "end": 1056.31,
+   "text": "objašnjava na koji način"
+  },
+  {
+   "start": 1056.31,
+   "end": 1058.49,
+   "text": "u Korane ker imo nema"
+  },
+  {
+   "start": 1058.49,
+   "end": 1060.53,
+   "text": "od koliko"
+  },
+  {
+   "start": 1060.53,
+   "end": 1062.01,
+   "text": "rekata se sastoji jedan"
+  },
+  {
+   "start": 1062.01,
+   "end": 1064.75,
+   "text": "namaz, kada ga trebamo klanjati,"
+  },
+  {
+   "start": 1065.13,
+   "end": 1066.31,
+   "text": "kada trebamo završiti,"
+  },
+  {
+   "start": 1066.67,
+   "end": 1068.11,
+   "text": "kada trebamo izaći džamije,"
+  },
+  {
+   "start": 1068.11,
+   "end": 1070.41,
+   "text": "i tako dalje, i tako dalje, te pojedinosti"
+  },
+  {
+   "start": 1070.41,
+   "end": 1072.45,
+   "text": "nema u Kur'an i Kerimu."
+  },
+  {
+   "start": 1072.71,
+   "end": 1074.81,
+   "text": "Gde to ima? To ima u sumretu"
+  },
+  {
+   "start": 1074.81,
+   "end": 1076.95,
+   "text": "poslanika alaih sallam. Kada je poslanik"
+  },
+  {
+   "start": 1076.95,
+   "end": 1078.23,
+   "text": "alaih sallam rekao"
+  },
+  {
+   "start": 1078.23,
+   "end": 1080.87,
+   "text": "na riječi Allaha ekrimu sallam"
+  },
+  {
+   "start": 1080.87,
+   "end": 1082.85,
+   "text": "klanjajte namaz, onda je poslanik"
+  },
+  {
+   "start": 1082.85,
+   "end": 1084.59,
+   "text": "alaih sallam rekao"
+  },
+  {
+   "start": 1084.59,
+   "end": 1086.53,
+   "text": "sallu kemaraitu moniu salli"
+  },
+  {
+   "start": 1086.53,
+   "end": 1088.59,
+   "text": "i klanjajte onako kako mene vidite da klanjam."
+  },
+  {
+   "start": 1090.47,
+   "end": 1092.01,
+   "text": "Ili kada je u pitanje hađ"
+  },
+  {
+   "start": 1092.01,
+   "end": 1094.05,
+   "text": "hađ je"
+  },
+  {
+   "start": 1094.05,
+   "end": 1095.55,
+   "text": "kao peta islamska dužnost"
+  },
+  {
+   "start": 1095.55,
+   "end": 1098.09,
+   "text": "dužnicu Allaha radi obaviti oni koji su"
+  },
+  {
+   "start": 1098.09,
+   "end": 1100.11,
+   "text": "u mogućnosti ovako, ovako, ovako to stoji"
+  },
+  {
+   "start": 1100.11,
+   "end": 1105.89,
+   "text": "u Koran i Kerimu, ali detaljni propisi hađa nisu izneseni"
+  },
+  {
+   "start": 1105.89,
+   "end": 1111.71,
+   "text": "u Koran i Kerimu. Ne govori se o ihramu, ne govori se o tavafu,"
+  },
+  {
+   "start": 1111.77,
+   "end": 1117.07,
+   "text": "ne govori se o muzdelifi, o mini i drugim detaljima hađa"
+  },
+  {
+   "start": 1117.07,
+   "end": 1122.65,
+   "text": "detaljno se ne govori. Možda u načelu nešto se spominje"
+  },
+  {
+   "start": 1122.65,
+   "end": 1128.51,
+   "text": "sa famerova i tako dale, ali ko objašnjava propise hađa"
+  },
+  {
+   "start": 1128.51,
+   "end": 1141.63,
+   "text": "I kaže uzmite propise hađa od mene, jer možda sljedeće godine, to je govorio za vrijeme oprosno hađa, jer kaže posle toga ne znam da li ću biti u mogućnosti da obavim hađa."
+  },
+  {
+   "start": 1141.63,
+   "end": 1145.27,
+   "text": "zato je rekao uzmite propise hađa od mene"
+  },
+  {
+   "start": 1145.27,
+   "end": 1148.73,
+   "text": "pa je to dokaz"
+  },
+  {
+   "start": 1148.73,
+   "end": 1149.91,
+   "text": "da je poslanika"
+  },
+  {
+   "start": 1149.91,
+   "end": 1153.19,
+   "text": "i praktično objasnio"
+  },
+  {
+   "start": 1153.19,
+   "end": 1153.83,
+   "text": "propise"
+  },
+  {
+   "start": 1153.83,
+   "end": 1156.47,
+   "text": "propise islama"
+  },
+  {
+   "start": 1156.47,
+   "end": 1158.87,
+   "text": "kako namaza, tako zekata"
+  },
+  {
+   "start": 1158.87,
+   "end": 1160.71,
+   "text": "tako hađa i drugih propisa"
+  },
+  {
+   "start": 1160.71,
+   "end": 1162.73,
+   "text": "koji se nalaze u samom"
+  },
+  {
+   "start": 1162.73,
+   "end": 1164.61,
+   "text": "u samom korani kerimu"
+  },
+  {
+   "start": 1164.61,
+   "end": 1167.15,
+   "text": "i opet kažemo"
+  },
+  {
+   "start": 1167.15,
+   "end": 1168.31,
+   "text": "da je mutešabi"
+  },
+  {
+   "start": 1168.31,
+   "end": 1170.43,
+   "text": "ajeti su ajeti od Allah"
+  },
+  {
+   "start": 1170.43,
+   "end": 1172.79,
+   "text": "vjerujemo u njih"
+  },
+  {
+   "start": 1172.79,
+   "end": 1174.39,
+   "text": "ne zalazimo u njihov"
+  },
+  {
+   "start": 1174.39,
+   "end": 1175.31,
+   "text": "u njihov"
+  },
+  {
+   "start": 1175.31,
+   "end": 1178.63,
+   "text": "zaključak, jer o to ne samo zna"
+  },
+  {
+   "start": 1178.63,
+   "end": 1179.79,
+   "text": "Allah Želešanohu,"
+  },
+  {
+   "start": 1181.17,
+   "end": 1181.93,
+   "text": "a onda je"
+  },
+  {
+   "start": 1181.93,
+   "end": 1184.27,
+   "text": "jedan od prethodnih"
+  },
+  {
+   "start": 1184.27,
+   "end": 1186.31,
+   "text": "imama govorio"
+  },
+  {
+   "start": 1186.31,
+   "end": 1188.31,
+   "text": "ako budemo vraćali"
+  },
+  {
+   "start": 1188.31,
+   "end": 1190.35,
+   "text": "nejasni, a jete jasnim, a jete ima"
+  },
+  {
+   "start": 1190.35,
+   "end": 1192.17,
+   "text": "znak je da smo na pravome putu."
+  },
+  {
+   "start": 1193.99,
+   "end": 1194.53,
+   "text": "Znak je"
+  },
+  {
+   "start": 1194.53,
+   "end": 1195.41,
+   "text": "da smo"
+  },
+  {
+   "start": 1195.41,
+   "end": 1198.27,
+   "text": "na pravome putu."
+  },
+  {
+   "start": 1198.27,
+   "end": 1200.17,
+   "text": "Zato molim Allah Želešanohu"
+  },
+  {
+   "start": 1200.17,
+   "end": 1201.77,
+   "text": "da nam Allah Želešanohu"
+  },
+  {
+   "start": 1201.77,
+   "end": 1218.19,
+   "text": "Dakle, pomogne da slijedimo jasne ajete, da vjerujemo u manje jasne ajete i da ne stvaramo smutnju, dakle, manje jasnim ajetima za koje samo Allah Želešanu ima znanje o tome. Neka nas Allah Želešanu uputi na prajbu."
+  },
+  {
+   "start": 1218.19,
+   "end": 1230.54,
+   "text": "Alhamdulillah wa saratu wassalam"
+  },
+  {
+   "start": 1230.54,
+   "end": 1232.94,
+   "text": "Ala Rasulina Muhammedin sallallahu alaihi wassalam"
+  },
+  {
+   "start": 1232.94,
+   "end": 1234.66,
+   "text": "Drago bračno"
+  },
+  {
+   "start": 1234.66,
+   "end": 1238.34,
+   "text": "I jasnija je ti ponekad"
+  },
+  {
+   "start": 1238.34,
+   "end": 1241.06,
+   "text": "Mogu biti da se svate pogrešno"
+  },
+  {
+   "start": 1241.06,
+   "end": 1243.91,
+   "text": "Pogrešno"
+  },
+  {
+   "start": 1243.91,
+   "end": 1246.73,
+   "text": "Kao primer"
+  },
+  {
+   "start": 1246.73,
+   "end": 1249.55,
+   "text": "U Kur'ani kerimu se drago bračno govori"
+  },
+  {
+   "start": 1249.55,
+   "end": 1252.81,
+   "text": "Da je Ibrahima alaih sratu sram"
+  },
+  {
+   "start": 1252.81,
+   "end": 1255.65,
+   "text": "Obratio se Allahu tebarek vata'ale"
+  },
+  {
+   "start": 1255.65,
+   "end": 1256.65,
+   "text": "I rekao"
+  },
+  {
+   "start": 1256.65,
+   "end": 1264.91,
+   "text": "kako ti o Bože oživljavaš mrtve"
+  },
+  {
+   "start": 1264.91,
+   "end": 1267.79,
+   "text": "od ovog pitanja čovjek može da shvati"
+  },
+  {
+   "start": 1267.79,
+   "end": 1270.77,
+   "text": "da je Ibrahima Nezratu Oslom nije vjeravo u proživljenje"
+  },
+  {
+   "start": 1270.77,
+   "end": 1274.81,
+   "text": "neko će tako shvatiti"
+  },
+  {
+   "start": 1274.81,
+   "end": 1278.87,
+   "text": "međutim nije to pitanje"
+  },
+  {
+   "start": 1278.87,
+   "end": 1280.53,
+   "text": "dakle"
+  },
+  {
+   "start": 1280.53,
+   "end": 1283.85,
+   "text": "da je Ibrahima Nezratu Oslom"
+  },
+  {
+   "start": 1283.85,
+   "end": 1285.11,
+   "text": "tim pitanjem želio"
+  },
+  {
+   "start": 1285.11,
+   "end": 1286.85,
+   "text": "dakle da"
+  },
+  {
+   "start": 1286.85,
+   "end": 1289.25,
+   "text": "da ne vjeruje u Allaha"
+  },
+  {
+   "start": 1289.25,
+   "end": 1291.15,
+   "text": "te barek vatana. To nije pitanje"
+  },
+  {
+   "start": 1291.15,
+   "end": 1293.21,
+   "text": "nevjerovanje u Allah te barek vatana."
+  },
+  {
+   "start": 1293.37,
+   "end": 1293.95,
+   "text": "Nego kaže"
+  },
+  {
+   "start": 1293.95,
+   "end": 1297.55,
+   "text": "Evalan tu'min, zar ti ne vjeruješ?"
+  },
+  {
+   "start": 1298.65,
+   "end": 1299.59,
+   "text": "Kale, bena."
+  },
+  {
+   "start": 1300.17,
+   "end": 1301.35,
+   "text": "Kaže, svakako vjerujem."
+  },
+  {
+   "start": 1301.59,
+   "end": 1303.53,
+   "text": "Walakin li jatme in ne kalbi."
+  },
+  {
+   "start": 1304.61,
+   "end": 1305.61,
+   "text": "Ali želim"
+  },
+  {
+   "start": 1305.61,
+   "end": 1306.99,
+   "text": "da mi se srce smiri."
+  },
+  {
+   "start": 1307.73,
+   "end": 1309.25,
+   "text": "Pa je poruka"
+  },
+  {
+   "start": 1309.25,
+   "end": 1310.89,
+   "text": "ovoga ajeta da je"
+  },
+  {
+   "start": 1310.89,
+   "end": 1313.15,
+   "text": "Ibrajima Nesla tu sram tražio"
+  },
+  {
+   "start": 1313.15,
+   "end": 1315.15,
+   "text": "kako Allah oživljava mrtve"
+  },
+  {
+   "start": 1315.15,
+   "end": 1317.17,
+   "text": "s ciljem da njegovo srce bude smireno."
+  },
+  {
+   "start": 1317.17,
+   "end": 1320.37,
+   "text": "A ne da on nije vjeruvao u projebljenje."
+  },
+  {
+   "start": 1320.65,
+   "end": 1323.91,
+   "text": "Nekana sallan za lishanuhu si u nas u puti na praegud."
+  }
+ ]
+}

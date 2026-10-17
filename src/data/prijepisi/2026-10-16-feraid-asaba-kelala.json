@@ -1,0 +1,927 @@
+{
+ "id": "2026-10-16-feraid-asaba-kelala",
+ "model": "whisper large-v3-turbo",
+ "language": "bs",
+ "segments": [
+  {
+   "start": 0.94,
+   "end": 3.46,
+   "text": "الحمد لله رب العالمين"
+  },
+  {
+   "start": 3.46,
+   "end": 10.3,
+   "text": "نستعينه ونستغفره ونسأله الكرامة فيما بعد الموت لنا"
+  },
+  {
+   "start": 10.3,
+   "end": 15.64,
+   "text": "ونعوذ بالله إن شرور ينفسنا ومن سيئات أعمالنا"
+  },
+  {
+   "start": 15.64,
+   "end": 21.42,
+   "text": "من يهبه الله فلا مضل له ومن يضلل فلا هادي له"
+  },
+  {
+   "start": 21.42,
+   "end": 26.2,
+   "text": "وأشهد أن لا إله إلا الله وحده لا شريك له"
+  },
+  {
+   "start": 26.2,
+   "end": 30.2,
+   "text": "وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ"
+  },
+  {
+   "start": 30.8,
+   "end": 34.9,
+   "text": "وَأَرْسَلَهُ اللَّهُ تَعَالَى بِالْحَقِّ بَشِيرًا وَنَذِيرًا"
+  },
+  {
+   "start": 34.9,
+   "end": 39.5,
+   "text": "لِيُنْذِرَ مَنْ كَانَ حَيًّا وَيْحِبْقَ الْقَوْلُ عَلَى الْكَافِرِينَ"
+  },
+  {
+   "start": 39.5,
+   "end": 42.68,
+   "text": "أعوذ بالله من الشيطان الرجيم"
+  },
+  {
+   "start": 42.68,
+   "end": 44.4,
+   "text": "بسم الله الرحمن الرحيم"
+  },
+  {
+   "start": 44.4,
+   "end": 49.66,
+   "text": "للرجال نصيب مما ترك الوالدان والأقربون"
+  },
+  {
+   "start": 49.66,
+   "end": 56.42,
+   "text": "wa linnisai nasibu mima terek alwalidani wal akrabun"
+  },
+  {
+   "start": 56.42,
+   "end": 61.28,
+   "text": "mima qalla minh aukathur nasiban mafroda"
+  },
+  {
+   "start": 61.28,
+   "end": 62.94,
+   "text": "sadaq Allahun adzim"
+  },
+  {
+   "start": 62.94,
+   "end": 67.52,
+   "text": "za hvala pripada Allahu tabaraka wa ta'ala"
+  },
+  {
+   "start": 67.52,
+   "end": 69.06,
+   "text": "gospodaru svijetava"
+  },
+  {
+   "start": 69.06,
+   "end": 73.06,
+   "text": "neksunashi salavati salami ukućanina Mohamada"
+  },
+  {
+   "start": 73.06,
+   "end": 74.68,
+   "text": "sallallahu alihi wa sallam"
+  },
+  {
+   "start": 74.68,
+   "end": 83.96,
+   "text": "Drago braćo, tema današnje hudbe jeste Allahovi propisi vezano o nasledstvu."
+  },
+  {
+   "start": 85.9,
+   "end": 94.74,
+   "text": "Drago braćo, živimo u vrijemenu kada su materijalne vrijednosti postale mjerilo svega."
+  },
+  {
+   "start": 94.74,
+   "end": 113.08,
+   "text": "A žena za Dunjalučkim bogatstvom počeo je da muti mozak i kvari bratske odnose, posebno u porodici Ajšire."
+  },
+  {
+   "start": 113.08,
+   "end": 140.9,
+   "text": "Svjedoci smo da nakon smrti roditelja naše kuće, koje su bile dom, gdje su dijelili istu prostodnju, istu kuću, ti isti naslednici, nakon smrti roditelja naše kuće, drago braćo, su postale sudnice."
+  },
+  {
+   "start": 140.9,
+   "end": 171.58,
+   "text": "A braća su postali neprijatelji međusobno i to sve zbog toga što to matrijalno dobro koje ostavlja iza sebe ne dijeli se na jedan način koji je određen od strane Allaha tabarake vata'ala, nego se to čini na jedan pogrešan način."
+  },
+  {
+   "start": 172.28,
+   "end": 184.26,
+   "text": "Uzvišeni Allah Zalašanuhu nije ostavio čovjeku da im ne tak dijele po svojim strastima, po svojim želama, po svojim čefovima."
+  },
+  {
+   "start": 184.96,
+   "end": 192.16,
+   "text": "Allah Zalašanuhu je odredio koliko kome što pripada."
+  },
+  {
+   "start": 192.16,
+   "end": 213.12,
+   "text": "A u Korani kerimu se kaže moškarcima pripada dio od onoga što ostave roditelji i rođaci i ženama pripada dio od onoga što ostave roditelji i rođaci, bilo da je to malo ili mnogo, to je određeni dio."
+  },
+  {
+   "start": 213.12,
+   "end": 228.68,
+   "text": "Međutim, islamski zakon šerijat je uspostavio pravila. Prije nego što se pristupi podjeli nasledstva, islam nalaže da se izvrše tri stvari."
+  },
+  {
+   "start": 228.68,
+   "end": 233.54,
+   "text": "tri stvari da se izvrše"
+  },
+  {
+   "start": 233.54,
+   "end": 234.94,
+   "text": "kada je u pitanje"
+  },
+  {
+   "start": 234.94,
+   "end": 237.36,
+   "text": "dakle, umrla osoba."
+  },
+  {
+   "start": 238.26,
+   "end": 239.74,
+   "text": "A to su troškovi dženaze,"
+  },
+  {
+   "start": 240.82,
+   "end": 242.1,
+   "text": "vraćanje svih dugova,"
+  },
+  {
+   "start": 242.28,
+   "end": 243.98,
+   "text": "jer je poslanik Aleji srato sram,"
+  },
+  {
+   "start": 244.92,
+   "end": 246.08,
+   "text": "nije želio da klanja"
+  },
+  {
+   "start": 246.08,
+   "end": 247.88,
+   "text": "dužniku dženaze,"
+  },
+  {
+   "start": 248.22,
+   "end": 251.86,
+   "text": "dok se njegov dug ne namiri."
+  },
+  {
+   "start": 253.32,
+   "end": 254.68,
+   "text": "Ispunjenje oporuke."
+  },
+  {
+   "start": 258.14,
+   "end": 260.78,
+   "text": "I to sva tri uslova"
+  },
+  {
+   "start": 260.78,
+   "end": 262.34,
+   "text": "dakle,"
+  },
+  {
+   "start": 262.34,
+   "end": 263.58,
+   "text": "ne smiju da pređu"
+  },
+  {
+   "start": 263.58,
+   "end": 266.22,
+   "text": "od jedne trećine"
+  },
+  {
+   "start": 266.22,
+   "end": 267.36,
+   "text": "od ukupne imovine"
+  },
+  {
+   "start": 267.36,
+   "end": 269.9,
+   "text": "ili da se"
+  },
+  {
+   "start": 269.9,
+   "end": 272.3,
+   "text": "ne načini neka"
+  },
+  {
+   "start": 272.3,
+   "end": 272.98,
+   "text": "nepravda"
+  },
+  {
+   "start": 272.98,
+   "end": 275.44,
+   "text": "zakonskim naslednicima"
+  },
+  {
+   "start": 275.44,
+   "end": 277.64,
+   "text": "kaže Allah"
+  },
+  {
+   "start": 277.64,
+   "end": 279.54,
+   "text": "Đerlešanu nakon oporuke"
+  },
+  {
+   "start": 279.54,
+   "end": 281.34,
+   "text": "koju je oporučuje ili duga"
+  },
+  {
+   "start": 281.34,
+   "end": 283.82,
+   "text": "tada se pristupi"
+  },
+  {
+   "start": 283.82,
+   "end": 285.96,
+   "text": "dakle udjelivanje"
+  },
+  {
+   "start": 285.96,
+   "end": 287.56,
+   "text": "udjelivanje imetka"
+  },
+  {
+   "start": 287.56,
+   "end": 289.56,
+   "text": "koji je ostavio"
+  },
+  {
+   "start": 289.56,
+   "end": 293.56,
+   "text": "međutim jedna nepravda"
+  },
+  {
+   "start": 293.56,
+   "end": 295.68,
+   "text": "se vrši kada je u pitanje posebno"
+  },
+  {
+   "start": 295.68,
+   "end": 297.08,
+   "text": "žensko djete."
+  },
+  {
+   "start": 299.36,
+   "end": 300.08,
+   "text": "Žensko djete."
+  },
+  {
+   "start": 300.98,
+   "end": 302.7,
+   "text": "U Korani kerimu se kaže"
+  },
+  {
+   "start": 302.7,
+   "end": 305.0,
+   "text": "Allah vam naređuje"
+  },
+  {
+   "start": 305.0,
+   "end": 306.96,
+   "text": "da od djece"
+  },
+  {
+   "start": 306.96,
+   "end": 308.88,
+   "text": "vašem muškom pripadne toliko koliko"
+  },
+  {
+   "start": 308.88,
+   "end": 309.78,
+   "text": "dvema ženskama."
+  },
+  {
+   "start": 311.52,
+   "end": 312.68,
+   "text": "A najveći greh je"
+  },
+  {
+   "start": 312.68,
+   "end": 313.88,
+   "text": "dakle"
+  },
+  {
+   "start": 313.88,
+   "end": 316.94,
+   "text": "po tome što se žensko djete"
+  },
+  {
+   "start": 316.94,
+   "end": 318.98,
+   "text": "isključuje iz nasledstva."
+  },
+  {
+   "start": 321.78,
+   "end": 322.26,
+   "text": "Kod nas"
+  },
+  {
+   "start": 322.26,
+   "end": 324.76,
+   "text": "se isključuje"
+  },
+  {
+   "start": 324.76,
+   "end": 327.06,
+   "text": "Čerka, sestra"
+  },
+  {
+   "start": 327.06,
+   "end": 329.08,
+   "text": "I tako dalje"
+  },
+  {
+   "start": 329.08,
+   "end": 332.26,
+   "text": "To je velika nepravda"
+  },
+  {
+   "start": 332.26,
+   "end": 334.04,
+   "text": "Dakle, prema njima"
+  },
+  {
+   "start": 334.04,
+   "end": 337.24,
+   "text": "Zato je Allah"
+  },
+  {
+   "start": 337.24,
+   "end": 340.94,
+   "text": "Dakle, u Koranike"
+  },
+  {
+   "start": 340.94,
+   "end": 341.9,
+   "text": "Mimo se spominju"
+  },
+  {
+   "start": 341.9,
+   "end": 343.8,
+   "text": "Tri termina"
+  },
+  {
+   "start": 343.8,
+   "end": 345.4,
+   "text": "Koji govore o"
+  },
+  {
+   "start": 345.4,
+   "end": 347.24,
+   "text": "Allahovim propisima"
+  },
+  {
+   "start": 347.24,
+   "end": 349.56,
+   "text": "Kada je u pitanje nasledno pravo"
+  },
+  {
+   "start": 349.56,
+   "end": 352.06,
+   "text": "Jedan termin je"
+  },
+  {
+   "start": 352.06,
+   "end": 353.9,
+   "text": "Farait, a farait znači"
+  },
+  {
+   "start": 353.9,
+   "end": 355.9,
+   "text": "Naslednici"
+  },
+  {
+   "start": 355.9,
+   "end": 357.48,
+   "text": "kojima je Alman Đerlešanu"
+  },
+  {
+   "start": 357.48,
+   "end": 360.12,
+   "text": "odredio određen dio imovine."
+  },
+  {
+   "start": 361.96,
+   "end": 363.62,
+   "text": "Onda ima, a dakle,"
+  },
+  {
+   "start": 364.28,
+   "end": 365.72,
+   "text": "drugi termin je asaba,"
+  },
+  {
+   "start": 365.88,
+   "end": 367.92,
+   "text": "to su naslednici koji"
+  },
+  {
+   "start": 367.92,
+   "end": 371.2,
+   "text": "uzimaju"
+  },
+  {
+   "start": 371.2,
+   "end": 373.12,
+   "text": "od imetka"
+  },
+  {
+   "start": 373.12,
+   "end": 375.66,
+   "text": "ostatak onoga kada podjele"
+  },
+  {
+   "start": 375.66,
+   "end": 377.24,
+   "text": "ovi prvi"
+  },
+  {
+   "start": 377.24,
+   "end": 379.7,
+   "text": "farajdi koji su, dakle,"
+  },
+  {
+   "start": 380.18,
+   "end": 381.72,
+   "text": "njima pripada ostatak"
+  },
+  {
+   "start": 381.72,
+   "end": 383.12,
+   "text": "i tom muškom nasledniku."
+  },
+  {
+   "start": 384.12,
+   "end": 385.86,
+   "text": "I treći termin je"
+  },
+  {
+   "start": 385.86,
+   "end": 398.7,
+   "text": "Kelala, to su naslednici kada čovjek, kada roditelji nemaju djece, nemaju unučadi i ostalo, a ostali su iza njih braća i sestra i tako dalje."
+  },
+  {
+   "start": 399.18,
+   "end": 403.68,
+   "text": "Dakle, to naslednje pripada njima."
+  },
+  {
+   "start": 404.98,
+   "end": 411.0,
+   "text": "Pa da vidimo kako to Kur'an definiše ova tri termina."
+  },
+  {
+   "start": 411.0,
+   "end": 432.28,
+   "text": "Dakle, rekli smo nasledni dio ono što Allah Đerlešanu je odredio Kur'anom. Jedna polovina, jedna četvrtina, jedna osmina, jedna trećina, jedna šestina i dve trećine. To je taj udio koji je Allah Đerlešanu odredio."
+  },
+  {
+   "start": 433.04,
+   "end": 435.34,
+   "text": "Kaže Allah džabršanu, to su Allahove granice."
+  },
+  {
+   "start": 437.75,
+   "end": 438.77,
+   "text": "To su Allahove granice."
+  },
+  {
+   "start": 439.29,
+   "end": 443.31,
+   "text": "Kaže pigamber, ali i sratu sram, učite farajd ili učite nasledno pravo."
+  },
+  {
+   "start": 444.33,
+   "end": 446.85,
+   "text": "Kaže i podučavajte njemu druge."
+  },
+  {
+   "start": 447.89,
+   "end": 449.81,
+   "text": "Jer je ono polovina znanja."
+  },
+  {
+   "start": 452.09,
+   "end": 457.81,
+   "text": "Kaže, ono se zaboravda i to je prva stvar koja će biti otrgnuta iz mogumeta."
+  },
+  {
+   "start": 459.37,
+   "end": 461.33,
+   "text": "Ko su ashabu farajd?"
+  },
+  {
+   "start": 462.31,
+   "end": 468.37,
+   "text": "Ko su ti prvi koji imaju pravo, dakle, na ove udjele koje smo spomenuli?"
+  },
+  {
+   "start": 469.41,
+   "end": 475.09,
+   "text": "Kaže, spominju se četiri muškaraca i osam žena."
+  },
+  {
+   "start": 476.27,
+   "end": 480.07,
+   "text": "Muškarci su otac, djed, muš i brat."
+  },
+  {
+   "start": 480.89,
+   "end": 490.83,
+   "text": "A od žene su osam, i to majka, baka, suproga, čerka, čerka od sina, rođena sestra, sestra po ocu i sestra po majci."
+  },
+  {
+   "start": 491.33,
+   "end": 504.97,
+   "text": "E sad, kome pripada? Kome pripada jedna polovina? Jedna polovina pripada jedna čerka kada otac nema sina koji bi s njom nasleđivao."
+  },
+  {
+   "start": 505.69,
+   "end": 515.73,
+   "text": "Muž kada umrla žena nema potomstva, jedna rođena sestra. Kaže Aladžavršanu, ako je samo jedna, njoj pripada polovina."
+  },
+  {
+   "start": 515.73,
+   "end": 545.71,
+   "text": "Kome pripada jedna četvrtina?"
+  },
+  {
+   "start": 545.73,
+   "end": 547.57,
+   "text": "One zajedno dijele jednu osminu."
+  },
+  {
+   "start": 548.31,
+   "end": 553.83,
+   "text": "Kaže Aladžerlešanuhom, ako imate dijete, njima pripada osmina onoga što ostavite."
+  },
+  {
+   "start": 555.19,
+   "end": 557.59,
+   "text": "Kome pripada jedna trećina?"
+  },
+  {
+   "start": 558.35,
+   "end": 564.29,
+   "text": "Majka u određenim situacijama dobija trećinu, također kod kelale, vidjet ćemo tamo,"
+  },
+  {
+   "start": 564.29,
+   "end": 572.13,
+   "text": "više materijske brađe i sestara, oni mogu dijeliti jednu trećinu od imovinu."
+  },
+  {
+   "start": 572.13,
+   "end": 604.82,
+   "text": "Zatim se spominje kome pripada jedna šestina. Jedna šestina pripada majci u određenim situacijama, otcu kada umrli ima potomstvo, jedna materijska sestra u odgovarajućem slučaju, dakle, kako Kur'an tretira, baka, dakle, ako je naslednik i njoj pripada jedna šestina."
+  },
+  {
+   "start": 604.92,
+   "end": 618.67,
+   "text": "I kada je u pitanje kombinacije između kćerke i sina, kaže Allah Đelešanu, a roditeljima njegovim svakome od njih pripada jedna šestina."
+  },
+  {
+   "start": 619.89,
+   "end": 627.21,
+   "text": "Kome pripada dvije trećine. Ako umrli, ostavi dvije ili više kćeri, a nema sina koji bi s njim nasređivao."
+  },
+  {
+   "start": 627.91,
+   "end": 635.31,
+   "text": "Čerke zajedno nasređuju dvije trećine, kaže Allah Đelešanu, u njima pripadaju dvije trećine onoga što je ostavio."
+  },
+  {
+   "start": 635.31,
+   "end": 648.71,
+   "text": "E sad, rekli smo drugi termini asaba, to su naslednici koji nasleđuju ostatak i to nakon što, dakle, naslednici uzmu propisani del."
+  },
+  {
+   "start": 651.27,
+   "end": 658.65,
+   "text": "Kaže, asaba su naslednici koji prema pravidima farajta nasleđuju ostatak i metka."
+  },
+  {
+   "start": 658.65,
+   "end": 677.19,
+   "text": "Kaže pejgamber Sadavlaon i Osrlan, dajte propisane dijelove vlasnicima, a ono što ostane pripada najbližem muškom nasledniku. Kao primjer, sin je apsolutno najbliža muška osoba roditelju."
+  },
+  {
+   "start": 677.19,
+   "end": 695.07,
+   "text": "Ako umrni ima sina, on isključuje unuke, braću, sestriće i amiđe. Dakle, sin, u tom slučaju sin nasteđuje kao muški dio od nasleđa."
+  },
+  {
+   "start": 695.07,
+   "end": 705.46,
+   "text": "I rekli smo, Kelala je kada nema potomaka niti roditena, a dolaze do izražaja propisi o braći i sestrama."
+  },
+  {
+   "start": 706.46,
+   "end": 709.36,
+   "text": "Kaže Allah Đerlešanovu, traže od tebe odgovor."
+  },
+  {
+   "start": 710.18,
+   "end": 713.1,
+   "text": "Reci, Allah vam daje propis o Kelali."
+  },
+  {
+   "start": 713.26,
+   "end": 718.8,
+   "text": "Ako umre čovjek koji nema djeteta, a ima sestru, njoj pripada polovina njegove imovine."
+  },
+  {
+   "start": 718.8,
+   "end": 732.42,
+   "text": "A on će nju naslediti ako ona ne bude imala djeteta, ako su dvije, pripadaju im dvije trećine njegove imovine, ako su braća i sestre, onda će muškarcu pripasti koliko dvema ženama."
+  },
+  {
+   "start": 732.98,
+   "end": 736.98,
+   "text": "Allah vam objašnjava da ne zalutate, Allah sve zna."
+  },
+  {
+   "start": 739.0,
+   "end": 744.96,
+   "text": "Zatim ima oni koji nemaju pravo da nasleduju i metak."
+  },
+  {
+   "start": 744.96,
+   "end": 761.92,
+   "text": "A to je, recimo, ako naslednik ubije svoga oca, kaže pejgambar sada vao nevo srnom, ubica nema ništa od nasledstva. Ako čovjek ubije oca, pa ne može naslediti ništa od imovine."
+  },
+  {
+   "start": 761.92,
+   "end": 783.2,
+   "text": "I druga stvar kada se ne smije udjelivati nasleđe jeste ako musliman napusti vjeru i postane nevjernik. A kaže pekabar sada lao ne vas srna, musliman ne nasleđuje nevjernika niti nevjernik nasleđuje muslimana."
+  },
+  {
+   "start": 783.2,
+   "end": 786.68,
+   "text": "zato je nasledno pravo"
+  },
+  {
+   "start": 786.68,
+   "end": 788.3,
+   "text": "Allaho propisi"
+  },
+  {
+   "start": 788.3,
+   "end": 790.22,
+   "text": "i emanet"
+  },
+  {
+   "start": 790.22,
+   "end": 791.68,
+   "text": "kaže Allah Džavršanu"
+  },
+  {
+   "start": 791.68,
+   "end": 793.06,
+   "text": "u to su Allahovi propisi"
+  },
+  {
+   "start": 793.06,
+   "end": 796.76,
+   "text": "onoga ko se pokorava Allahovi poslaniku njegovom"
+  },
+  {
+   "start": 796.76,
+   "end": 798.54,
+   "text": "on će uvesti"
+  },
+  {
+   "start": 798.54,
+   "end": 799.6,
+   "text": "u bašće dženevski"
+  },
+  {
+   "start": 799.6,
+   "end": 801.94,
+   "text": "kroz koje rijeke teku"
+  },
+  {
+   "start": 801.94,
+   "end": 804.64,
+   "text": "u kojima će vječno ostati"
+  },
+  {
+   "start": 804.64,
+   "end": 806.12,
+   "text": "i to je veliki uspjeh"
+  },
+  {
+   "start": 806.12,
+   "end": 807.96,
+   "text": "a onoga ko se bude"
+  },
+  {
+   "start": 807.96,
+   "end": 810.42,
+   "text": "protiv Allahovi poslanika njegova dizao"
+  },
+  {
+   "start": 810.42,
+   "end": 812.3,
+   "text": "i preko granica"
+  },
+  {
+   "start": 812.3,
+   "end": 814.28,
+   "text": "njegovih propisa prelazio"
+  },
+  {
+   "start": 814.28,
+   "end": 816.22,
+   "text": "on će u vatru baciti"
+  },
+  {
+   "start": 816.22,
+   "end": 818.16,
+   "text": "u kojoj će vječno ostati"
+  },
+  {
+   "start": 818.16,
+   "end": 820.22,
+   "text": "njega čeka sramna"
+  },
+  {
+   "start": 820.22,
+   "end": 822.08,
+   "text": "padnja. Dakle"
+  },
+  {
+   "start": 822.08,
+   "end": 824.44,
+   "text": "u kratkim crtama je bilo"
+  },
+  {
+   "start": 824.44,
+   "end": 825.8,
+   "text": "dakle izloženo ovo"
+  },
+  {
+   "start": 825.8,
+   "end": 828.04,
+   "text": "koliko kome što sve pripada"
+  },
+  {
+   "start": 828.04,
+   "end": 830.02,
+   "text": "od nasljeđa, tako da"
+  },
+  {
+   "start": 830.02,
+   "end": 832.18,
+   "text": "dakle možda je i"
+  },
+  {
+   "start": 832.18,
+   "end": 834.3,
+   "text": "po prvi puta smo govorili na ovu temu"
+  },
+  {
+   "start": 834.3,
+   "end": 835.78,
+   "text": "ali smatram da je"
+  },
+  {
+   "start": 835.78,
+   "end": 838.32,
+   "text": "potrebno da iznesemo"
+  },
+  {
+   "start": 838.32,
+   "end": 839.98,
+   "text": "i ovu temu, dakle"
+  },
+  {
+   "start": 839.98,
+   "end": 842.28,
+   "text": "kroz hudbu, da ljudi"
+  },
+  {
+   "start": 842.28,
+   "end": 844.32,
+   "text": "u najmanju ruku"
+  },
+  {
+   "start": 844.32,
+   "end": 845.58,
+   "text": "da čuju te propise"
+  },
+  {
+   "start": 845.58,
+   "end": 847.64,
+   "text": "koliko kome što sve pripada"
+  },
+  {
+   "start": 847.64,
+   "end": 850.18,
+   "text": "a da li ćemo mi raditi po onome"
+  },
+  {
+   "start": 850.18,
+   "end": 851.56,
+   "text": "što je Allah Jalešanu"
+  },
+  {
+   "start": 851.56,
+   "end": 853.76,
+   "text": "dakle propisao"
+  },
+  {
+   "start": 853.76,
+   "end": 856.28,
+   "text": "ili ćemo raditi po svome čefu"
+  },
+  {
+   "start": 856.28,
+   "end": 858.04,
+   "text": "to je do nas"
+  },
+  {
+   "start": 858.04,
+   "end": 860.22,
+   "text": "da li ćemo slušati Allahovu"
+  },
+  {
+   "start": 860.22,
+   "end": 862.0,
+   "text": "riješi. Neka nas Allah Jalešanu"
+  },
+  {
+   "start": 862.0,
+   "end": 863.32,
+   "text": "uputi na pravi put."
+  },
+  {
+   "start": 878.58,
+   "end": 881.62,
+   "text": "فاستمعوا له وانسطوا لعنهم ترحمون"
+  },
+  {
+   "start": 881.62,
+   "end": 884.28,
+   "text": "اعوذ بالله من الشيطان الرجيم"
+  },
+  {
+   "start": 884.28,
+   "end": 885.78,
+   "text": "بسم الله الرحمن الرحيم"
+  },
+  {
+   "start": 885.78,
+   "end": 890.18,
+   "text": "إن الله يأمر بالعد والإحسان وإيتاء ذي القرب"
+  },
+  {
+   "start": 890.18,
+   "end": 893.72,
+   "text": "وينهى عن الفحشاء والمنكر والبغ"
+  },
+  {
+   "start": 893.72,
+   "end": 896.5,
+   "text": "يعيذكم لعلكم تذكرون"
+  },
+  {
+   "start": 896.5,
+   "end": 898.3,
+   "text": "ولذكر الله أكبر"
+  },
+  {
+   "start": 898.3,
+   "end": 900.44,
+   "text": "والله يعلم ما تصنعون"
+  },
+  {
+   "start": 900.44,
+   "end": 901.42,
+   "text": "أكم الصلاة"
+  }
+ ]
+}

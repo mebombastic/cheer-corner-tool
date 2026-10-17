@@ -1,0 +1,1792 @@
+{
+ "id": "2026-10-09-radite-pa-ce-vas-rad-vidjeti-allah",
+ "model": "whisper large-v3-turbo",
+ "language": "bs",
+ "segments": [
+  {
+   "start": 0.3,
+   "end": 2.96,
+   "text": "الحمد لله رب العالمين"
+  },
+  {
+   "start": 2.96,
+   "end": 9.54,
+   "text": "نستعينه ونستغفره ونسأله الكرامة فيما بعد الموت لنا"
+  },
+  {
+   "start": 9.54,
+   "end": 15.28,
+   "text": "ونعوذ بالله من شرور أنفسنا ومن سيئات أعمالنا"
+  },
+  {
+   "start": 15.28,
+   "end": 21.2,
+   "text": "من يهده الله فلا مضلنا ومن يضلل فلا هادينا"
+  },
+  {
+   "start": 21.2,
+   "end": 26.1,
+   "text": "وأشهد أن لا إله إلا الله أحده لا شريكنا"
+  },
+  {
+   "start": 26.1,
+   "end": 39.3,
+   "text": "وَأَشْهَدُ أَنَّ مُحَمَّدًا عَبْدُهُ وَرَسُولُهُ أَرْسَلَهُ اللَّهُ تَعَالَ بِالْحَقِّ بَشِيرًا وَنَذِيرًا لِيُنْذِرَ مَنْ كَانَ حَيَّ وَيْحِقَّ الْقَوْلُ عَلَى الْكَافِرِينَ"
+  },
+  {
+   "start": 39.3,
+   "end": 44.18,
+   "text": "اعوذ بالله من الشيطان الرجيم بسم الله الرحمن الرحيم"
+  },
+  {
+   "start": 44.18,
+   "end": 52.78,
+   "text": "I na ladzina amanu wa aminu sarihati ulaike hum khairul barije, sadak Allahun a'zim."
+  },
+  {
+   "start": 54.14,
+   "end": 59.02,
+   "text": "Zahmala pripada Allahu tebarake wa ta'ala, gospodaru svih svjetova,"
+  },
+  {
+   "start": 59.72,
+   "end": 65.28,
+   "text": "nek su naši salavati i salami upočeni na Muhammada sallahu alaihi wa sallam,"
+  },
+  {
+   "start": 65.88,
+   "end": 71.48,
+   "text": "na njegovu porodicu, njegove ashabe i sve one koje ga budu slijedili sve do sudnji dan."
+  },
+  {
+   "start": 71.48,
+   "end": 78.46,
+   "text": "Rebraću tema današnje hudbe jeste ko su oni koji najviše koriste ljudima."
+  },
+  {
+   "start": 83.02,
+   "end": 96.92,
+   "text": "Ova hudba je sastavljena od nekoliko hadisa u kojima poslanika ne je srato sram, ističe odgovornost u zajednici"
+  },
+  {
+   "start": 96.92,
+   "end": 110.0,
+   "text": "I ono što čovjek može ponuditi zajednici je plemenitost, darežljivost, rad za opće dobro, dakle, u jednoj zajednici."
+  },
+  {
+   "start": 110.88,
+   "end": 124.28,
+   "text": "Zašto ova hudba? Iz prostog razloga zato što, hvala Allahu, tabarak i vata'ada, često puta bivamo u prilici da upučujemo kritike, džematu,"
+  },
+  {
+   "start": 124.28,
+   "end": 145.52,
+   "text": "Ali ovoga puta ćemo pohvaliti naš džemat, posebno našu omladinu koja se aktivno uključila u radu za korist zajednice, a hadis poslanika Lege Sratosran kaže najbolji od vas su oni koji najviše koriste ljudima."
+  },
+  {
+   "start": 145.52,
+   "end": 168.22,
+   "text": "I ovo je, dakle, jedan sažeti hadis poslanika koji u sebi donosi veoma velike povuke i poruke i iz tog razloga mi ćemo vidjeti da poslanik kaže u nekoliko hadisa"
+  },
+  {
+   "start": 168.22,
+   "end": 172.02,
+   "text": "najbolji od vas, najbolji od vas su oni koji"
+  },
+  {
+   "start": 172.02,
+   "end": 178.24,
+   "text": "i više hadisa je spomenuto na ovo temu"
+  },
+  {
+   "start": 178.24,
+   "end": 181.32,
+   "text": "a uzvišenje Allah za lešanom kaže"
+  },
+  {
+   "start": 181.32,
+   "end": 186.32,
+   "text": "oni koji vjeruju i koji čine dobra djela"
+  },
+  {
+   "start": 186.32,
+   "end": 189.28,
+   "text": "zbila su najbolja stvorenja"
+  },
+  {
+   "start": 189.28,
+   "end": 193.56,
+   "text": "zbila su oni najbolja stvorenja"
+  },
+  {
+   "start": 193.56,
+   "end": 197.3,
+   "text": "što znači da čovjeku nije dovoljno"
+  },
+  {
+   "start": 197.3,
+   "end": 199.28,
+   "text": "samo da kaže"
+  },
+  {
+   "start": 199.28,
+   "end": 203.02,
+   "text": "ja vjerujem, pored"
+  },
+  {
+   "start": 203.02,
+   "end": 204.78,
+   "text": "vjerovanja, uzrišeni Allah"
+  },
+  {
+   "start": 204.78,
+   "end": 207.2,
+   "text": "u mnogo kuranskih ajata"
+  },
+  {
+   "start": 207.2,
+   "end": 209.18,
+   "text": "spominje činjenje dobrih"
+  },
+  {
+   "start": 209.18,
+   "end": 211.28,
+   "text": "dijela, a činjenje dobrih"
+  },
+  {
+   "start": 211.28,
+   "end": 212.44,
+   "text": "dijela je"
+  },
+  {
+   "start": 212.44,
+   "end": 215.12,
+   "text": "odlika najboljih."
+  },
+  {
+   "start": 216.62,
+   "end": 217.14,
+   "text": "Je odlika"
+  },
+  {
+   "start": 217.14,
+   "end": 220.59,
+   "text": "najboljih. Zatim"
+  },
+  {
+   "start": 220.59,
+   "end": 222.51,
+   "text": "u jednom hadisu poslanik"
+  },
+  {
+   "start": 222.51,
+   "end": 224.61,
+   "text": "Sadalahu nevrsa nam kaže, drago bračo,"
+  },
+  {
+   "start": 225.95,
+   "end": 226.27,
+   "text": "da"
+  },
+  {
+   "start": 226.27,
+   "end": 230.19,
+   "text": "svi Adelmovi sinovi"
+  },
+  {
+   "start": 230.19,
+   "end": 232.45,
+   "text": "su stvoreni"
+  },
+  {
+   "start": 232.45,
+   "end": 234.71,
+   "text": "i imaju 360 zglobova."
+  },
+  {
+   "start": 236.55,
+   "end": 237.97,
+   "text": "360 zglobova."
+  },
+  {
+   "start": 238.35,
+   "end": 239.47,
+   "text": "U tom istom hadisu"
+  },
+  {
+   "start": 239.47,
+   "end": 240.95,
+   "text": "poslanika L.S. Ratusran"
+  },
+  {
+   "start": 240.95,
+   "end": 243.73,
+   "text": "kaže svaki od njih"
+  },
+  {
+   "start": 243.73,
+   "end": 244.85,
+   "text": "od tih zglobova."
+  },
+  {
+   "start": 245.19,
+   "end": 246.89,
+   "text": "Na svakom od tih zglobova"
+  },
+  {
+   "start": 246.89,
+   "end": 248.57,
+   "text": "čovjek treba dati sadako."
+  },
+  {
+   "start": 250.8,
+   "end": 251.82,
+   "text": "Treba dati sadako."
+  },
+  {
+   "start": 252.22,
+   "end": 254.16,
+   "text": "Osim toga, iman se"
+  },
+  {
+   "start": 254.16,
+   "end": 256.72,
+   "text": "sastoji, draga braćo, od 60 ili 70"
+  },
+  {
+   "start": 256.72,
+   "end": 258.3,
+   "text": "i nekoliko ogranaka."
+  },
+  {
+   "start": 259.28,
+   "end": 260.16,
+   "text": "Najveći stepen"
+  },
+  {
+   "start": 260.16,
+   "end": 262.6,
+   "text": "vjerovanja. Najveći stepen imana"
+  },
+  {
+   "start": 262.6,
+   "end": 264.12,
+   "text": "su riječi da i da i da na."
+  },
+  {
+   "start": 264.6,
+   "end": 265.92,
+   "text": "A najmanji stepen"
+  },
+  {
+   "start": 265.92,
+   "end": 267.8,
+   "text": "jeste da čovjek"
+  },
+  {
+   "start": 267.8,
+   "end": 270.3,
+   "text": "dakle, da čovjek"
+  },
+  {
+   "start": 270.3,
+   "end": 272.12,
+   "text": "makne nešto sa puta ono što"
+  },
+  {
+   "start": 272.12,
+   "end": 274.58,
+   "text": "smeta ljudima."
+  },
+  {
+   "start": 275.58,
+   "end": 276.66,
+   "text": "Ono što smeta ljudima."
+  },
+  {
+   "start": 277.12,
+   "end": 278.2,
+   "text": "Taj pejgamber A.S."
+  },
+  {
+   "start": 278.2,
+   "end": 280.46,
+   "text": "ratu osram kaže, vidio sam"
+  },
+  {
+   "start": 280.46,
+   "end": 282.62,
+   "text": "u dženetu čovjeka"
+  },
+  {
+   "start": 282.62,
+   "end": 284.32,
+   "text": "koji uživa u dženetskim"
+  },
+  {
+   "start": 284.32,
+   "end": 285.08,
+   "text": "blagodatima"
+  },
+  {
+   "start": 285.08,
+   "end": 288.28,
+   "text": "ne zbog nekog velikog"
+  },
+  {
+   "start": 288.28,
+   "end": 288.66,
+   "text": "djela."
+  },
+  {
+   "start": 290.06,
+   "end": 292.78,
+   "text": "Kaže zato što je pomjerio jednu gramu"
+  },
+  {
+   "start": 292.78,
+   "end": 294.22,
+   "text": "sa puta"
+  },
+  {
+   "start": 294.22,
+   "end": 295.4,
+   "text": "koja je smetala"
+  },
+  {
+   "start": 295.4,
+   "end": 298.14,
+   "text": "ljudima koji su"
+  },
+  {
+   "start": 298.14,
+   "end": 299.24,
+   "text": "tamo prolazili."
+  },
+  {
+   "start": 302.08,
+   "end": 302.74,
+   "text": "Pa ćemo mi"
+  },
+  {
+   "start": 302.74,
+   "end": 305.84,
+   "text": "kroz nekoliko hadisa"
+  },
+  {
+   "start": 305.84,
+   "end": 308.04,
+   "text": "vidjeti ko su ti najbolji"
+  },
+  {
+   "start": 308.04,
+   "end": 309.66,
+   "text": "i koji"
+  },
+  {
+   "start": 309.66,
+   "end": 312.08,
+   "text": "donose"
+  },
+  {
+   "start": 312.08,
+   "end": 314.3,
+   "text": "veliku korist zajednici."
+  },
+  {
+   "start": 314.82,
+   "end": 316.28,
+   "text": "U jednom od hadisa poslanika"
+  },
+  {
+   "start": 316.28,
+   "end": 317.92,
+   "text": "Reis Rato Sram, draga braća, kaže"
+  },
+  {
+   "start": 317.92,
+   "end": 319.98,
+   "text": "najbolji od vas su oni koji su"
+  },
+  {
+   "start": 319.98,
+   "end": 321.54,
+   "text": "najbolji prema svojoj porodici,"
+  },
+  {
+   "start": 321.96,
+   "end": 323.98,
+   "text": "a ja sam najbolji"
+  },
+  {
+   "start": 323.98,
+   "end": 325.26,
+   "text": "prema svojoj porodici."
+  },
+  {
+   "start": 325.78,
+   "end": 327.48,
+   "text": "Porodica je osnov društva."
+  },
+  {
+   "start": 328.46,
+   "end": 329.84,
+   "text": "Bara tako smo učili"
+  },
+  {
+   "start": 329.84,
+   "end": 330.74,
+   "text": "i tako znamo."
+  },
+  {
+   "start": 331.94,
+   "end": 332.7,
+   "text": "Od tu polazi"
+  },
+  {
+   "start": 332.7,
+   "end": 337.54,
+   "text": "sve. A ovo"
+  },
+  {
+   "start": 337.54,
+   "end": 339.66,
+   "text": "najbolji, šta ono znači najbolji"
+  },
+  {
+   "start": 339.66,
+   "end": 340.58,
+   "text": "u porodici?"
+  },
+  {
+   "start": 341.54,
+   "end": 341.84,
+   "text": "Dakle,"
+  },
+  {
+   "start": 343.7,
+   "end": 344.64,
+   "text": "najbolji su oni"
+  },
+  {
+   "start": 344.64,
+   "end": 346.16,
+   "text": "koji su najbolji u svojoj porodici."
+  },
+  {
+   "start": 346.28,
+   "end": 348.12,
+   "text": "A ja sam kaže najbolji u svojoj porodici."
+  },
+  {
+   "start": 349.3,
+   "end": 350.44,
+   "text": "Što to podrazumijeva"
+  },
+  {
+   "start": 350.44,
+   "end": 352.0,
+   "text": "biti najbolji u porodici."
+  },
+  {
+   "start": 353.14,
+   "end": 354.5,
+   "text": "Da čovjek lijepo razgovara"
+  },
+  {
+   "start": 354.5,
+   "end": 356.5,
+   "text": "sa ženom. Da čovjek"
+  },
+  {
+   "start": 356.5,
+   "end": 358.38,
+   "text": "savjetuje djecu."
+  },
+  {
+   "start": 358.88,
+   "end": 360.4,
+   "text": "Da se čovjek brine o"
+  },
+  {
+   "start": 360.4,
+   "end": 362.28,
+   "text": "obskrbi na halan način."
+  },
+  {
+   "start": 362.62,
+   "end": 364.5,
+   "text": "Da savjetuje svoje"
+  },
+  {
+   "start": 364.5,
+   "end": 366.38,
+   "text": "dakle, sinove,"
+  },
+  {
+   "start": 366.5,
+   "end": 368.52,
+   "text": "kćeri, ovjeri"
+  },
+  {
+   "start": 368.52,
+   "end": 370.54,
+   "text": "i da se brine o njima."
+  },
+  {
+   "start": 371.24,
+   "end": 372.7,
+   "text": "Sve to podrazumeva"
+  },
+  {
+   "start": 372.7,
+   "end": 374.48,
+   "text": "da je taj čovjek"
+  },
+  {
+   "start": 374.48,
+   "end": 376.64,
+   "text": "najbolji. Ako ove"
+  },
+  {
+   "start": 376.64,
+   "end": 377.82,
+   "text": "stvari ima pri sebi,"
+  },
+  {
+   "start": 379.94,
+   "end": 381.78,
+   "text": "onda je on najbolji. Međutim, draga"
+  },
+  {
+   "start": 381.78,
+   "end": 396.86,
+   "text": "Mi nekad možemo biti dobri u društvu, u džematu, ali biti grubi unutar porodice svoje. Biti grubi prema svojoj ženi, biti grubi prema svojoj djeci i tako dalje i tako dalje."
+  },
+  {
+   "start": 396.86,
+   "end": 413.32,
+   "text": "onda ako smo grubi prema svojoj porodici, nismo zaslužili epitet najboljeg, onako kako nas želi pohvaliti poslanik sallallahu aneva sallam, da su oni najbolji koji su najbolji prema svojoj porodici."
+  },
+  {
+   "start": 413.32,
+   "end": 432.92,
+   "text": "Kaže da su ljudi pitali Hazreti Aishu radi Allaho Anham. Šta radi poslanik u svojoj kući? Kaže Aisha radi Allaho Anham. Kaže bio je na usluzi svojoj porodici."
+  },
+  {
+   "start": 432.92,
+   "end": 436.21,
+   "text": "bio je na usklosi"
+  },
+  {
+   "start": 436.21,
+   "end": 437.81,
+   "text": "svoje porodici"
+  },
+  {
+   "start": 437.81,
+   "end": 440.85,
+   "text": "nikad nije kritikovao nešto"
+  },
+  {
+   "start": 440.85,
+   "end": 442.91,
+   "text": "ako je nešto bilo"
+  },
+  {
+   "start": 442.91,
+   "end": 445.11,
+   "text": "za kritiku, nikad nije kritikovao"
+  },
+  {
+   "start": 445.11,
+   "end": 448.1,
+   "text": "zašto ste uradili"
+  },
+  {
+   "start": 448.1,
+   "end": 450.74,
+   "text": "ili zašto niste uradili i tako dalje"
+  },
+  {
+   "start": 450.74,
+   "end": 452.06,
+   "text": "NS Iban Malik"
+  },
+  {
+   "start": 452.06,
+   "end": 453.86,
+   "text": "radem lahom koje je služio"
+  },
+  {
+   "start": 453.86,
+   "end": 456.34,
+   "text": "poslanika Lejs Rato Sram deset punih godina"
+  },
+  {
+   "start": 456.34,
+   "end": 458.36,
+   "text": "i kaže za deset punih godina"
+  },
+  {
+   "start": 458.36,
+   "end": 460.1,
+   "text": "nikad nijednu ružnu riječ"
+  },
+  {
+   "start": 460.1,
+   "end": 462.08,
+   "text": "nisam čuo od poslanika Lejs Rato Sram"
+  },
+  {
+   "start": 462.08,
+   "end": 466.38,
+   "text": "da govori unutar svoje porodice"
+  },
+  {
+   "start": 466.38,
+   "end": 469.58,
+   "text": "Nikad ružnu riješ nije izgovorio."
+  },
+  {
+   "start": 470.72,
+   "end": 474.72,
+   "text": "Zatim kaže najbolji su oni koji uče Korani koji podučavaju druge."
+  },
+  {
+   "start": 476.46,
+   "end": 481.62,
+   "text": "Najpre oni koji uče Korani, koji uče pravilno po teđvidu,"
+  },
+  {
+   "start": 482.0,
+   "end": 490.38,
+   "text": "koji znaju značenje tih ajeta, znaju tefsir i tako dane i tako dane."
+  },
+  {
+   "start": 490.38,
+   "end": 509.88,
+   "text": "I oni su nesebišni pa šire to znanje na druge. Ako širimo to znanje, okoro akrimu, naučili smo neku suru nekog dječaka, neku djevojčicu i tako dalje, mi smo onda najbolji."
+  },
+  {
+   "start": 509.88,
+   "end": 512.8,
+   "text": "tako kaže poslanika"
+  },
+  {
+   "start": 512.8,
+   "end": 513.66,
+   "text": "ali i sratu sram"
+  },
+  {
+   "start": 513.66,
+   "end": 515.72,
+   "text": "mi ne trebamo biti sebišni"
+  },
+  {
+   "start": 515.72,
+   "end": 516.92,
+   "text": "samo za sebe da učimo"
+  },
+  {
+   "start": 516.92,
+   "end": 519.16,
+   "text": "ne, znanje koje posjedujemo"
+  },
+  {
+   "start": 519.16,
+   "end": 520.7,
+   "text": "moramo prenijeti na druge"
+  },
+  {
+   "start": 520.7,
+   "end": 524.77,
+   "text": "na druge, ako prenosimo"
+  },
+  {
+   "start": 524.77,
+   "end": 527.03,
+   "text": "znanje na druge generacije"
+  },
+  {
+   "start": 527.03,
+   "end": 528.41,
+   "text": "onda smo"
+  },
+  {
+   "start": 528.41,
+   "end": 530.15,
+   "text": "dakle"
+  },
+  {
+   "start": 530.15,
+   "end": 532.87,
+   "text": "spravo možemo kazati da smo najboliji"
+  },
+  {
+   "start": 532.87,
+   "end": 534.03,
+   "text": "jer o tome nas"
+  },
+  {
+   "start": 534.03,
+   "end": 536.35,
+   "text": "dakle obavještava poslanika"
+  },
+  {
+   "start": 536.35,
+   "end": 538.79,
+   "text": "ali i sratu sram i to potvrđuje sam"
+  },
+  {
+   "start": 538.79,
+   "end": 539.77,
+   "text": "Allah poslanik"
+  },
+  {
+   "start": 539.77,
+   "end": 542.57,
+   "text": "Zatim, najbori među vama"
+  },
+  {
+   "start": 542.57,
+   "end": 544.83,
+   "text": "je onaj od koga"
+  },
+  {
+   "start": 544.83,
+   "end": 546.71,
+   "text": "se očekuje svako dobro, a ljudi"
+  },
+  {
+   "start": 546.71,
+   "end": 548.35,
+   "text": "su sigurni njegovog zla"
+  },
+  {
+   "start": 548.35,
+   "end": 553.62,
+   "text": "Očekuješ dobro od nekog čovjeka"
+  },
+  {
+   "start": 554.26,
+   "end": 555.52,
+   "text": "kada su"
+  },
+  {
+   "start": 555.52,
+   "end": 557.34,
+   "text": "u njegovom društvu i ne boji se"
+  },
+  {
+   "start": 557.34,
+   "end": 558.1,
+   "text": "njegovog zla"
+  },
+  {
+   "start": 558.1,
+   "end": 561.52,
+   "text": "On neće da te ogovara, on neće da te kleveta"
+  },
+  {
+   "start": 561.52,
+   "end": 563.68,
+   "text": "on neće da te kritikuje"
+  },
+  {
+   "start": 563.68,
+   "end": 564.94,
+   "text": "on neće, neće"
+  },
+  {
+   "start": 564.94,
+   "end": 567.48,
+   "text": "On hoće"
+  },
+  {
+   "start": 567.48,
+   "end": 568.28,
+   "text": "da ti pomogne"
+  },
+  {
+   "start": 568.28,
+   "end": 571.08,
+   "text": "On hoće da ti pomogne"
+  },
+  {
+   "start": 571.08,
+   "end": 573.64,
+   "text": "taj je najbolji, ali ako čovjek te ulovara"
+  },
+  {
+   "start": 573.64,
+   "end": 575.46,
+   "text": "ako te čovjek kleveta, ako te čovjek"
+  },
+  {
+   "start": 575.46,
+   "end": 577.86,
+   "text": "omalovažava, i kad jesi tu"
+  },
+  {
+   "start": 577.86,
+   "end": 579.84,
+   "text": "i kad nisi tu, on nije dobar"
+  },
+  {
+   "start": 579.84,
+   "end": 581.62,
+   "text": "on nije najbolji, on nije najbolji"
+  },
+  {
+   "start": 581.62,
+   "end": 582.84,
+   "text": "on nije uopšte dobar"
+  },
+  {
+   "start": 582.84,
+   "end": 586.13,
+   "text": "on nije uopšte dobar"
+  },
+  {
+   "start": 586.13,
+   "end": 588.81,
+   "text": "jer se kaže"
+  },
+  {
+   "start": 588.81,
+   "end": 590.43,
+   "text": "najbolji među vama je"
+  },
+  {
+   "start": 590.43,
+   "end": 593.11,
+   "text": "onaj od koga se"
+  },
+  {
+   "start": 593.11,
+   "end": 594.79,
+   "text": "očekuje svako dobro"
+  },
+  {
+   "start": 594.79,
+   "end": 597.19,
+   "text": "a ljudje su sigurni"
+  },
+  {
+   "start": 597.19,
+   "end": 597.83,
+   "text": "njegov zvan"
+  },
+  {
+   "start": 597.83,
+   "end": 600.99,
+   "text": "da budeš dobar"
+  },
+  {
+   "start": 600.99,
+   "end": 605.07,
+   "text": "Ali s druge strane, da ljudi budu sigurni tvoga zla."
+  },
+  {
+   "start": 606.31,
+   "end": 608.71,
+   "text": "Tek tada čovjek biva najbolji."
+  },
+  {
+   "start": 612.01,
+   "end": 617.69,
+   "text": "Kaže, najbolji prijatelj kod Allaha i onaj koji je najbolji prema svome prijatelju."
+  },
+  {
+   "start": 618.17,
+   "end": 623.45,
+   "text": "A najbolji komšija kod Allaha i onaj koji je najbolji prema svome komšiji."
+  },
+  {
+   "start": 625.31,
+   "end": 628.99,
+   "text": "Znate, najbolji komšija kod Allaha i onaj koji je najbolji prema svome komšiji,"
+  },
+  {
+   "start": 628.99,
+   "end": 631.37,
+   "text": "kaže se u jednoj predaji"
+  },
+  {
+   "start": 631.37,
+   "end": 633.37,
+   "text": "Džibrila, leji sratu sram je toliko"
+  },
+  {
+   "start": 633.37,
+   "end": 635.49,
+   "text": "poručio poslaniku, leji sratu sram"
+  },
+  {
+   "start": 635.49,
+   "end": 637.39,
+   "text": "da pazi na svoga komšiju, da pazi"
+  },
+  {
+   "start": 637.39,
+   "end": 639.49,
+   "text": "na svoga komšiju, kaže"
+  },
+  {
+   "start": 639.49,
+   "end": 641.47,
+   "text": "pomislio sam poslanika, leji sratu sram"
+  },
+  {
+   "start": 641.47,
+   "end": 643.11,
+   "text": "kaže pomislio sam da će Džibli"
+  },
+  {
+   "start": 643.11,
+   "end": 645.51,
+   "text": "kazati da će komšija"
+  },
+  {
+   "start": 645.51,
+   "end": 647.53,
+   "text": "imati udjela u tvome"
+  },
+  {
+   "start": 647.53,
+   "end": 649.27,
+   "text": "imetku u nasljeđe"
+  },
+  {
+   "start": 649.27,
+   "end": 651.45,
+   "text": "do te mjene"
+  },
+  {
+   "start": 651.45,
+   "end": 653.47,
+   "text": "čovjek treba da pazi na pravo svoga"
+  },
+  {
+   "start": 653.47,
+   "end": 654.01,
+   "text": "komšije"
+  },
+  {
+   "start": 654.01,
+   "end": 656.71,
+   "text": "i to uzajamno"
+  },
+  {
+   "start": 656.71,
+   "end": 658.95,
+   "text": "ne samo meni da bude dobro"
+  },
+  {
+   "start": 658.95,
+   "end": 662.99,
+   "text": "Nego i njemu da bude dobro sa moje strane."
+  },
+  {
+   "start": 665.1,
+   "end": 665.74,
+   "text": "Uzajamno."
+  },
+  {
+   "start": 666.8,
+   "end": 668.7,
+   "text": "Tada smo najbolji komšije."
+  },
+  {
+   "start": 669.12,
+   "end": 669.6,
+   "text": "Samo tada."
+  },
+  {
+   "start": 672.72,
+   "end": 676.5,
+   "text": "A ovako ako hoćemo samo da gledamo lični interes ovako,"
+  },
+  {
+   "start": 676.84,
+   "end": 679.82,
+   "text": "meni da bude dobro, a mome komši baš ne priga,"
+  },
+  {
+   "start": 680.14,
+   "end": 681.74,
+   "text": "onda nismo dobri ljudi."
+  },
+  {
+   "start": 682.9,
+   "end": 683.98,
+   "text": "Onda nismo dobri ljudi."
+  },
+  {
+   "start": 689.22,
+   "end": 695.7,
+   "text": "Zatim, najbolji su oni koji su najkorisniji ljudima."
+  },
+  {
+   "start": 695.7,
+   "end": 698.66,
+   "text": "ovo sa početka što smo kazali"
+  },
+  {
+   "start": 698.66,
+   "end": 700.32,
+   "text": "jedan pomaže"
+  },
+  {
+   "start": 700.32,
+   "end": 701.52,
+   "text": "ziromašnjima"
+  },
+  {
+   "start": 701.52,
+   "end": 703.78,
+   "text": "drugi pomaže starijima"
+  },
+  {
+   "start": 703.78,
+   "end": 705.82,
+   "text": "treći održava džaniju"
+  },
+  {
+   "start": 705.82,
+   "end": 708.2,
+   "text": "četvrti svojim zanatom pomaže ludima"
+  },
+  {
+   "start": 708.2,
+   "end": 710.36,
+   "text": "peti može"
+  },
+  {
+   "start": 710.36,
+   "end": 711.98,
+   "text": "da radi na pomirenju"
+  },
+  {
+   "start": 711.98,
+   "end": 712.9,
+   "text": "zavađenih"
+  },
+  {
+   "start": 712.9,
+   "end": 715.08,
+   "text": "i tako dalje i tako dalje"
+  },
+  {
+   "start": 715.08,
+   "end": 717.1,
+   "text": "pored dobrote"
+  },
+  {
+   "start": 717.1,
+   "end": 719.14,
+   "text": "i dobrih djela"
+  },
+  {
+   "start": 719.14,
+   "end": 720.94,
+   "text": "je široko pored"
+  },
+  {
+   "start": 720.94,
+   "end": 724.48,
+   "text": "i svi možemo imati učešće"
+  },
+  {
+   "start": 724.48,
+   "end": 726.22,
+   "text": "prema svojim mogućnostima."
+  },
+  {
+   "start": 727.44,
+   "end": 728.86,
+   "text": "Neko tamo pomaže"
+  },
+  {
+   "start": 728.86,
+   "end": 730.52,
+   "text": "finansijski. Ti ne možeš,"
+  },
+  {
+   "start": 730.7,
+   "end": 732.92,
+   "text": "ti možeš da podučiš"
+  },
+  {
+   "start": 732.92,
+   "end": 734.62,
+   "text": "nekoga nešto"
+  },
+  {
+   "start": 734.62,
+   "end": 736.02,
+   "text": "u životu."
+  },
+  {
+   "start": 736.64,
+   "end": 738.56,
+   "text": "O Kuranu, o vjeri, da ga podučiš."
+  },
+  {
+   "start": 738.78,
+   "end": 740.8,
+   "text": "I to je, i ti"
+  },
+  {
+   "start": 740.8,
+   "end": 742.76,
+   "text": "se uhvati u onaj"
+  },
+  {
+   "start": 742.76,
+   "end": 744.6,
+   "text": "karavan najboljih."
+  },
+  {
+   "start": 748.79,
+   "end": 750.31,
+   "text": "Kaže, najboljih ljudi su"
+  },
+  {
+   "start": 750.31,
+   "end": 752.07,
+   "text": "oni koji žive"
+  },
+  {
+   "start": 752.07,
+   "end": 754.41,
+   "text": "dugo, a imaju za sebe"
+  },
+  {
+   "start": 754.41,
+   "end": 759.5,
+   "text": "dobra djela. Čovjek živi"
+  },
+  {
+   "start": 759.5,
+   "end": 761.62,
+   "text": "80-90 godina"
+  },
+  {
+   "start": 761.62,
+   "end": 764.34,
+   "text": "vjernik"
+  },
+  {
+   "start": 764.34,
+   "end": 766.28,
+   "text": "praktikuje vjeru,"
+  },
+  {
+   "start": 766.42,
+   "end": 767.36,
+   "text": "čini dobra dijela."
+  },
+  {
+   "start": 768.3,
+   "end": 769.98,
+   "text": "Kaže se u jednoj, drugoj predaji,"
+  },
+  {
+   "start": 770.46,
+   "end": 771.64,
+   "text": "kaže vjernici"
+  },
+  {
+   "start": 771.64,
+   "end": 773.34,
+   "text": "mora lao za rešanu"
+  },
+  {
+   "start": 773.34,
+   "end": 774.96,
+   "text": "za takvog čovjeka,"
+  },
+  {
+   "start": 776.64,
+   "end": 777.9,
+   "text": "jer u takvom čovjeku"
+  },
+  {
+   "start": 777.9,
+   "end": 779.72,
+   "text": "vide samo nešto što je najbolje."
+  },
+  {
+   "start": 782.39,
+   "end": 783.61,
+   "text": "Nije mjerilo da čovjek"
+  },
+  {
+   "start": 783.61,
+   "end": 784.41,
+   "text": "koliko god,"
+  },
+  {
+   "start": 784.61,
+   "end": 786.97,
+   "text": "dakle, koliko god da čovjek živi."
+  },
+  {
+   "start": 787.53,
+   "end": 789.81,
+   "text": "Nije mjerilo koliko godina"
+  },
+  {
+   "start": 789.81,
+   "end": 791.15,
+   "text": "živiš. Šta"
+  },
+  {
+   "start": 791.15,
+   "end": 793.31,
+   "text": "si za svoga života"
+  },
+  {
+   "start": 793.31,
+   "end": 794.67,
+   "text": "mogao da uradiš"
+  },
+  {
+   "start": 794.67,
+   "end": 797.13,
+   "text": "ili šta si uradio za svoj život"
+  },
+  {
+   "start": 797.13,
+   "end": 798.23,
+   "text": "to je"
+  },
+  {
+   "start": 798.23,
+   "end": 800.63,
+   "text": "to je mjerilo"
+  },
+  {
+   "start": 800.63,
+   "end": 802.05,
+   "text": "dobrote"
+  },
+  {
+   "start": 802.05,
+   "end": 804.59,
+   "text": "i najbudeg"
+  },
+  {
+   "start": 804.59,
+   "end": 807.05,
+   "text": "dakle što smo mi"
+  },
+  {
+   "start": 807.05,
+   "end": 808.33,
+   "text": "uradili za svoj život"
+  },
+  {
+   "start": 808.33,
+   "end": 811.03,
+   "text": "drga brać, ashabi su pojedini"
+  },
+  {
+   "start": 811.03,
+   "end": 812.95,
+   "text": "ashabi možda nisu živeli"
+  },
+  {
+   "start": 812.95,
+   "end": 815.15,
+   "text": "ni 3, 4, 5 godina"
+  },
+  {
+   "start": 815.15,
+   "end": 816.81,
+   "text": "u islamu"
+  },
+  {
+   "start": 816.81,
+   "end": 818.47,
+   "text": "a uradili su mnogo"
+  },
+  {
+   "start": 818.47,
+   "end": 821.99,
+   "text": "uradili su mnogo"
+  },
+  {
+   "start": 821.99,
+   "end": 823.29,
+   "text": "nisu živeli mnogo."
+  },
+  {
+   "start": 825.95,
+   "end": 826.99,
+   "text": "Nisu živeli mnogo."
+  },
+  {
+   "start": 827.51,
+   "end": 829.55,
+   "text": "E, a da čovjek živi mnogo"
+  },
+  {
+   "start": 829.55,
+   "end": 831.37,
+   "text": "i da ustav ima dobra djela,"
+  },
+  {
+   "start": 831.77,
+   "end": 832.47,
+   "text": "alhamdulillah."
+  },
+  {
+   "start": 834.45,
+   "end": 835.21,
+   "text": "Alhamdulillah."
+  },
+  {
+   "start": 836.67,
+   "end": 837.55,
+   "text": "Jedne prilike su"
+  },
+  {
+   "start": 837.55,
+   "end": 838.99,
+   "text": "ashabi pitali poslanika,"
+  },
+  {
+   "start": 838.99,
+   "end": 839.97,
+   "text": "kada je sratno sram?"
+  },
+  {
+   "start": 840.93,
+   "end": 841.49,
+   "text": "Koji"
+  },
+  {
+   "start": 841.49,
+   "end": 843.99,
+   "text": "je islam najbolji?"
+  },
+  {
+   "start": 846.31,
+   "end": 847.41,
+   "text": "Koji je islam najbolji?"
+  },
+  {
+   "start": 847.61,
+   "end": 849.53,
+   "text": "Pa dobro, ipad i loš islam."
+  },
+  {
+   "start": 853.66,
+   "end": 854.26,
+   "text": "Poenta je,"
+  },
+  {
+   "start": 855.7,
+   "end": 857.9,
+   "text": "koji musliman je najbolji?"
+  },
+  {
+   "start": 860.15,
+   "end": 866.71,
+   "text": "Islam je savršena vjera, upotpunjena, ali muslimari nisu savršeni."
+  },
+  {
+   "start": 868.45,
+   "end": 872.11,
+   "text": "E sada, koji islam je najbolji kod čovjeka?"
+  },
+  {
+   "start": 873.23,
+   "end": 879.35,
+   "text": "Kaže, ako čovjek ima dvije stvari pri sebi."
+  },
+  {
+   "start": 879.35,
+   "end": 902.41,
+   "text": "A to je, kaže, da širiš selam. Da nazivaš selam i onima koga poznaješ i one koje ne poznaješ. I da hraniš gladne. To je najbolji islam u čovjeka."
+  },
+  {
+   "start": 902.41,
+   "end": 909.67,
+   "text": "A, imaš muslimana koji prođeš pored njih i kažeš im"
+  },
+  {
+   "start": 909.67,
+   "end": 913.71,
+   "text": "Es salamu alaikum jednom, Es salamu alaikum dva put, tri put, pet put"
+  },
+  {
+   "start": 913.71,
+   "end": 916.35,
+   "text": "Nijednom ne kaže alaikum saram"
+  },
+  {
+   "start": 916.35,
+   "end": 926.07,
+   "text": "Zdravo, bračo, nazvati selam je sunet, ali odgovoriti na selam je fars"
+  },
+  {
+   "start": 926.07,
+   "end": 928.13,
+   "text": "Moraš da odgovoriš"
+  },
+  {
+   "start": 928.13,
+   "end": 932.73,
+   "text": "Da li ti je razgovarao s njim? Ne razgovarao s njim, to je tvoja stvar"
+  },
+  {
+   "start": 935.18,
+   "end": 939.68,
+   "text": "Ali ako ti je nazvao Selam, moraš da odgovoriš me."
+  },
+  {
+   "start": 940.46,
+   "end": 947.5,
+   "text": "Ako si i malo muslima, neću da mu odgovorim, za inak."
+  },
+  {
+   "start": 948.7,
+   "end": 951.02,
+   "text": "Da, inak, kam je sebi?"
+  },
+  {
+   "start": 952.88,
+   "end": 953.84,
+   "text": "Esalamu alaikum."
+  },
+  {
+   "start": 955.92,
+   "end": 965.76,
+   "text": "Pa ti misli se, odbijaš da odgovoriš i da se poslužiš jednim od najlepših Allahovih imena, Allah je, Allah je Esalamu."
+  },
+  {
+   "start": 965.76,
+   "end": 987.94,
+   "text": "I druga karakteristika jeste, rekli smo, da hraniš glavne. Kad su mohađiri učinili hiđru u Medinu, ensarije su ih dočekali tamo i sve su im ponudili kao pomoć."
+  },
+  {
+   "start": 987.94,
+   "end": 1006.02,
+   "text": "U prvi plan hranu. Kaže, hranu su davali njima, a samima njima bi je bilo potrebno. Davali su ensarije hranu mohađenima, a ensarijama je bilo potrebna hrana."
+  },
+  {
+   "start": 1006.02,
+   "end": 1035.46,
+   "text": "Pa se u nekim rivajetima spominje, kaže da su toliko dijelili, pa su dijelili i baše, i njive, i pašnjake, i ne zna što, ne zna što, čak kaže u jednoj predaji, ako je čovjek imao dvije žene, jednu bi raspustio dao bi nekom od muhađira ukoliko ne bi bio oženjen čovjek."
+  },
+  {
+   "start": 1035.46,
+   "end": 1061.0,
+   "text": "Do te mjere su pomagali. I na kraju da kažemo, u jednom predaju se kaže da su najbolji ljudi, oni koji su bili najbolji u džahilijetu, nakon što prihvate islam, oni mogu biti najbolji ukoliko budu razumijeli vjeru."
+  },
+  {
+   "start": 1063.67,
+   "end": 1069.23,
+   "text": "Najbolji u džahrijecu su najbolji u islamu, ako budu razumijeli vjeru."
+  },
+  {
+   "start": 1070.57,
+   "end": 1071.09,
+   "text": "To je uslov."
+  },
+  {
+   "start": 1073.62,
+   "end": 1074.72,
+   "text": "A vjera se uči."
+  },
+  {
+   "start": 1076.2,
+   "end": 1077.92,
+   "text": "Vjera se uči."
+  },
+  {
+   "start": 1080.4,
+   "end": 1082.0,
+   "text": "Vjera se samo ne sluša."
+  },
+  {
+   "start": 1082.0,
+   "end": 1088.82,
+   "text": "Na gotovo, užvakano, pripremljeno."
+  },
+  {
+   "start": 1090.32,
+   "end": 1094.56,
+   "text": "Ne, nego samo da uzmeš knjigu i da učiš sam da čitaš."
+  },
+  {
+   "start": 1095.4,
+   "end": 1096.28,
+   "text": "Sam da čitaš."
+  },
+  {
+   "start": 1096.28,
+   "end": 1098.52,
+   "text": "Zdravo račun, mi nemamo navike da čitamo."
+  },
+  {
+   "start": 1099.4,
+   "end": 1102.0,
+   "text": "Kako možemo biti najbolji u islamu,"
+  },
+  {
+   "start": 1102.34,
+   "end": 1104.72,
+   "text": "a kad nam je poslane Kaleje sratu sram"
+  },
+  {
+   "start": 1104.72,
+   "end": 1107.12,
+   "text": "postavio jedan uslov da bi bili najbolji,"
+  },
+  {
+   "start": 1107.34,
+   "end": 1108.88,
+   "text": "a to je ako razumiju vjeru."
+  },
+  {
+   "start": 1109.26,
+   "end": 1110.92,
+   "text": "Ako razumiju, propise vjere."
+  },
+  {
+   "start": 1115.71,
+   "end": 1120.61,
+   "text": "Jer džaba, džaba, dobar ahla, džaba,"
+  },
+  {
+   "start": 1120.93,
+   "end": 1124.49,
+   "text": "sve to džaba, jer i u predislamski period"
+  },
+  {
+   "start": 1124.49,
+   "end": 1128.17,
+   "text": "ljudi su bili pošteni, pojedini ljudi su bili pošteni,"
+  },
+  {
+   "start": 1128.17,
+   "end": 1129.85,
+   "text": "čuvali su rodbinske veze"
+  },
+  {
+   "start": 1129.85,
+   "end": 1132.55,
+   "text": "imali su neke kvalitete"
+  },
+  {
+   "start": 1132.55,
+   "end": 1132.99,
+   "text": "svoje"
+  },
+  {
+   "start": 1132.99,
+   "end": 1136.69,
+   "text": "to islam ne isključuje"
+  },
+  {
+   "start": 1136.69,
+   "end": 1139.23,
+   "text": "ali to je samo islam"
+  },
+  {
+   "start": 1139.23,
+   "end": 1140.67,
+   "text": "hteo da pročisti"
+  },
+  {
+   "start": 1140.67,
+   "end": 1143.47,
+   "text": "na neki način"
+  },
+  {
+   "start": 1143.47,
+   "end": 1145.87,
+   "text": "da malo bolje dotjerati"
+  },
+  {
+   "start": 1145.87,
+   "end": 1146.37,
+   "text": "to stvar"
+  },
+  {
+   "start": 1146.37,
+   "end": 1147.95,
+   "text": "jer"
+  },
+  {
+   "start": 1147.95,
+   "end": 1150.25,
+   "text": "vjera"
+  },
+  {
+   "start": 1150.25,
+   "end": 1151.25,
+   "text": "vjera"
+  },
+  {
+   "start": 1151.25,
+   "end": 1155.49,
+   "text": "dakle je nešto što može dotjerati"
+  },
+  {
+   "start": 1155.49,
+   "end": 1156.93,
+   "text": "i čovjekov ahlak"
+  },
+  {
+   "start": 1156.93,
+   "end": 1159.49,
+   "text": "i ponašanje i razumijevanje"
+  },
+  {
+   "start": 1159.49,
+   "end": 1161.77,
+   "text": "u cijelosti vjeru ne možemo"
+  },
+  {
+   "start": 1161.77,
+   "end": 1163.31,
+   "text": "shvatiti ukoliko je"
+  },
+  {
+   "start": 1163.31,
+   "end": 1165.87,
+   "text": "ne budemo učili."
+  },
+  {
+   "start": 1166.35,
+   "end": 1167.75,
+   "text": "Ovo su neki od"
+  },
+  {
+   "start": 1167.75,
+   "end": 1169.69,
+   "text": "hadisa u kojima je"
+  },
+  {
+   "start": 1169.69,
+   "end": 1171.61,
+   "text": "poslanik Ali Svratos nam pokazao"
+  },
+  {
+   "start": 1171.61,
+   "end": 1173.51,
+   "text": "ko su ti koji su najbolji"
+  },
+  {
+   "start": 1173.51,
+   "end": 1175.63,
+   "text": "u društvu i zajednici i koji to"
+  },
+  {
+   "start": 1175.63,
+   "end": 1176.89,
+   "text": "najviše koriste"
+  },
+  {
+   "start": 1176.89,
+   "end": 1179.15,
+   "text": "jednoj zajednici."
+  },
+  {
+   "start": 1179.53,
+   "end": 1181.05,
+   "text": "A molim Lađa Lešanuhu"
+  },
+  {
+   "start": 1181.05,
+   "end": 1183.53,
+   "text": "da ovim momcima"
+  },
+  {
+   "start": 1183.53,
+   "end": 1185.97,
+   "text": "koji rade za dobrobit"
+  },
+  {
+   "start": 1185.97,
+   "end": 1187.83,
+   "text": "naše zajednice i naših"
+  },
+  {
+   "start": 1187.83,
+   "end": 1189.47,
+   "text": "sela da budu ustrajni"
+  },
+  {
+   "start": 1189.47,
+   "end": 1191.59,
+   "text": "u dobrim dijelima"
+  },
+  {
+   "start": 1191.59,
+   "end": 1193.53,
+   "text": "svojim, da ne draže"
+  },
+  {
+   "start": 1193.53,
+   "end": 1195.51,
+   "text": "nikakvu zahvalu od nikoga,"
+  },
+  {
+   "start": 1196.11,
+   "end": 1197.95,
+   "text": "da to nađu namizanu"
+  },
+  {
+   "start": 1197.95,
+   "end": 1199.45,
+   "text": "svojih dobrih dijela"
+  },
+  {
+   "start": 1199.45,
+   "end": 1200.99,
+   "text": "i da ih Allah"
+  },
+  {
+   "start": 1200.99,
+   "end": 1203.19,
+   "text": "obila to nagradi."
+  },
+  {
+   "start": 1220.46,
+   "end": 1224.78,
+   "text": "Inna Allah ya'mur bil'adli wa lihsan wa ietaa idhi al-qurba"
+  },
+  {
+   "start": 1224.78,
+   "end": 1227.82,
+   "text": "wa inha'an al-fahshai wa l-munkir wa l-bazi"
+  },
+  {
+   "start": 1227.82,
+   "end": 1230.26,
+   "text": "ya'idhukum na'allakum tazakkaroon"
+  },
+  {
+   "start": 1230.26,
+   "end": 1232.1,
+   "text": "waladzikru Allahi akbar"
+  },
+  {
+   "start": 1232.1,
+   "end": 1234.42,
+   "text": "wallahu ya'lam maa tazna'oon"
+  },
+  {
+   "start": 1234.42,
+   "end": 1235.34,
+   "text": "Aikumussalam"
+  }
+ ]
+}

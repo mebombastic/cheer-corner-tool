@@ -16,6 +16,7 @@ import { Route as EventsRouteImport } from './routes/events'
 import { Route as HutbeRouteImport } from './routes/hutbe'
 import { Route as ImamRouteImport } from './routes/imam'
 import { Route as InstalirajRouteImport } from './routes/instaliraj'
+import { Route as PitanjaRouteImport } from './routes/pitanja'
 import { Route as PrayerTimesRouteImport } from './routes/prayer-times'
 import { Route as QiblaRouteImport } from './routes/qibla'
 import { Route as QuranRouteImport } from './routes/quran'
@@ -55,6 +56,11 @@ const InstalirajRoute = InstalirajRouteImport.update({
   path: '/instaliraj',
   getParentRoute: () => rootRouteImport,
 } as any)
+const PitanjaRoute = PitanjaRouteImport.update({
+  id: '/pitanja',
+  path: '/pitanja',
+  getParentRoute: () => rootRouteImport,
+} as any)
 const PrayerTimesRoute = PrayerTimesRouteImport.update({
   id: '/prayer-times',
   path: '/prayer-times',
@@ -79,6 +85,7 @@ export interface FileRoutesByFullPath {
   '/hutbe': typeof HutbeRoute
   '/imam': typeof ImamRoute
   '/instaliraj': typeof InstalirajRoute
+  '/pitanja': typeof PitanjaRoute
   '/prayer-times': typeof PrayerTimesRoute
   '/qibla': typeof QiblaRoute
   '/quran': typeof QuranRoute
@@ -91,6 +98,7 @@ export interface FileRoutesByTo {
   '/hutbe': typeof HutbeRoute
   '/imam': typeof ImamRoute
   '/instaliraj': typeof InstalirajRoute
+  '/pitanja': typeof PitanjaRoute
   '/prayer-times': typeof PrayerTimesRoute
   '/qibla': typeof QiblaRoute
   '/quran': typeof QuranRoute
@@ -104,6 +112,7 @@ export interface FileRoutesById {
   '/hutbe': typeof HutbeRoute
   '/imam': typeof ImamRoute
   '/instaliraj': typeof InstalirajRoute
+  '/pitanja': typeof PitanjaRoute
   '/prayer-times': typeof PrayerTimesRoute
   '/qibla': typeof QiblaRoute
   '/quran': typeof QuranRoute
@@ -118,6 +127,7 @@ export interface FileRouteTypes {
     | '/hutbe'
     | '/imam'
     | '/instaliraj'
+    | '/pitanja'
     | '/prayer-times'
     | '/qibla'
     | '/quran'
@@ -130,6 +140,7 @@ export interface FileRouteTypes {
     | '/hutbe'
     | '/imam'
     | '/instaliraj'
+    | '/pitanja'
     | '/prayer-times'
     | '/qibla'
     | '/quran'
@@ -142,6 +153,7 @@ export interface FileRouteTypes {
     | '/hutbe'
     | '/imam'
     | '/instaliraj'
+    | '/pitanja'
     | '/prayer-times'
     | '/qibla'
     | '/quran'
@@ -155,6 +167,7 @@ export interface RootRouteChildren {
   HutbeRoute: typeof HutbeRoute
   ImamRoute: typeof ImamRoute
   InstalirajRoute: typeof InstalirajRoute
+  PitanjaRoute: typeof PitanjaRoute
   PrayerTimesRoute: typeof PrayerTimesRoute
   QiblaRoute: typeof QiblaRoute
   QuranRoute: typeof QuranRoute
@@ -211,6 +224,13 @@ declare module '@tanstack/react-router' {
       preLoaderRoute: typeof InstalirajRouteImport
       parentRoute: typeof rootRouteImport
     }
+    '/pitanja': {
+      id: '/pitanja'
+      path: '/pitanja'
+      fullPath: '/pitanja'
+      preLoaderRoute: typeof PitanjaRouteImport
+      parentRoute: typeof rootRouteImport
+    }
     '/prayer-times': {
       id: '/prayer-times'
       path: '/prayer-times'
@@ -243,6 +263,7 @@ const rootRouteChildren: RootRouteChildren = {
   HutbeRoute: HutbeRoute,
   ImamRoute: ImamRoute,
   InstalirajRoute: InstalirajRoute,
+  PitanjaRoute: PitanjaRoute,
   PrayerTimesRoute: PrayerTimesRoute,
   QiblaRoute: QiblaRoute,
   QuranRoute: QuranRoute,
