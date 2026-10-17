@@ -65,10 +65,10 @@ function Home() {
               Današnje vreme namaza
             </Link>
             <Link
-              to="/about"
+              to="/hutbe"
               className="rounded-full border border-white/40 px-7 py-3 text-sm font-semibold hover:bg-white/10 transition"
             >
-              O džamiji
+              Hutbe
             </Link>
           </div>
 
