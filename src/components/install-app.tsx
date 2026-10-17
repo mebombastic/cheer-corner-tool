@@ -15,6 +15,10 @@ type InstallState = {
   prompt: InstallPromptEvent | null;
   /** iPhone / iPad: installing is done by hand from the Share menu. */
   ios: boolean;
+  /** Android phone: install from Chrome's menu when Chrome hasn't offered its own dialog (yet). */
+  android: boolean;
+  /** Opened inside Facebook, Instagram, Viber etc., whose built-in browser can't install apps. */
+  inApp: boolean;
   /** Already opened as an installed app. */
   installed: boolean;
 };
@@ -41,7 +45,10 @@ function readState(): InstallState {
   const ios =
     /iphone|ipad|ipod/i.test(navigator.userAgent) ||
     (navigator.platform === "MacIntel" && navigator.maxTouchPoints > 1);
-  return { prompt: deferred, ios, installed };
+  const ua = navigator.userAgent;
+  const android = /android/i.test(ua);
+  const inApp = /FBAN|FBAV|FB_IAB|FBIOS|Instagram|Viber|Line\/|Snapchat|; wv\)/i.test(ua);
+  return { prompt: deferred, ios, android, inApp, installed };
 }
 
 export function useInstall(): InstallState | null {
@@ -94,7 +101,7 @@ export function ShareIcon({ className = "" }: { className?: string }) {
 /** Footer block: install button, or the iPhone steps. Hidden when installed or not possible. */
 export function InstallAppFooter() {
   const s = useInstall();
-  if (!s || s.installed || (!s.prompt && !s.ios)) return null;
+  if (!s || s.installed || (!s.prompt && !s.ios && !s.android)) return null;
   return (
     <div className="mt-6">
       {s.prompt ? (
@@ -111,7 +118,7 @@ export function InstallAppFooter() {
           className="inline-flex items-center gap-2 rounded-full bg-[var(--gold)] px-5 py-2.5 text-sm font-semibold text-primary transition hover:brightness-110"
         >
           <PhoneIcon className="h-4 w-4" />
-          Instaliraj na iPhone
+          {s.ios ? "Instaliraj na iPhone" : "Instaliraj na telefon"}
         </Link>
       )}
     </div>
@@ -144,7 +151,7 @@ export function InstallBanner() {
     }
   };
 
-  if (!s || dismissed || onGuide || s.installed || (!s.prompt && !s.ios)) return null;
+  if (!s || dismissed || onGuide || s.installed || (!s.prompt && !s.ios && !s.android)) return null;
   return (
     <div className="fixed inset-x-3 bottom-3 z-50 md:hidden" role="dialog" aria-label="Instalirajte aplikaciju">
       <div className="flex items-center gap-3 rounded-2xl border border-white/15 bg-primary px-4 py-3 text-primary-foreground shadow-[var(--shadow-soft)]">
@@ -152,7 +159,11 @@ export function InstallBanner() {
         <div className="min-w-0 flex-1 text-sm leading-snug">
           <p className="font-semibold">Džamija Rečane na telefonu</p>
           <p className="text-primary-foreground/75 text-xs mt-0.5">
-            {s.prompt ? "Vreme namaza i kibla, i bez interneta." : "Vreme namaza i obavještenja za namaz."}
+            {s.inApp
+              ? "Otvorite sajt u Chromeu ili Safariju da instalirate aplikaciju."
+              : s.prompt
+                ? "Vreme namaza i kibla, i bez interneta."
+                : "Vreme namaza i obavještenja za namaz."}
           </p>
         </div>
         {s.prompt ? (
