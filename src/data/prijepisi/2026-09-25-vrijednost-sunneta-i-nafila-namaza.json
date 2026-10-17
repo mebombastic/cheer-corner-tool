@@ -1,0 +1,2992 @@
+{
+ "id": "2026-09-25-vrijednost-sunneta-i-nafila-namaza",
+ "model": "whisper large-v3-turbo",
+ "language": "bs",
+ "segments": [
+  {
+   "start": 1.9,
+   "end": 4.52,
+   "text": "Alhamdulillahi Rabbil Alameen"
+  },
+  {
+   "start": 4.52,
+   "end": 11.16,
+   "text": "والصلاة والسلام على رسولنا محمد وآله وصحبه أجمعين"
+  },
+  {
+   "start": 11.16,
+   "end": 15.04,
+   "text": "قال الله تعالى في كتابه الكريم"
+  },
+  {
+   "start": 15.04,
+   "end": 17.68,
+   "text": "اعوذ بالله من الشيطان الرجل"
+  },
+  {
+   "start": 17.68,
+   "end": 19.52,
+   "text": "بسم الله الرحمن الرحيم"
+  },
+  {
+   "start": 19.52,
+   "end": 24.08,
+   "text": "ومن الليل فتهجد به نافذة لك"
+  },
+  {
+   "start": 24.08,
+   "end": 28.76,
+   "text": "عسى أن يبعثك ربك مقاما محمودا"
+  },
+  {
+   "start": 28.76,
+   "end": 30.38,
+   "text": "صدق الله العظيم"
+  },
+  {
+   "start": 30.38,
+   "end": 35.72,
+   "text": "Zahvala pripada Allahu tabaraka vata'ala gospodaru svih svjetova"
+  },
+  {
+   "start": 35.72,
+   "end": 39.3,
+   "text": "Milostivom samilosnom vladaru dana sudnjeg"
+  },
+  {
+   "start": 39.3,
+   "end": 44.78,
+   "text": "Nek su naši salavati i selami upočeni na Mohameda sallallahu aleyhi wa salam"
+  },
+  {
+   "start": 44.78,
+   "end": 49.98,
+   "text": "Na njegovu porodicu, njegova sahabe i sve one koji ga budu sledili sve do sudnji dana"
+  },
+  {
+   "start": 49.98,
+   "end": 60.12,
+   "text": "Drabrašo, tema današnje hudbe jeste vrijednost klanjanje sunneta i na file namaza"
+  },
+  {
+   "start": 60.12,
+   "end": 76.31,
+   "text": "Govoreći o namazu, namaz predstavlja jedan od najvećih ibadeta, što pokazuje da je to najveća pokvornost prema uzrišenom Allahu tabarake wa ta'ala."
+  },
+  {
+   "start": 76.31,
+   "end": 94.45,
+   "text": "Uzrišeni Allah Zalašanuhu u prvi plan je strobo naredio namaz i učinio da namaz bude fars svakom punoljetnom, pametnom i razumnom muslimanom."
+  },
+  {
+   "start": 96.78,
+   "end": 99.7,
+   "text": "Kaže Allah Zalašanuhu u hadisi kuciju"
+  },
+  {
+   "start": 99.7,
+   "end": 106.36,
+   "text": "Najviše volim da mi se čovjek približava sa onim što sam mu ja propisao."
+  },
+  {
+   "start": 106.36,
+   "end": 118.08,
+   "text": "Pa od propisanih fars namaza su pet dnevna namaza, sabah, podne, ikindija, akšan, jac i jacija."
+  },
+  {
+   "start": 120.8,
+   "end": 124.6,
+   "text": "I ti namazi su neupitni, drago vraću."
+  },
+  {
+   "start": 125.56,
+   "end": 130.94,
+   "text": "Kaže pejkambar sallallahu nevoselna, glava svih stvari je islam."
+  },
+  {
+   "start": 130.94,
+   "end": 133.22,
+   "text": "njegov stup je namaz"
+  },
+  {
+   "start": 133.22,
+   "end": 136.38,
+   "text": "njegov stup je namaz"
+  },
+  {
+   "start": 136.38,
+   "end": 139.48,
+   "text": "a njegov krajni vrhunac"
+  },
+  {
+   "start": 139.48,
+   "end": 142.48,
+   "text": "jeste džihad na Allahovome putu"
+  },
+  {
+   "start": 142.48,
+   "end": 147.06,
+   "text": "ako kaže da je namaz"
+  },
+  {
+   "start": 147.06,
+   "end": 148.64,
+   "text": "stup vjere"
+  },
+  {
+   "start": 148.64,
+   "end": 149.96,
+   "text": "kaže"
+  },
+  {
+   "start": 149.96,
+   "end": 154.76,
+   "text": "ko klanja namaz"
+  },
+  {
+   "start": 154.76,
+   "end": 156.32,
+   "text": "ko uspostavlja namaz"
+  },
+  {
+   "start": 156.32,
+   "end": 159.16,
+   "text": "dakle on gradi"
+  },
+  {
+   "start": 159.16,
+   "end": 162.5,
+   "text": "on gradi vjeru kod sebe"
+  },
+  {
+   "start": 162.5,
+   "end": 164.62,
+   "text": "on usavršava vjeru kod sebe"
+  },
+  {
+   "start": 164.62,
+   "end": 169.0,
+   "text": "ko ne klanja namaz"
+  },
+  {
+   "start": 169.0,
+   "end": 170.68,
+   "text": "on ruši vjeru kod sebe"
+  },
+  {
+   "start": 170.68,
+   "end": 174.46,
+   "text": "on ruši vjeru kod sebe"
+  },
+  {
+   "start": 174.46,
+   "end": 176.54,
+   "text": "pa je jedne prilike"
+  },
+  {
+   "start": 176.54,
+   "end": 179.28,
+   "text": "u jednom hadisu se kaže"
+  },
+  {
+   "start": 179.28,
+   "end": 182.26,
+   "text": "kako prenosi talha iban ubejdu"
+  },
+  {
+   "start": 182.26,
+   "end": 183.6,
+   "text": "radijallahu onhu"
+  },
+  {
+   "start": 183.6,
+   "end": 185.6,
+   "text": "jedne prilike kaže"
+  },
+  {
+   "start": 185.6,
+   "end": 186.78,
+   "text": "došao je jedan čovjek"
+  },
+  {
+   "start": 186.78,
+   "end": 188.9,
+   "text": "iz oblasti nežda"
+  },
+  {
+   "start": 188.9,
+   "end": 192.32,
+   "text": "kaže"
+  },
+  {
+   "start": 192.32,
+   "end": 195.04,
+   "text": "razbarušene kose"
+  },
+  {
+   "start": 195.04,
+   "end": 198.86,
+   "text": "progovorio je nešto"
+  },
+  {
+   "start": 198.86,
+   "end": 201.22,
+   "text": "nismo ga razumijeli šta je htio da kaže"
+  },
+  {
+   "start": 201.22,
+   "end": 206.81,
+   "text": "nismo razumijeli"
+  },
+  {
+   "start": 206.81,
+   "end": 208.37,
+   "text": "u početku njevog govora"
+  },
+  {
+   "start": 208.37,
+   "end": 210.15,
+   "text": "a nakon toga kaže"
+  },
+  {
+   "start": 210.15,
+   "end": 212.57,
+   "text": "on je upitao"
+  },
+  {
+   "start": 212.57,
+   "end": 213.65,
+   "text": "Allah poslanika"
+  },
+  {
+   "start": 213.65,
+   "end": 216.95,
+   "text": "kaže mi nešto"
+  },
+  {
+   "start": 216.95,
+   "end": 218.65,
+   "text": "o islamu"
+  },
+  {
+   "start": 218.65,
+   "end": 220.29,
+   "text": "pa mu je poslanik"
+  },
+  {
+   "start": 220.29,
+   "end": 222.53,
+   "text": "rekao"
+  },
+  {
+   "start": 222.53,
+   "end": 224.39,
+   "text": "nakon što kaže"
+  },
+  {
+   "start": 224.39,
+   "end": 227.77,
+   "text": "da si dužan da klanjaš"
+  },
+  {
+   "start": 227.77,
+   "end": 230.23,
+   "text": "pet drevna namaza."
+  },
+  {
+   "start": 233.5,
+   "end": 233.92,
+   "text": "Kaže,"
+  },
+  {
+   "start": 236.02,
+   "end": 237.72,
+   "text": "imam li još nešto dužnost"
+  },
+  {
+   "start": 237.72,
+   "end": 239.08,
+   "text": "kad je u pitanje namaz?"
+  },
+  {
+   "start": 240.6,
+   "end": 241.04,
+   "text": "Kaže,"
+  },
+  {
+   "start": 242.48,
+   "end": 244.2,
+   "text": "dobrovodni namazi"
+  },
+  {
+   "start": 244.2,
+   "end": 246.04,
+   "text": "ako hoćeš."
+  },
+  {
+   "start": 247.96,
+   "end": 250.14,
+   "text": "I ovo što je čovjek upitao"
+  },
+  {
+   "start": 250.14,
+   "end": 251.2,
+   "text": "o namazu,"
+  },
+  {
+   "start": 253.42,
+   "end": 254.36,
+   "text": "upitao ga je"
+  },
+  {
+   "start": 254.36,
+   "end": 255.44,
+   "text": "šta je minimum"
+  },
+  {
+   "start": 255.44,
+   "end": 277.16,
+   "text": "Ali nije ga pitao u smislu da pocijeni vrednost namaza koji su od suneta ili od nafile. Iz njegovog drugog pitanja se razumije, kaže imam li ja još nešto obavezu? Kad je u pitanje namaz, on mu kaže dobrovoljni namazi ako hoćeš."
+  },
+  {
+   "start": 277.16,
+   "end": 281.84,
+   "text": "nakon što se čovjek udalio od poslanika"
+  },
+  {
+   "start": 281.84,
+   "end": 284.0,
+   "text": "ali sratu sram, poslanika ali sratu sram"
+  },
+  {
+   "start": 284.0,
+   "end": 284.36,
+   "text": "kaže"
+  },
+  {
+   "start": 284.36,
+   "end": 287.8,
+   "text": "uspije će ovaj čovjek ako govori istinu"
+  },
+  {
+   "start": 287.8,
+   "end": 290.62,
+   "text": "ako govori istinu"
+  },
+  {
+   "start": 290.62,
+   "end": 291.42,
+   "text": "a on je rekao"
+  },
+  {
+   "start": 291.42,
+   "end": 294.06,
+   "text": "neću ja ni da dodam ni da oduzmem"
+  },
+  {
+   "start": 294.06,
+   "end": 295.58,
+   "text": "od ovoga što sam mi kazao"
+  },
+  {
+   "start": 295.58,
+   "end": 299.3,
+   "text": "neću ni da dodam"
+  },
+  {
+   "start": 299.3,
+   "end": 302.28,
+   "text": "a ni da oduzmem od ovoga što sam mi kazao"
+  },
+  {
+   "start": 302.28,
+   "end": 307.24,
+   "text": "kaže se"
+  },
+  {
+   "start": 307.24,
+   "end": 310.98,
+   "text": "u hadisi kuciju"
+  },
+  {
+   "start": 310.98,
+   "end": 312.86,
+   "text": "uzrišen je"
+  },
+  {
+   "start": 312.86,
+   "end": 314.62,
+   "text": "Allah Zalešanohu je rekao"
+  },
+  {
+   "start": 314.62,
+   "end": 317.22,
+   "text": "Moj rog mi se neprestano približava"
+  },
+  {
+   "start": 317.22,
+   "end": 318.54,
+   "text": "Dobrovornim dijelima"
+  },
+  {
+   "start": 318.54,
+   "end": 320.72,
+   "text": "Sve dok ga ne zavolim"
+  },
+  {
+   "start": 320.72,
+   "end": 323.32,
+   "text": "Sve dok ga ne zavolim"
+  },
+  {
+   "start": 323.32,
+   "end": 325.06,
+   "text": "Treba braća, dobrovorni namazi"
+  },
+  {
+   "start": 325.06,
+   "end": 327.22,
+   "text": "Dakle, oni"
+  },
+  {
+   "start": 327.22,
+   "end": 328.7,
+   "text": "Povećavaju nagradu"
+  },
+  {
+   "start": 328.7,
+   "end": 332.14,
+   "text": "Oni povećavaju nagradu"
+  },
+  {
+   "start": 332.14,
+   "end": 333.48,
+   "text": "Dobrovorni namazi, oni"
+  },
+  {
+   "start": 333.48,
+   "end": 335.22,
+   "text": "Nadomestuju farzove"
+  },
+  {
+   "start": 335.22,
+   "end": 338.58,
+   "text": "Nadomestuju farzove"
+  },
+  {
+   "start": 338.58,
+   "end": 341.46,
+   "text": "I treće, dobrovorni namazi"
+  },
+  {
+   "start": 341.46,
+   "end": 344.78,
+   "text": "Nas čine da budemo pokorni"
+  },
+  {
+   "start": 344.78,
+   "end": 345.94,
+   "text": "Allahovome poslaniku"
+  },
+  {
+   "start": 345.94,
+   "end": 349.12,
+   "text": "jer ih je on"
+  },
+  {
+   "start": 349.12,
+   "end": 351.32,
+   "text": "praktikovao."
+  },
+  {
+   "start": 352.06,
+   "end": 352.88,
+   "text": "Kaže se"
+  },
+  {
+   "start": 352.88,
+   "end": 353.96,
+   "text": "u Korani kerimu"
+  },
+  {
+   "start": 353.96,
+   "end": 356.08,
+   "text": "i proti"
+  },
+  {
+   "start": 356.08,
+   "end": 358.72,
+   "text": "dio noći u namazu"
+  },
+  {
+   "start": 358.72,
+   "end": 360.86,
+   "text": "tebi"
+  },
+  {
+   "start": 360.86,
+   "end": 361.56,
+   "text": "dodatno"
+  },
+  {
+   "start": 361.56,
+   "end": 363.92,
+   "text": "pa ćemo"
+  },
+  {
+   "start": 363.92,
+   "end": 366.42,
+   "text": "kaže na onome svijetu gospodar"
+  },
+  {
+   "start": 366.42,
+   "end": 367.06,
+   "text": "tvoj će"
+  },
+  {
+   "start": 367.06,
+   "end": 369.16,
+   "text": "tvoj ćete"
+  },
+  {
+   "start": 369.16,
+   "end": 371.18,
+   "text": "dakle nahvaleni"
+  },
+  {
+   "start": 371.18,
+   "end": 372.26,
+   "text": "podužaj postaviti."
+  },
+  {
+   "start": 372.26,
+   "end": 374.34,
+   "text": "tvoj će te gospodar"
+  },
+  {
+   "start": 374.34,
+   "end": 376.16,
+   "text": "na hvalen i podožaj postaviti"
+  },
+  {
+   "start": 376.16,
+   "end": 378.92,
+   "text": "ako obavljaš"
+  },
+  {
+   "start": 378.92,
+   "end": 380.28,
+   "text": "teheđud, teheđud je"
+  },
+  {
+   "start": 380.28,
+   "end": 381.5,
+   "text": "noćni namaz"
+  },
+  {
+   "start": 381.5,
+   "end": 384.0,
+   "text": "koji je na fila"
+  },
+  {
+   "start": 384.0,
+   "end": 387.44,
+   "text": "koji je na fila"
+  },
+  {
+   "start": 387.44,
+   "end": 388.34,
+   "text": "na fila je"
+  },
+  {
+   "start": 388.34,
+   "end": 391.62,
+   "text": "u prijevodu kad bih razumijeli to što je na fila"
+  },
+  {
+   "start": 391.62,
+   "end": 392.66,
+   "text": "na fila je"
+  },
+  {
+   "start": 392.66,
+   "end": 395.08,
+   "text": "dobrovoljni namaz"
+  },
+  {
+   "start": 395.08,
+   "end": 397.08,
+   "text": "koji se klanjuje višak od onih"
+  },
+  {
+   "start": 397.08,
+   "end": 398.26,
+   "text": "obaveznih namaza"
+  },
+  {
+   "start": 398.26,
+   "end": 400.5,
+   "text": "od onih tvarz namaza"
+  },
+  {
+   "start": 400.5,
+   "end": 402.4,
+   "text": "to je na fila"
+  },
+  {
+   "start": 402.4,
+   "end": 408.07,
+   "text": "onda se"
+  },
+  {
+   "start": 408.07,
+   "end": 410.47,
+   "text": "dakle"
+  },
+  {
+   "start": 410.47,
+   "end": 415.24,
+   "text": "kaže da su dobrovoljni namazi"
+  },
+  {
+   "start": 415.24,
+   "end": 416.36,
+   "text": "jedan od puteva"
+  },
+  {
+   "start": 416.36,
+   "end": 418.0,
+   "text": "jedan od puteva"
+  },
+  {
+   "start": 418.0,
+   "end": 420.1,
+   "text": "kada se čovjek približava"
+  },
+  {
+   "start": 420.1,
+   "end": 421.66,
+   "text": "Allahu tabaraka wa ta'ala"
+  },
+  {
+   "start": 421.66,
+   "end": 423.26,
+   "text": "da ga Allah"
+  },
+  {
+   "start": 423.26,
+   "end": 425.2,
+   "text": "zavoli"
+  },
+  {
+   "start": 425.2,
+   "end": 430.25,
+   "text": "kaže čovjek će obavrati dobrovoljne namaze"
+  },
+  {
+   "start": 430.25,
+   "end": 431.93,
+   "text": "sve dok ga ja ne zavoli"
+  },
+  {
+   "start": 431.93,
+   "end": 434.09,
+   "text": "pa hoćemo li mi"
+  },
+  {
+   "start": 434.09,
+   "end": 435.83,
+   "text": "da nas Allah zavoli"
+  },
+  {
+   "start": 435.83,
+   "end": 438.63,
+   "text": "a zavode će nas"
+  },
+  {
+   "start": 438.63,
+   "end": 439.13,
+   "text": "Allah zavoli"
+  },
+  {
+   "start": 439.13,
+   "end": 441.47,
+   "text": "kako ako budemo izvršavali"
+  },
+  {
+   "start": 441.47,
+   "end": 442.21,
+   "text": "dobrovolne"
+  },
+  {
+   "start": 442.21,
+   "end": 445.29,
+   "text": "namaze. Sunet"
+  },
+  {
+   "start": 445.29,
+   "end": 446.07,
+   "text": "namazi."
+  },
+  {
+   "start": 447.51,
+   "end": 448.41,
+   "text": "Sunet namazi."
+  },
+  {
+   "start": 452.76,
+   "end": 453.46,
+   "text": "Pa se kaže"
+  },
+  {
+   "start": 453.46,
+   "end": 456.46,
+   "text": "kako delimo sunete."
+  },
+  {
+   "start": 458.0,
+   "end": 459.18,
+   "text": "Suneti se dele"
+  },
+  {
+   "start": 459.18,
+   "end": 460.12,
+   "text": "na sledići način."
+  },
+  {
+   "start": 461.4,
+   "end": 462.76,
+   "text": "Postoji, postoje"
+  },
+  {
+   "start": 462.76,
+   "end": 464.84,
+   "text": "sunet, suneti koji su"
+  },
+  {
+   "start": 464.84,
+   "end": 466.96,
+   "text": "pritvrđeni suneti, za njih kažemo"
+  },
+  {
+   "start": 466.96,
+   "end": 468.7,
+   "text": "oni su suneti"
+  },
+  {
+   "start": 468.7,
+   "end": 471.1,
+   "text": "mojkede. Pritvrđeni sunet."
+  },
+  {
+   "start": 471.48,
+   "end": 473.2,
+   "text": "Što znači ovo pritvrđeni sunet?"
+  },
+  {
+   "start": 473.54,
+   "end": 474.88,
+   "text": "Suneti koji je"
+  },
+  {
+   "start": 474.88,
+   "end": 477.1,
+   "text": "poslanika 10 ratu 7 klanjao"
+  },
+  {
+   "start": 477.1,
+   "end": 478.82,
+   "text": "stano i nikad ih nije"
+  },
+  {
+   "start": 478.82,
+   "end": 484.19,
+   "text": "izustavljao. U drugu"
+  },
+  {
+   "start": 484.19,
+   "end": 486.25,
+   "text": "grupu suneta spadaju"
+  },
+  {
+   "start": 486.25,
+   "end": 488.23,
+   "text": "suneti koji se zovu"
+  },
+  {
+   "start": 488.23,
+   "end": 490.13,
+   "text": "Gairimu Ekebe, ili"
+  },
+  {
+   "start": 490.13,
+   "end": 492.17,
+   "text": "nepritvrđeni suneti. Ovo"
+  },
+  {
+   "start": 492.17,
+   "end": 493.97,
+   "text": "nepritvrđeni suneti znači"
+  },
+  {
+   "start": 493.97,
+   "end": 494.79,
+   "text": "nekad"
+  },
+  {
+   "start": 494.79,
+   "end": 498.39,
+   "text": "nekad iz opravdanih"
+  },
+  {
+   "start": 498.39,
+   "end": 500.11,
+   "text": "razloga možda ih je"
+  },
+  {
+   "start": 500.11,
+   "end": 502.31,
+   "text": "poslanik izustavljao ili"
+  },
+  {
+   "start": 502.31,
+   "end": 504.15,
+   "text": "možda od suneta je"
+  },
+  {
+   "start": 504.15,
+   "end": 506.31,
+   "text": "i nešto ostavljao i kod kuće."
+  },
+  {
+   "start": 506.31,
+   "end": 522.37,
+   "text": "Vidjet ćemo kasnije da je lijepo nekad klanjati sunete i kod kuće, ali to ne znači da se zanemaru potpunosti ti suneti, bilo da se oni klanjaju u džaviji ili kod kuće."
+  },
+  {
+   "start": 522.37,
+   "end": 527.52,
+   "text": "ili kod kuće"
+  },
+  {
+   "start": 527.52,
+   "end": 529.26,
+   "text": "nažalost"
+  },
+  {
+   "start": 529.26,
+   "end": 532.3,
+   "text": "loša praksa je pokazala"
+  },
+  {
+   "start": 532.3,
+   "end": 534.62,
+   "text": "da kod nas ima"
+  },
+  {
+   "start": 534.62,
+   "end": 535.88,
+   "text": "da kod nas ima"
+  },
+  {
+   "start": 535.88,
+   "end": 536.94,
+   "text": "takvi primjera"
+  },
+  {
+   "start": 536.94,
+   "end": 538.92,
+   "text": "da ljudi"
+  },
+  {
+   "start": 538.92,
+   "end": 542.2,
+   "text": "izostavljaju sunete"
+  },
+  {
+   "start": 542.2,
+   "end": 544.7,
+   "text": "pod plaštom"
+  },
+  {
+   "start": 544.7,
+   "end": 545.64,
+   "text": "pod izgovorom"
+  },
+  {
+   "start": 545.64,
+   "end": 546.6,
+   "text": "pa to je sunet"
+  },
+  {
+   "start": 546.6,
+   "end": 548.52,
+   "text": "pa to je sunet"
+  },
+  {
+   "start": 548.52,
+   "end": 550.34,
+   "text": "ok be sunet"
+  },
+  {
+   "start": 550.34,
+   "end": 551.5,
+   "text": "ali ti suneti"
+  },
+  {
+   "start": 551.5,
+   "end": 553.88,
+   "text": "znate šta donose ti"
+  },
+  {
+   "start": 553.88,
+   "end": 556.02,
+   "text": "pogotovo ti pritvrđeni suneti"
+  },
+  {
+   "start": 556.02,
+   "end": 573.91,
+   "text": "Što oni donose? Ti pritvrđeni suneti donose da poslanika Lijesra, to slan kaže ko klanja 12 rekata, tokom dana i noći bit će mu sagrađena kuća uđenetu."
+  },
+  {
+   "start": 573.91,
+   "end": 598.14,
+   "text": "Koji su to suneti koji su pritvrđeni? Dva rekata sunet, dakle sabarskog suneta, četiri rekata podnevskog suneta prije farza, dva rekata suneta ili son suneta nakon podnevskog farza,"
+  },
+  {
+   "start": 598.14,
+   "end": 602.18,
+   "text": "Dva rekata nakon Akšamskog farza"
+  },
+  {
+   "start": 602.18,
+   "end": 605.96,
+   "text": "I dva rekata nakon Jacinskog farza"
+  },
+  {
+   "start": 605.96,
+   "end": 609.4,
+   "text": "To su pritvrđeni suneti"
+  },
+  {
+   "start": 609.4,
+   "end": 613.82,
+   "text": "Ko klanja 12 rekata"
+  },
+  {
+   "start": 613.82,
+   "end": 615.78,
+   "text": "Ovih 12 pritvrđenih suneta"
+  },
+  {
+   "start": 615.78,
+   "end": 618.38,
+   "text": "Kaže njemu će biti sagrađena"
+  },
+  {
+   "start": 618.38,
+   "end": 621.98,
+   "text": "Njemu će biti sagrađena kuća u dženetu"
+  },
+  {
+   "start": 621.98,
+   "end": 624.68,
+   "text": "Zatim rekli smo"
+  },
+  {
+   "start": 624.68,
+   "end": 627.12,
+   "text": "pored sunnet"
+  },
+  {
+   "start": 627.12,
+   "end": 629.68,
+   "text": "pritvrđenih i nepritvrđenih sunneta"
+  },
+  {
+   "start": 629.68,
+   "end": 630.72,
+   "text": "postoji nafila"
+  },
+  {
+   "start": 630.72,
+   "end": 633.26,
+   "text": "nafila"
+  },
+  {
+   "start": 633.26,
+   "end": 635.4,
+   "text": "koji musliman"
+  },
+  {
+   "start": 635.4,
+   "end": 639.56,
+   "text": "klanja radi"
+  },
+  {
+   "start": 639.56,
+   "end": 641.88,
+   "text": "dodatnog približavanja Allahu tebare"
+  },
+  {
+   "start": 641.88,
+   "end": 644.02,
+   "text": "u jednom hadisu"
+  },
+  {
+   "start": 644.02,
+   "end": 644.62,
+   "text": "se kaže"
+  },
+  {
+   "start": 644.62,
+   "end": 647.06,
+   "text": "a prenosi je bohorere"
+  },
+  {
+   "start": 647.06,
+   "end": 648.0,
+   "text": "radi Allahu"
+  },
+  {
+   "start": 648.0,
+   "end": 651.16,
+   "text": "a bilježi ga imam bohari"
+  },
+  {
+   "start": 651.16,
+   "end": 652.34,
+   "text": "imam muslimove hadisu"
+  },
+  {
+   "start": 652.34,
+   "end": 654.66,
+   "text": "kaže moj prisni prijatel"
+  },
+  {
+   "start": 654.66,
+   "end": 655.96,
+   "text": "poslanik"
+  },
+  {
+   "start": 655.96,
+   "end": 678.12,
+   "text": "Moj prisni prijatelj, poslanik, kaže mi je poručio tri stvari. Post tri dana svakog mjeseca, svakog hićarskog mjeseca, tri dana. Dva rekata duha namaza nakon sabavskog namaza."
+  },
+  {
+   "start": 678.12,
+   "end": 680.82,
+   "text": "nakon što izađe sunce"
+  },
+  {
+   "start": 680.82,
+   "end": 685.08,
+   "text": "nakon toga"
+  },
+  {
+   "start": 685.08,
+   "end": 687.5,
+   "text": "da čovjek klanja duha namaz"
+  },
+  {
+   "start": 687.5,
+   "end": 689.82,
+   "text": "i da klanjam"
+  },
+  {
+   "start": 689.82,
+   "end": 691.1,
+   "text": "viter prije spavanja"
+  },
+  {
+   "start": 691.1,
+   "end": 695.58,
+   "text": "da klanjam viter prije"
+  },
+  {
+   "start": 695.58,
+   "end": 696.98,
+   "text": "prije spavanja"
+  },
+  {
+   "start": 696.98,
+   "end": 699.74,
+   "text": "zatim od namaza koji su sunet"
+  },
+  {
+   "start": 699.74,
+   "end": 700.24,
+   "text": "jeste"
+  },
+  {
+   "start": 700.24,
+   "end": 703.76,
+   "text": "kada dođemo u džamiji"
+  },
+  {
+   "start": 703.76,
+   "end": 705.32,
+   "text": "da klanjamo dva rekata"
+  },
+  {
+   "start": 705.32,
+   "end": 708.34,
+   "text": "prema džamiji"
+  },
+  {
+   "start": 708.34,
+   "end": 713.98,
+   "text": "zatim"
+  },
+  {
+   "start": 713.98,
+   "end": 719.88,
+   "text": "namaz između jezana"
+  },
+  {
+   "start": 719.88,
+   "end": 720.68,
+   "text": "i kameta"
+  },
+  {
+   "start": 720.68,
+   "end": 724.28,
+   "text": "kaže pegamer"
+  },
+  {
+   "start": 724.28,
+   "end": 727.18,
+   "text": "između je zana"
+  },
+  {
+   "start": 727.18,
+   "end": 729.8,
+   "text": "i kameta ima namaz"
+  },
+  {
+   "start": 729.8,
+   "end": 731.68,
+   "text": "i to je ponovio tri puta"
+  },
+  {
+   "start": 731.68,
+   "end": 734.28,
+   "text": "zato mi je rekao"
+  },
+  {
+   "start": 734.28,
+   "end": 735.86,
+   "text": "za onoga ko želi"
+  },
+  {
+   "start": 735.86,
+   "end": 739.43,
+   "text": "opet"
+  },
+  {
+   "start": 739.43,
+   "end": 741.33,
+   "text": "neće da stavi"
+  },
+  {
+   "start": 741.33,
+   "end": 743.61,
+   "text": "na nekom većem stepenu"
+  },
+  {
+   "start": 743.61,
+   "end": 745.01,
+   "text": "nego kaže to je sunet"
+  },
+  {
+   "start": 745.01,
+   "end": 746.91,
+   "text": "pa ko želi"
+  },
+  {
+   "start": 746.91,
+   "end": 750.05,
+   "text": "hoćemo da sledimo sunet"
+  },
+  {
+   "start": 750.05,
+   "end": 752.13,
+   "text": "jer govorimo stalno"
+  },
+  {
+   "start": 752.13,
+   "end": 753.77,
+   "text": "Kur'an sunet"
+  },
+  {
+   "start": 753.77,
+   "end": 756.61,
+   "text": "pa evo"
+  },
+  {
+   "start": 756.61,
+   "end": 758.63,
+   "text": "šta kaže poslanik"
+  },
+  {
+   "start": 758.63,
+   "end": 759.69,
+   "text": "sa nalavnijom sa nama"
+  },
+  {
+   "start": 759.69,
+   "end": 763.86,
+   "text": "zatim rekli smo da"
+  },
+  {
+   "start": 763.86,
+   "end": 766.2,
+   "text": "ti dobrovoljni namazin"
+  },
+  {
+   "start": 766.2,
+   "end": 767.76,
+   "text": "nadomestuju farzove"
+  },
+  {
+   "start": 767.76,
+   "end": 769.24,
+   "text": "kada dođe sudni dan"
+  },
+  {
+   "start": 769.24,
+   "end": 771.86,
+   "text": "prvo zašto ćemo biti"
+  },
+  {
+   "start": 771.86,
+   "end": 773.7,
+   "text": "pitani na sudni dan jeste"
+  },
+  {
+   "start": 773.7,
+   "end": 774.46,
+   "text": "namaz"
+  },
+  {
+   "start": 774.46,
+   "end": 777.22,
+   "text": "ako mu je namaz ispravljan"
+  },
+  {
+   "start": 777.22,
+   "end": 779.08,
+   "text": "ispravna su mu i ostala druga dijela"
+  },
+  {
+   "start": 779.08,
+   "end": 780.58,
+   "text": "ako mu namaz nije ispravljan"
+  },
+  {
+   "start": 780.58,
+   "end": 783.32,
+   "text": "nisu mu ispravna i ostala druga dijela"
+  },
+  {
+   "start": 783.32,
+   "end": 785.16,
+   "text": "ali kaže"
+  },
+  {
+   "start": 785.16,
+   "end": 787.2,
+   "text": "iz milosti Allah Zadršanovu"
+  },
+  {
+   "start": 787.2,
+   "end": 788.88,
+   "text": "će kazati, dobro,"
+  },
+  {
+   "start": 789.44,
+   "end": 790.44,
+   "text": "nema farzova,"
+  },
+  {
+   "start": 790.88,
+   "end": 793.28,
+   "text": "nedostaju mu farzovi, ovako, ovako,"
+  },
+  {
+   "start": 793.34,
+   "end": 795.42,
+   "text": "ovako, pogledajte u njegov sunet."
+  },
+  {
+   "start": 800.77,
+   "end": 802.07,
+   "text": "Pogledajte u njegov sunet."
+  },
+  {
+   "start": 802.93,
+   "end": 803.45,
+   "text": "Treba račno."
+  },
+  {
+   "start": 804.75,
+   "end": 805.51,
+   "text": "Ne samo što"
+  },
+  {
+   "start": 805.51,
+   "end": 806.99,
+   "text": "trebamo klanjati"
+  },
+  {
+   "start": 806.99,
+   "end": 809.55,
+   "text": "sunete i na file"
+  },
+  {
+   "start": 809.55,
+   "end": 811.55,
+   "text": "i tehjetul mezžit i ostala"
+  },
+  {
+   "start": 811.55,
+   "end": 813.57,
+   "text": "druga, i ostali drugi namazi"
+  },
+  {
+   "start": 813.57,
+   "end": 815.49,
+   "text": "dobro onog tipa."
+  },
+  {
+   "start": 816.53,
+   "end": 817.91,
+   "text": "Problem je što mi ne klanjamo"
+  },
+  {
+   "start": 817.91,
+   "end": 825.27,
+   "text": "farzove. Što ne klanjamo"
+  },
+  {
+   "start": 825.27,
+   "end": 827.43,
+   "text": "farzov u jedno selo od hiljadu stanovnika"
+  },
+  {
+   "start": 827.43,
+   "end": 829.45,
+   "text": "dvadeset stanovnika"
+  },
+  {
+   "start": 829.45,
+   "end": 831.45,
+   "text": "klanja pet dnevna namaza"
+  },
+  {
+   "start": 831.45,
+   "end": 832.97,
+   "text": "i to nisu"
+  },
+  {
+   "start": 832.97,
+   "end": 835.81,
+   "text": "baš stalno tu"
+  },
+  {
+   "start": 835.81,
+   "end": 839.11,
+   "text": "pa što ćemo kazati Allah"
+  },
+  {
+   "start": 839.11,
+   "end": 841.01,
+   "text": "na sudni dan kad nas pita"
+  },
+  {
+   "start": 841.01,
+   "end": 842.49,
+   "text": "o namazu"
+  },
+  {
+   "start": 842.49,
+   "end": 845.39,
+   "text": "što ćemo kazati Allah"
+  },
+  {
+   "start": 845.39,
+   "end": 849.29,
+   "text": "i zamišljeni čovjek da može ući"
+  },
+  {
+   "start": 849.29,
+   "end": 850.87,
+   "text": "učiniti bez namaza"
+  },
+  {
+   "start": 850.87,
+   "end": 853.15,
+   "text": "a u Korani"
+  },
+  {
+   "start": 853.15,
+   "end": 853.97,
+   "text": "kjer imu se kaže"
+  },
+  {
+   "start": 853.97,
+   "end": 855.47,
+   "text": "maa se reke kum fi sekar,"
+  },
+  {
+   "start": 855.81,
+   "end": 857.29,
+   "text": "što vas je dovel u djehenem,"
+  },
+  {
+   "start": 858.19,
+   "end": 860.07,
+   "text": "pa jedan od odgovora će biti"
+  },
+  {
+   "start": 860.07,
+   "end": 862.03,
+   "text": "le mjekum minan musardin,"
+  },
+  {
+   "start": 862.31,
+   "end": 863.67,
+   "text": "nismo klanani namaz,"
+  },
+  {
+   "start": 863.91,
+   "end": 866.13,
+   "text": "eto zato smo ovde, gdje jesmo sad."
+  },
+  {
+   "start": 869.91,
+   "end": 870.45,
+   "text": "Drabračo,"
+  },
+  {
+   "start": 870.89,
+   "end": 871.73,
+   "text": "bojte se Allaha,"
+  },
+  {
+   "start": 873.41,
+   "end": 874.75,
+   "text": "izvršavajte farzove,"
+  },
+  {
+   "start": 876.25,
+   "end": 877.03,
+   "text": "jer za farzove"
+  },
+  {
+   "start": 877.03,
+   "end": 878.51,
+   "text": "ne samo što ćemo biti pitani,"
+  },
+  {
+   "start": 878.97,
+   "end": 880.69,
+   "text": "za farzove ćemo biti kažnjeni"
+  },
+  {
+   "start": 880.69,
+   "end": 882.61,
+   "text": "ukoliko ne izvršavamo"
+  },
+  {
+   "start": 882.61,
+   "end": 884.51,
+   "text": "stroge naredbe uzrušenog Allaha"
+  },
+  {
+   "start": 884.51,
+   "end": 890.35,
+   "text": "te bareke vata. Namaz nije"
+  },
+  {
+   "start": 890.35,
+   "end": 894.11,
+   "text": "moja želja kad ja hoću da klanjam"
+  },
+  {
+   "start": 894.11,
+   "end": 895.73,
+   "text": "ne ne, kad ja hoću da klanjam"
+  },
+  {
+   "start": 895.73,
+   "end": 897.63,
+   "text": "dobrovoljni namazi, tu postoji želja"
+  },
+  {
+   "start": 897.63,
+   "end": 899.67,
+   "text": "u dobrovoljnim i batetima"
+  },
+  {
+   "start": 899.67,
+   "end": 902.09,
+   "text": "postoji želja"
+  },
+  {
+   "start": 902.09,
+   "end": 903.35,
+   "text": "voda, ako hoćeš"
+  },
+  {
+   "start": 903.35,
+   "end": 905.61,
+   "text": "u dobrovoljnim stvarima"
+  },
+  {
+   "start": 905.61,
+   "end": 907.65,
+   "text": "u obaveznim stvarima nema"
+  },
+  {
+   "start": 907.65,
+   "end": 908.13,
+   "text": "vešera"
+  },
+  {
+   "start": 908.13,
+   "end": 910.93,
+   "text": "nema ako hoću ja"
+  },
+  {
+   "start": 910.93,
+   "end": 913.29,
+   "text": "i koliko hoću ja"
+  },
+  {
+   "start": 913.29,
+   "end": 914.79,
+   "text": "i koliko neću ja"
+  },
+  {
+   "start": 914.79,
+   "end": 920.39,
+   "text": "tu nema izborav"
+  },
+  {
+   "start": 920.39,
+   "end": 923.76,
+   "text": "zatim"
+  },
+  {
+   "start": 923.76,
+   "end": 925.24,
+   "text": "najbori namaz"
+  },
+  {
+   "start": 925.24,
+   "end": 927.78,
+   "text": "nakon obaveznog namaza"
+  },
+  {
+   "start": 927.78,
+   "end": 928.9,
+   "text": "jeste"
+  },
+  {
+   "start": 928.9,
+   "end": 930.32,
+   "text": "noćni namaz"
+  },
+  {
+   "start": 930.32,
+   "end": 932.22,
+   "text": "i govorili smo da Allah"
+  },
+  {
+   "start": 932.22,
+   "end": 934.18,
+   "text": "se spušta na prvo nebo"
+  },
+  {
+   "start": 934.18,
+   "end": 935.4,
+   "text": "ovako, ovako, ovako, ovako"
+  },
+  {
+   "start": 935.4,
+   "end": 938.36,
+   "text": "pruža ruke svoje milosti"
+  },
+  {
+   "start": 938.36,
+   "end": 940.82,
+   "text": "i govori imali neko da nešto traži"
+  },
+  {
+   "start": 940.82,
+   "end": 942.22,
+   "text": "da mu dam, imali neko"
+  },
+  {
+   "start": 942.22,
+   "end": 944.02,
+   "text": "da traži oprost, da mu oprostim"
+  },
+  {
+   "start": 944.02,
+   "end": 945.1,
+   "text": "imali neko"
+  },
+  {
+   "start": 945.1,
+   "end": 949.69,
+   "text": "mi spavamo"
+  },
+  {
+   "start": 949.69,
+   "end": 952.25,
+   "text": "mi noćni namaz to ne klanjamo"
+  },
+  {
+   "start": 952.25,
+   "end": 953.87,
+   "text": "mi saba ne klanjamo"
+  },
+  {
+   "start": 953.87,
+   "end": 956.09,
+   "text": "mi podne, to"
+  },
+  {
+   "start": 956.09,
+   "end": 957.25,
+   "text": "ti farzovi."
+  },
+  {
+   "start": 961.68,
+   "end": 963.8,
+   "text": "Zatim, postoji suneti koji su"
+  },
+  {
+   "start": 963.8,
+   "end": 965.4,
+   "text": "koji su"
+  },
+  {
+   "start": 965.4,
+   "end": 967.52,
+   "text": "dakle"
+  },
+  {
+   "start": 967.52,
+   "end": 969.46,
+   "text": "povezani sa"
+  },
+  {
+   "start": 969.46,
+   "end": 971.12,
+   "text": "pet dnjevna namaza."
+  },
+  {
+   "start": 974.15,
+   "end": 976.13,
+   "text": "Rekli smo sabavski sunet."
+  },
+  {
+   "start": 977.93,
+   "end": 979.69,
+   "text": "Dva rekata sabavskog suneta"
+  },
+  {
+   "start": 979.69,
+   "end": 981.79,
+   "text": "boda su od lunjaluka i svega što je na njemu."
+  },
+  {
+   "start": 982.17,
+   "end": 983.71,
+   "text": "Kaže pregamer sada baonio sve."
+  },
+  {
+   "start": 984.71,
+   "end": 986.09,
+   "text": "I ima muslim"
+  },
+  {
+   "start": 986.09,
+   "end": 987.25,
+   "text": "prenosilo i havisu."
+  },
+  {
+   "start": 987.25,
+   "end": 988.57,
+   "text": "Da samo klanjaš"
+  },
+  {
+   "start": 988.57,
+   "end": 990.71,
+   "text": "dva rekata"
+  },
+  {
+   "start": 990.71,
+   "end": 991.97,
+   "text": "sabanskog suneta"
+  },
+  {
+   "start": 991.97,
+   "end": 996.78,
+   "text": "on vrijedi koliko"
+  },
+  {
+   "start": 996.78,
+   "end": 999.04,
+   "text": "čitav dunjanuk i sve što je na njemu"
+  },
+  {
+   "start": 999.04,
+   "end": 1000.76,
+   "text": "pa onda možemo li mi"
+  },
+  {
+   "start": 1000.76,
+   "end": 1002.86,
+   "text": "zamisliti, ne možemo da zamislimo koliko"
+  },
+  {
+   "start": 1002.86,
+   "end": 1004.46,
+   "text": "onda vrijedi farz"
+  },
+  {
+   "start": 1004.46,
+   "end": 1006.66,
+   "text": "ako vrijedi toliko sunet"
+  },
+  {
+   "start": 1006.66,
+   "end": 1009.7,
+   "text": "ako vrijedi toliko sunet"
+  },
+  {
+   "start": 1009.7,
+   "end": 1010.84,
+   "text": "zatim"
+  },
+  {
+   "start": 1010.84,
+   "end": 1015.11,
+   "text": "kuklanja četiri"
+  },
+  {
+   "start": 1015.11,
+   "end": 1016.95,
+   "text": "rekata prije podne"
+  },
+  {
+   "start": 1016.95,
+   "end": 1019.07,
+   "text": "odnevskog farza i četiri rekata"
+  },
+  {
+   "start": 1019.07,
+   "end": 1020.81,
+   "text": "u jednoj predelji se kaže"
+  },
+  {
+   "start": 1020.81,
+   "end": 1022.11,
+   "text": "četiri rekata posle"
+  },
+  {
+   "start": 1022.11,
+   "end": 1023.51,
+   "text": "podnjonskog farza."
+  },
+  {
+   "start": 1025.09,
+   "end": 1026.43,
+   "text": "Allah će mu zabraniti"
+  },
+  {
+   "start": 1026.43,
+   "end": 1027.91,
+   "text": "džehennem."
+  },
+  {
+   "start": 1031.19,
+   "end": 1033.37,
+   "text": "Allah će mu zabraniti ulazak"
+  },
+  {
+   "start": 1033.37,
+   "end": 1033.93,
+   "text": "u džehennem."
+  },
+  {
+   "start": 1036.31,
+   "end": 1038.55,
+   "text": "Taj neće da bude ostanomnika"
+  },
+  {
+   "start": 1038.55,
+   "end": 1040.21,
+   "text": "džehennema."
+  },
+  {
+   "start": 1041.31,
+   "end": 1042.63,
+   "text": "Allah će mu zabraniti"
+  },
+  {
+   "start": 1042.63,
+   "end": 1044.07,
+   "text": "ulazak u vatru, u džehennem."
+  },
+  {
+   "start": 1044.39,
+   "end": 1046.39,
+   "text": "Dakle, taj čovjek će biti"
+  },
+  {
+   "start": 1046.39,
+   "end": 1047.87,
+   "text": "zaštićen džehennemske vatre."
+  },
+  {
+   "start": 1048.65,
+   "end": 1050.43,
+   "text": "Ako čovjek klanja četiri rekata"
+  },
+  {
+   "start": 1050.43,
+   "end": 1052.93,
+   "text": "prije podnjonskog farza"
+  },
+  {
+   "start": 1052.93,
+   "end": 1054.75,
+   "text": "i četiri rekata posle."
+  },
+  {
+   "start": 1054.91,
+   "end": 1056.55,
+   "text": "posle"
+  },
+  {
+   "start": 1056.55,
+   "end": 1059.23,
+   "text": "onda se kaže za Ikindiju"
+  },
+  {
+   "start": 1059.23,
+   "end": 1060.63,
+   "text": "Ikindijski sunet koji je"
+  },
+  {
+   "start": 1060.63,
+   "end": 1061.47,
+   "text": "gajni mojkide"
+  },
+  {
+   "start": 1061.47,
+   "end": 1063.41,
+   "text": "koji je nepritvrđeni"
+  },
+  {
+   "start": 1063.41,
+   "end": 1065.39,
+   "text": "neka se Allah smiluje"
+  },
+  {
+   "start": 1065.39,
+   "end": 1067.29,
+   "text": "čovjeku koji klanja"
+  },
+  {
+   "start": 1067.29,
+   "end": 1069.31,
+   "text": "četiri rekata prije Ikindije"
+  },
+  {
+   "start": 1069.31,
+   "end": 1071.83,
+   "text": "tu je jedna vrsta dove"
+  },
+  {
+   "start": 1071.83,
+   "end": 1073.41,
+   "text": "koju je učio poslanik"
+  },
+  {
+   "start": 1073.41,
+   "end": 1074.43,
+   "text": "sa ljadaone u srna"
+  },
+  {
+   "start": 1074.43,
+   "end": 1076.27,
+   "text": "i ovaj hadis prenosi"
+  },
+  {
+   "start": 1076.27,
+   "end": 1078.37,
+   "text": "i je budavud i imam tirmizi"
+  },
+  {
+   "start": 1078.37,
+   "end": 1083.51,
+   "text": "neka se Allah smiluje čovjeku"
+  },
+  {
+   "start": 1083.51,
+   "end": 1085.17,
+   "text": "koji klanja četiri rekata"
+  },
+  {
+   "start": 1085.17,
+   "end": 1086.41,
+   "text": "suneta"
+  },
+  {
+   "start": 1086.41,
+   "end": 1089.17,
+   "text": "prije farza"
+  },
+  {
+   "start": 1089.17,
+   "end": 1091.45,
+   "text": "i kindiskog"
+  },
+  {
+   "start": 1091.45,
+   "end": 1093.15,
+   "text": "zatim kaže"
+  },
+  {
+   "start": 1093.15,
+   "end": 1095.59,
+   "text": "Ibni Omar radi Allah"
+  },
+  {
+   "start": 1095.59,
+   "end": 1097.37,
+   "text": "onoho prenosi zapamtio samo da"
+  },
+  {
+   "start": 1097.37,
+   "end": 1098.95,
+   "text": "Allaho poslanika le sratu sran"
+  },
+  {
+   "start": 1098.95,
+   "end": 1100.03,
+   "text": "kaže deset reket"
+  },
+  {
+   "start": 1100.03,
+   "end": 1103.25,
+   "text": "između ostalog dva poslije"
+  },
+  {
+   "start": 1103.25,
+   "end": 1104.37,
+   "text": "akšamskog farza"
+  },
+  {
+   "start": 1104.37,
+   "end": 1107.35,
+   "text": "dva poslije akšamskog farza"
+  },
+  {
+   "start": 1107.35,
+   "end": 1109.91,
+   "text": "da se klanja"
+  },
+  {
+   "start": 1109.91,
+   "end": 1114.71,
+   "text": "kaže klanjujte prije akšama"
+  },
+  {
+   "start": 1114.71,
+   "end": 1116.83,
+   "text": "i ujednoj predaj kaže"
+  },
+  {
+   "start": 1116.83,
+   "end": 1118.77,
+   "text": "klanjujte prije akšama dva reketa"
+  },
+  {
+   "start": 1118.77,
+   "end": 1119.67,
+   "text": "sunnata"
+  },
+  {
+   "start": 1119.67,
+   "end": 1123.03,
+   "text": "i to je ponovio tri puta"
+  },
+  {
+   "start": 1123.03,
+   "end": 1124.79,
+   "text": "i opet je kazao"
+  },
+  {
+   "start": 1124.79,
+   "end": 1125.35,
+   "text": "ko hoće"
+  },
+  {
+   "start": 1125.35,
+   "end": 1132.16,
+   "text": "imamo jacijski"
+  },
+  {
+   "start": 1132.16,
+   "end": 1133.54,
+   "text": "dakle"
+  },
+  {
+   "start": 1133.54,
+   "end": 1134.6,
+   "text": "sunnati"
+  },
+  {
+   "start": 1134.6,
+   "end": 1136.84,
+   "text": "a kaže se"
+  },
+  {
+   "start": 1136.84,
+   "end": 1140.1,
+   "text": "dva rekata posle jacije"
+  },
+  {
+   "start": 1140.1,
+   "end": 1142.16,
+   "text": "te čovjek klanja"
+  },
+  {
+   "start": 1142.16,
+   "end": 1143.5,
+   "text": "ali kaže se"
+  },
+  {
+   "start": 1143.5,
+   "end": 1146.36,
+   "text": "u ovoj predaji koji prenosi"
+  },
+  {
+   "start": 1146.36,
+   "end": 1147.54,
+   "text": "imam bohar, imam muslim"
+  },
+  {
+   "start": 1147.54,
+   "end": 1149.24,
+   "text": "kaže u svojoj kući"
+  },
+  {
+   "start": 1149.24,
+   "end": 1151.4,
+   "text": "u svojoj kući"
+  },
+  {
+   "start": 1151.4,
+   "end": 1155.3,
+   "text": "Zatim dolazi viter koji je posebno naglašen."
+  },
+  {
+   "start": 1156.24,
+   "end": 1158.64,
+   "text": "Učinite viter posljednjim svojim namazom."
+  },
+  {
+   "start": 1160.12,
+   "end": 1165.48,
+   "text": "Viter znači namaz koji se sastoji od neparan broj rekata."
+  },
+  {
+   "start": 1166.7,
+   "end": 1171.26,
+   "text": "Viter može da bude jedan rekat, tri rekata, pet rekata, sedam rekata, devet itd."
+  },
+  {
+   "start": 1171.66,
+   "end": 1173.56,
+   "text": "Viter je neparan broj."
+  },
+  {
+   "start": 1173.56,
+   "end": 1188.6,
+   "text": "I imamo stvari koje propuštamo tokom dolazka u džavniji Dragonoć."
+  },
+  {
+   "start": 1189.24,
+   "end": 1202.84,
+   "text": "Puno stvari od sudneta propuštamo, svi propuštamo te stvari. Od stvari koje propuštamo, a od sudneta su, kaže da čekamo namaz nakon namaza."
+  },
+  {
+   "start": 1202.84,
+   "end": 1205.92,
+   "text": "jer čovjek kada klanja recimo"
+  },
+  {
+   "start": 1205.92,
+   "end": 1207.56,
+   "text": "dođe prije podneva"
+  },
+  {
+   "start": 1207.56,
+   "end": 1209.66,
+   "text": "10-15 minuta prije podni"
+  },
+  {
+   "start": 1209.66,
+   "end": 1211.82,
+   "text": "klanja tehijetun međid i čeka"
+  },
+  {
+   "start": 1211.82,
+   "end": 1212.4,
+   "text": "podnje"
+  },
+  {
+   "start": 1212.4,
+   "end": 1215.08,
+   "text": "to njegovo čekanje"
+  },
+  {
+   "start": 1215.08,
+   "end": 1217.46,
+   "text": "nakon tehijetun međida"
+  },
+  {
+   "start": 1217.46,
+   "end": 1219.64,
+   "text": "smatra se kao da je čovjek"
+  },
+  {
+   "start": 1219.64,
+   "end": 1221.66,
+   "text": "u ibadetu i do onog"
+  },
+  {
+   "start": 1221.66,
+   "end": 1223.7,
+   "text": "momenta dok stoji na to mjesto"
+  },
+  {
+   "start": 1223.7,
+   "end": 1225.62,
+   "text": "meneci donose"
+  },
+  {
+   "start": 1225.62,
+   "end": 1226.72,
+   "text": "salavat na njega"
+  },
+  {
+   "start": 1226.72,
+   "end": 1232.06,
+   "text": "mi taj sunet nemamo"
+  },
+  {
+   "start": 1232.06,
+   "end": 1232.62,
+   "text": "pri sebi"
+  },
+  {
+   "start": 1232.62,
+   "end": 1235.94,
+   "text": "propuštamo da klanjamo"
+  },
+  {
+   "start": 1235.94,
+   "end": 1237.16,
+   "text": "teh ijetun mesđit"
+  },
+  {
+   "start": 1237.16,
+   "end": 1241.24,
+   "text": "rekli smo"
+  },
+  {
+   "start": 1241.24,
+   "end": 1243.4,
+   "text": "iz počasti prema džanje"
+  },
+  {
+   "start": 1243.4,
+   "end": 1247.34,
+   "text": "zatim propuštamo da ponavljamo reći"
+  },
+  {
+   "start": 1247.34,
+   "end": 1248.36,
+   "text": "ezana"
+  },
+  {
+   "start": 1248.36,
+   "end": 1250.64,
+   "text": "kada čujemo ezan"
+  },
+  {
+   "start": 1250.64,
+   "end": 1253.34,
+   "text": "propuštamo da učimo"
+  },
+  {
+   "start": 1253.34,
+   "end": 1254.48,
+   "text": "dolu nakon ezana"
+  },
+  {
+   "start": 1254.48,
+   "end": 1257.4,
+   "text": "zašto? jer nismo tu"
+  },
+  {
+   "start": 1257.4,
+   "end": 1258.86,
+   "text": "neko tamo trguje"
+  },
+  {
+   "start": 1258.86,
+   "end": 1260.6,
+   "text": "neko tamo šeta po put"
+  },
+  {
+   "start": 1260.6,
+   "end": 1265.09,
+   "text": "neko stoji tamo"
+  },
+  {
+   "start": 1265.09,
+   "end": 1266.81,
+   "text": "ispred džanje"
+  },
+  {
+   "start": 1266.81,
+   "end": 1269.39,
+   "text": "i sluša samo kad se uči i kamet"
+  },
+  {
+   "start": 1269.39,
+   "end": 1271.49,
+   "text": "da bi tada došao u uđani"
+  },
+  {
+   "start": 1271.49,
+   "end": 1275.06,
+   "text": "da klanje. Neko govori"
+  },
+  {
+   "start": 1275.06,
+   "end": 1277.38,
+   "text": "iz pozatine"
+  },
+  {
+   "start": 1277.38,
+   "end": 1279.06,
+   "text": "govori dok drugi tamo"
+  },
+  {
+   "start": 1279.06,
+   "end": 1282.74,
+   "text": "klanje ih nešto. Propuštamo"
+  },
+  {
+   "start": 1282.74,
+   "end": 1284.74,
+   "text": "da ponavdamo reći ezanam"
+  },
+  {
+   "start": 1284.74,
+   "end": 1286.8,
+   "text": "to smo kazali. Propuštamo"
+  },
+  {
+   "start": 1286.8,
+   "end": 1288.42,
+   "text": "da klanjamo namas u džematu"
+  },
+  {
+   "start": 1288.42,
+   "end": 1291.08,
+   "text": "namas u džematu"
+  },
+  {
+   "start": 1291.08,
+   "end": 1294.5,
+   "text": "pa dobro hoće neko da kaže"
+  },
+  {
+   "start": 1294.5,
+   "end": 1296.84,
+   "text": "pa može i kući da se klanja. Može da se klanja"
+  },
+  {
+   "start": 1296.84,
+   "end": 1298.8,
+   "text": "samo je rezultat 27 prema"
+  },
+  {
+   "start": 1298.8,
+   "end": 1303.51,
+   "text": "jedan. Jedan sevap"
+  },
+  {
+   "start": 1303.51,
+   "end": 1305.51,
+   "text": "kući, 27 sevapa"
+  },
+  {
+   "start": 1305.51,
+   "end": 1307.43,
+   "text": "ovdje u džemato da se hvalit."
+  },
+  {
+   "start": 1309.99,
+   "end": 1310.63,
+   "text": "Propuštamo"
+  },
+  {
+   "start": 1310.63,
+   "end": 1312.27,
+   "text": "početni tekbir"
+  },
+  {
+   "start": 1312.27,
+   "end": 1315.11,
+   "text": "na fars, iza imamo."
+  },
+  {
+   "start": 1317.18,
+   "end": 1317.74,
+   "text": "Još čekamo,"
+  },
+  {
+   "start": 1318.1,
+   "end": 1319.72,
+   "text": "kažemo, ođi, čekaj,"
+  },
+  {
+   "start": 1320.1,
+   "end": 1321.94,
+   "text": "nije došao onaj, nije došao ovaj,"
+  },
+  {
+   "start": 1322.16,
+   "end": 1325.78,
+   "text": "nije došao onaj. Mi ne možemo"
+  },
+  {
+   "start": 1325.78,
+   "end": 1327.82,
+   "text": "praviti šarijat ili propise"
+  },
+  {
+   "start": 1327.82,
+   "end": 1329.94,
+   "text": "šarijata da ih uskladimo"
+  },
+  {
+   "start": 1329.94,
+   "end": 1330.98,
+   "text": "našim džepovima."
+  },
+  {
+   "start": 1333.58,
+   "end": 1334.88,
+   "text": "Ako se učilo Ezan,"
+  },
+  {
+   "start": 1335.48,
+   "end": 1336.52,
+   "text": "recimo Zakšan,"
+  },
+  {
+   "start": 1336.52,
+   "end": 1338.76,
+   "text": "nakon toga slijedi i kamet"
+  },
+  {
+   "start": 1338.76,
+   "end": 1340.14,
+   "text": "i nema"
+  },
+  {
+   "start": 1340.14,
+   "end": 1342.46,
+   "text": "i nema dokaza"
+  },
+  {
+   "start": 1342.46,
+   "end": 1344.66,
+   "text": "i nema dokaza"
+  },
+  {
+   "start": 1344.66,
+   "end": 1347.16,
+   "text": "suprotno"
+  },
+  {
+   "start": 1347.16,
+   "end": 1350.25,
+   "text": "koji može da ospori"
+  },
+  {
+   "start": 1350.25,
+   "end": 1351.11,
+   "text": "da kaže stani"
+  },
+  {
+   "start": 1351.11,
+   "end": 1353.97,
+   "text": "treba da se sačeka"
+  },
+  {
+   "start": 1353.97,
+   "end": 1355.71,
+   "text": "neko koje je zakasnio, to ne"
+  },
+  {
+   "start": 1355.71,
+   "end": 1358.29,
+   "text": "zato se u hadisima govori"
+  },
+  {
+   "start": 1358.29,
+   "end": 1359.17,
+   "text": "ono što"
+  },
+  {
+   "start": 1359.17,
+   "end": 1361.85,
+   "text": "ono što zateknete za imamom"
+  },
+  {
+   "start": 1361.85,
+   "end": 1364.33,
+   "text": "klanjujte, a ono što ste propuštili"
+  },
+  {
+   "start": 1364.33,
+   "end": 1365.99,
+   "text": "za imamom, nadoknadite"
+  },
+  {
+   "start": 1365.99,
+   "end": 1368.01,
+   "text": "ali ne može hoćati"
+  },
+  {
+   "start": 1368.01,
+   "end": 1369.07,
+   "text": "da čeka ceo džemat"
+  },
+  {
+   "start": 1369.07,
+   "end": 1371.03,
+   "text": "ko zna gde je džemat"
+  },
+  {
+   "start": 1371.03,
+   "end": 1373.35,
+   "text": "i da li će doći uopšte taj džemat"
+  },
+  {
+   "start": 1373.35,
+   "end": 1376.05,
+   "text": "propuštavamo"
+  },
+  {
+   "start": 1376.05,
+   "end": 1378.01,
+   "text": "doći na vrijeme i biti u prvome"
+  },
+  {
+   "start": 1378.01,
+   "end": 1379.17,
+   "text": "safu"
+  },
+  {
+   "start": 1379.17,
+   "end": 1381.03,
+   "text": "da ne govorimo o nagradi"
+  },
+  {
+   "start": 1381.03,
+   "end": 1383.69,
+   "text": "prvoga safa, propuštavamo popuniti"
+  },
+  {
+   "start": 1383.69,
+   "end": 1384.21,
+   "text": "safove"
+  },
+  {
+   "start": 1384.21,
+   "end": 1387.35,
+   "text": "i sto puta smo rekli, saf"
+  },
+  {
+   "start": 1387.35,
+   "end": 1389.43,
+   "text": "se formira od sredine"
+  },
+  {
+   "start": 1389.43,
+   "end": 1391.71,
+   "text": "jedan ide desno"
+  },
+  {
+   "start": 1391.71,
+   "end": 1393.03,
+   "text": "drugi ide lijevo"
+  },
+  {
+   "start": 1393.03,
+   "end": 1395.13,
+   "text": "i tako, prvi saf tako se formira"
+  },
+  {
+   "start": 1395.13,
+   "end": 1396.65,
+   "text": "tako se formira drugi saf"
+  },
+  {
+   "start": 1396.65,
+   "end": 1397.93,
+   "text": "i tako redan."
+  },
+  {
+   "start": 1399.51,
+   "end": 1401.65,
+   "text": "Ne jedni su otišli na desnu stranu"
+  },
+  {
+   "start": 1401.65,
+   "end": 1403.39,
+   "text": "zamišljajući da je"
+  },
+  {
+   "start": 1403.39,
+   "end": 1404.23,
+   "text": "desna strana"
+  },
+  {
+   "start": 1404.23,
+   "end": 1407.15,
+   "text": "donosi veću nagradu"
+  },
+  {
+   "start": 1407.15,
+   "end": 1407.99,
+   "text": "od lijeve strane."
+  },
+  {
+   "start": 1412.13,
+   "end": 1414.67,
+   "text": "Ne govorimo o nagradu, govorimo o propisu"
+  },
+  {
+   "start": 1414.67,
+   "end": 1416.17,
+   "text": "kako se formira saf."
+  },
+  {
+   "start": 1418.21,
+   "end": 1420.21,
+   "text": "On se formira sa sredine"
+  },
+  {
+   "start": 1420.21,
+   "end": 1421.57,
+   "text": "dakle safa."
+  },
+  {
+   "start": 1422.27,
+   "end": 1423.71,
+   "text": "I jedan ide desno, drugi ide"
+  },
+  {
+   "start": 1423.71,
+   "end": 1424.63,
+   "text": "lijevo."
+  },
+  {
+   "start": 1426.71,
+   "end": 1428.27,
+   "text": "Onda kasnimo pa prelazimo"
+  },
+  {
+   "start": 1428.27,
+   "end": 1429.99,
+   "text": "dakle, ispred klanjača"
+  },
+  {
+   "start": 1429.99,
+   "end": 1431.99,
+   "text": "ili prelazimo"
+  },
+  {
+   "start": 1431.99,
+   "end": 1433.57,
+   "text": "preko njihovih ramena ovako"
+  },
+  {
+   "start": 1433.57,
+   "end": 1436.47,
+   "text": "da bi ponovo došli u prvom safu"
+  },
+  {
+   "start": 1436.47,
+   "end": 1438.21,
+   "text": "i da bi uzeli nagradu prvoga safa"
+  },
+  {
+   "start": 1438.21,
+   "end": 1439.51,
+   "text": "a došao je posljednji u džamiji."
+  },
+  {
+   "start": 1446.51,
+   "end": 1448.93,
+   "text": "Propuštavamo pručiti dove prilikom ulaska"
+  },
+  {
+   "start": 1448.93,
+   "end": 1451.33,
+   "text": "u džamiji i prilikom izlaska iz džamije."
+  },
+  {
+   "start": 1453.59,
+   "end": 1454.39,
+   "text": "Propuštavamo, bravo."
+  },
+  {
+   "start": 1454.89,
+   "end": 1456.69,
+   "text": "I sve to propuštavamo"
+  },
+  {
+   "start": 1456.69,
+   "end": 1458.27,
+   "text": "svjesno toga da"
+  },
+  {
+   "start": 1458.27,
+   "end": 1460.65,
+   "text": "su to sudnjati"
+  },
+  {
+   "start": 1460.65,
+   "end": 1462.99,
+   "text": "koje mi ne praktikujemo."
+  },
+  {
+   "start": 1464.99,
+   "end": 1466.03,
+   "text": "Zato nemoj da budemo"
+  },
+  {
+   "start": 1466.03,
+   "end": 1467.73,
+   "text": "samo vrijednici koji će doći"
+  },
+  {
+   "start": 1467.73,
+   "end": 1469.27,
+   "text": "u smislu"
+  },
+  {
+   "start": 1469.27,
+   "end": 1471.29,
+   "text": "ja ne kažem da je to greška"
+  },
+  {
+   "start": 1471.29,
+   "end": 1475.48,
+   "text": "ako čovjek samo klanja farzove"
+  },
+  {
+   "start": 1475.48,
+   "end": 1478.5,
+   "text": "ali nemojmo biti samo"
+  },
+  {
+   "start": 1478.5,
+   "end": 1482.44,
+   "text": "ljudi koji će klanjati farzove"
+  },
+  {
+   "start": 1482.44,
+   "end": 1483.88,
+   "text": "zanemariti sunjete"
+  },
+  {
+   "start": 1483.88,
+   "end": 1486.26,
+   "text": "iz prostog razloga"
+  },
+  {
+   "start": 1486.26,
+   "end": 1487.2,
+   "text": "pa to je sunjen"
+  },
+  {
+   "start": 1487.2,
+   "end": 1488.38,
+   "text": "to nije obavezno"
+  },
+  {
+   "start": 1488.38,
+   "end": 1492.69,
+   "text": "i kad dođemo u džamiji"
+  },
+  {
+   "start": 1492.69,
+   "end": 1494.09,
+   "text": "moramo"
+  },
+  {
+   "start": 1494.09,
+   "end": 1495.87,
+   "text": "svaciti jednu stvar"
+  },
+  {
+   "start": 1495.87,
+   "end": 1498.63,
+   "text": "u svaku ustanovu pa i u džamiji"
+  },
+  {
+   "start": 1498.63,
+   "end": 1500.01,
+   "text": "i u džamiji"
+  },
+  {
+   "start": 1500.01,
+   "end": 1501.67,
+   "text": "dakle mora postojati"
+  },
+  {
+   "start": 1501.67,
+   "end": 1503.03,
+   "text": "nekakav red"
+  },
+  {
+   "start": 1503.03,
+   "end": 1505.69,
+   "text": "nekakva hijerarhija"
+  },
+  {
+   "start": 1505.69,
+   "end": 1508.09,
+   "text": "neki poredak"
+  },
+  {
+   "start": 1508.09,
+   "end": 1509.63,
+   "text": "u džamiji"
+  },
+  {
+   "start": 1509.63,
+   "end": 1512.64,
+   "text": "koje mi"
+  },
+  {
+   "start": 1512.64,
+   "end": 1516.12,
+   "text": "dakle iz počasti prema džamiji"
+  },
+  {
+   "start": 1516.12,
+   "end": 1517.8,
+   "text": "zbog udloge džamije koje ima"
+  },
+  {
+   "start": 1517.8,
+   "end": 1519.34,
+   "text": "najdraža mjesta kaže"
+  },
+  {
+   "start": 1519.34,
+   "end": 1520.22,
+   "text": "pegamer sada Allah"
+  },
+  {
+   "start": 1520.22,
+   "end": 1522.5,
+   "text": "najdraža mjesta Allahom su džamije"
+  },
+  {
+   "start": 1522.5,
+   "end": 1524.52,
+   "text": "i oni kao najdraža mjesta"
+  },
+  {
+   "start": 1524.52,
+   "end": 1525.74,
+   "text": "oni zaslužuju da"
+  },
+  {
+   "start": 1525.74,
+   "end": 1527.0,
+   "text": "da se u njima"
+  },
+  {
+   "start": 1527.0,
+   "end": 1530.56,
+   "text": "ponašamo džamijski da se ponašamo"
+  },
+  {
+   "start": 1530.56,
+   "end": 1533.84,
+   "text": "Ne da se ponašamo u džamiji"
+  },
+  {
+   "start": 1533.84,
+   "end": 1535.3,
+   "text": "onako kao"
+  },
+  {
+   "start": 1535.3,
+   "end": 1537.98,
+   "text": "kad dođemo sa ulice i ono što smo"
+  },
+  {
+   "start": 1537.98,
+   "end": 1540.2,
+   "text": "zatekli od ulice da dođemo da prenesemo"
+  },
+  {
+   "start": 1540.2,
+   "end": 1541.64,
+   "text": "u džamiji to, ne"
+  },
+  {
+   "start": 1541.64,
+   "end": 1544.0,
+   "text": "To što smo zatekli na ulici"
+  },
+  {
+   "start": 1544.0,
+   "end": 1546.3,
+   "text": "tamo neko stane na ulici i kad dođemo u džamiji"
+  },
+  {
+   "start": 1546.3,
+   "end": 1548.4,
+   "text": "treba da se džamijski"
+  },
+  {
+   "start": 1548.4,
+   "end": 1548.96,
+   "text": "ponašamo"
+  },
+  {
+   "start": 1548.96,
+   "end": 1552.24,
+   "text": "onako kako zahtjeva"
+  },
+  {
+   "start": 1552.24,
+   "end": 1553.6,
+   "text": "Koran i sunat"
+  },
+  {
+   "start": 1553.6,
+   "end": 1555.14,
+   "text": "poslanika salallahu alaihi wa sallam"
+  },
+  {
+   "start": 1555.14,
+   "end": 1557.52,
+   "text": "neka nas alađe lešanu uputi, svije nas na prvoj put"
+  },
+  {
+   "start": 1557.52,
+   "end": 1562.22,
+   "text": "Alayna ahsan al-kalamu wa ablig al-nidham"
+  },
+  {
+   "start": 1562.22,
+   "end": 1563.94,
+   "text": "Kelamu Allahi al-Malik al-Aziz in al-Nam"
+  },
+  {
+   "start": 1563.94,
+   "end": 1566.24,
+   "text": "Kama qala Allahu tabarak wa ta'ala fil-kalam"
+  },
+  {
+   "start": 1566.24,
+   "end": 1568.14,
+   "text": "Wa idha kurya al-Qur'an"
+  },
+  {
+   "start": 1568.14,
+   "end": 1570.08,
+   "text": "Fa istamihu lahum wa ansitula lahum"
+  },
+  {
+   "start": 1570.08,
+   "end": 1570.62,
+   "text": "Tuhamun"
+  },
+  {
+   "start": 1570.62,
+   "end": 1572.8,
+   "text": "Ya'udhu billahi min ash-shaytan al-rajim"
+  },
+  {
+   "start": 1572.8,
+   "end": 1574.18,
+   "text": "Bismillah ar-Rahman ar-Rahim"
+  },
+  {
+   "start": 1574.18,
+   "end": 1576.44,
+   "text": "Inna d-din عند Allahi l-Islam"
+  },
+  {
+   "start": 1576.44,
+   "end": 1578.24,
+   "text": "Inna Allahi ya'muru bil adli"
+  },
+  {
+   "start": 1578.24,
+   "end": 1580.22,
+   "text": "Walihsan wa ita idhi l-qurba"
+  },
+  {
+   "start": 1580.22,
+   "end": 1582.42,
+   "text": "Wa inhaa an al-fahshai wal-monker"
+  },
+  {
+   "start": 1582.42,
+   "end": 1584.54,
+   "text": "Wal-baghhi ya'idhukum la'allakum"
+  },
+  {
+   "start": 1584.54,
+   "end": 1586.52,
+   "text": "Tadhakarun wa l-dhikru Allahi"
+  },
+  {
+   "start": 1586.52,
+   "end": 1588.38,
+   "text": "akbar. Wallahu wa ya'ala mumadzas"
+  },
+  {
+   "start": 1588.38,
+   "end": 1589.7,
+   "text": "na'un. Lakumussara."
+  }
+ ]
+}

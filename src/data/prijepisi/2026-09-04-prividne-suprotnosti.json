@@ -1,0 +1,1982 @@
+{
+ "id": "2026-09-04-prividne-suprotnosti",
+ "model": "whisper large-v3-turbo",
+ "language": "bs",
+ "segments": [
+  {
+   "start": 0.0,
+   "end": 2.9,
+   "text": "Alhamdulillahi Rabbil Alameen"
+  },
+  {
+   "start": 30.0,
+   "end": 35.2,
+   "text": "le vajadu fihih tilafen kathira, sadaq Allahun adim."
+  },
+  {
+   "start": 36.6,
+   "end": 41.32,
+   "text": "Za hvala pripada Allahu tebara kevata'ala gospodaru svih svjetova,"
+  },
+  {
+   "start": 42.22,
+   "end": 47.5,
+   "text": "nek su naši salavati i salami upočeni na Mohameda sallallahu aleyhi wasallam,"
+  },
+  {
+   "start": 48.12,
+   "end": 52.74,
+   "text": "na njegovu porodicu, njegove ashabe i sve one koji ga budu sledili sve do sudnji dan."
+  },
+  {
+   "start": 54.12,
+   "end": 58.9,
+   "text": "Onoga koga Allah njel lešanuhu uputi napravi put, on je od upočenih,"
+  },
+  {
+   "start": 58.9,
+   "end": 62.8,
+   "text": "A onoga koga Allah ostavi u zabludi, za njega nema opućivača."
+  },
+  {
+   "start": 63.7,
+   "end": 70.44,
+   "text": "Svjedoćim da nema drugog Boga osim Allaha i svjedoćim da je Muhammad sallallahu ane i wasallam njegov rob i njegov poslanik."
+  },
+  {
+   "start": 71.4,
+   "end": 84.9,
+   "text": "Drago bračo, tema današnje hudbe jeste privitne suprotnosti u Kur'an i Kerimu i u sunnetu poslanika sallallahu ane i wasallam."
+  },
+  {
+   "start": 84.9,
+   "end": 95.99,
+   "text": "I ovo je jedna od važnijih tačaka za razumijevanje kako Kur'ana, tako i Hadisa."
+  },
+  {
+   "start": 95.99,
+   "end": 115.29,
+   "text": "Kada čitamo Kur'an ili kada čitamo Hadis poslanika, imamo prividne suprotnosti kako kroz Kur'an, tako i kroz Hadis."
+  },
+  {
+   "start": 115.29,
+   "end": 136.51,
+   "text": "Međutim, za te prividne suprotnosti ima objašnjenja, a s druge strane možemo kazati da u Kur'an i Kerimu nema nikakve kontradiktornosti i nema nikakve suprotnosti kako u Kur'an i Kerimu, tako i u hadisu poslani kada je svratlo sramo."
+  },
+  {
+   "start": 136.51,
+   "end": 157.63,
+   "text": "No način kako ih razumijeti, to je drugo pitanje. Te privitne suprotnosti. A problem je u načinu razumevanja stvari. Mi kako razumijemo određene stvari."
+  },
+  {
+   "start": 157.63,
+   "end": 161.35,
+   "text": "Kur'an je, draga braća, objevnen"
+  },
+  {
+   "start": 161.35,
+   "end": 162.33,
+   "text": "na arabskom jeziku"
+  },
+  {
+   "start": 162.33,
+   "end": 164.99,
+   "text": "da bi čovjek mogao"
+  },
+  {
+   "start": 164.99,
+   "end": 166.17,
+   "text": "razumijeti Kur'an"
+  },
+  {
+   "start": 166.17,
+   "end": 168.69,
+   "text": "on mora mnogo što što"
+  },
+  {
+   "start": 168.69,
+   "end": 170.25,
+   "text": "druge stvari da uči"
+  },
+  {
+   "start": 170.25,
+   "end": 172.29,
+   "text": "da bi mogao da razumije govor"
+  },
+  {
+   "start": 172.29,
+   "end": 173.21,
+   "text": "Allaha tabaraka"
+  },
+  {
+   "start": 173.21,
+   "end": 175.65,
+   "text": "mora poznavati"
+  },
+  {
+   "start": 175.65,
+   "end": 176.75,
+   "text": "ezbabu nozul"
+  },
+  {
+   "start": 176.75,
+   "end": 180.35,
+   "text": "a ezbabu nozul je uzrok objave ajeta"
+  },
+  {
+   "start": 180.35,
+   "end": 181.71,
+   "text": "mora poznavati"
+  },
+  {
+   "start": 181.71,
+   "end": 183.97,
+   "text": "derogirani, derogirajući ajeti"
+  },
+  {
+   "start": 183.97,
+   "end": 186.15,
+   "text": "mora poznavati jasni"
+  },
+  {
+   "start": 186.15,
+   "end": 188.03,
+   "text": "i manji jasni ajot i tako dalje"
+  },
+  {
+   "start": 188.03,
+   "end": 189.07,
+   "text": "i tako dalje. Tako je"
+  },
+  {
+   "start": 189.07,
+   "end": 191.83,
+   "text": "i po pitanju"
+  },
+  {
+   "start": 191.83,
+   "end": 193.21,
+   "text": "i po pitanju"
+  },
+  {
+   "start": 193.21,
+   "end": 195.95,
+   "text": "dakle hadisa poslanika"
+  },
+  {
+   "start": 195.95,
+   "end": 196.97,
+   "text": "sada, ono sada."
+  },
+  {
+   "start": 197.59,
+   "end": 199.97,
+   "text": "Usto, način"
+  },
+  {
+   "start": 199.97,
+   "end": 202.27,
+   "text": "argumentiranja"
+  },
+  {
+   "start": 202.27,
+   "end": 203.29,
+   "text": "određenih stvari"
+  },
+  {
+   "start": 203.29,
+   "end": 205.73,
+   "text": "zavisi od poznavanja usuli"
+  },
+  {
+   "start": 205.73,
+   "end": 206.35,
+   "text": "fikha."
+  },
+  {
+   "start": 207.93,
+   "end": 209.85,
+   "text": "Kako se izvače argumenti"
+  },
+  {
+   "start": 209.85,
+   "end": 210.89,
+   "text": "za neku stvar."
+  },
+  {
+   "start": 211.45,
+   "end": 213.71,
+   "text": "Nije samo dovoljno kazati, reko je Allah"
+  },
+  {
+   "start": 213.71,
+   "end": 215.69,
+   "text": "za dešanu. Da, reko je Allah za dešanu."
+  },
+  {
+   "start": 215.69,
+   "end": 227.17,
+   "text": "Zašto je rekao, kom je rekao, kad je rekao, zašto, je li može služiti kao argument ili ne može služiti kao argument, ili hadis i tako da li i tako da li."
+  },
+  {
+   "start": 227.17,
+   "end": 237.03,
+   "text": "To je sveošte jedna obimna nauka o Kur'an i Kerimu kao i o poznavanju sudnjata poslanika."
+  },
+  {
+   "start": 238.39,
+   "end": 250.11,
+   "text": "Ja ću za ovu priliku da vam spomenem nekoliko ajata i hadisa i vidjeti da u određenim ajatima i hadisima ima privitne suprotnosti."
+  },
+  {
+   "start": 250.11,
+   "end": 259.67,
+   "text": "Naime, kao primjer, navešemo Allah za grešanom kaže"
+  },
+  {
+   "start": 259.67,
+   "end": 267.19,
+   "text": "Allah neće da mu oprostiti, Allah neće oprostiti da mu se širk čini."
+  },
+  {
+   "start": 268.97,
+   "end": 272.11,
+   "text": "A oprostit će ono što je mimo toga kome on hoće."
+  },
+  {
+   "start": 272.69,
+   "end": 273.45,
+   "text": "To je prvi ajet."
+  },
+  {
+   "start": 274.29,
+   "end": 279.65,
+   "text": "A u drugom ajetu kaže o robovi moji koji ste se prema sebi ogrešili."
+  },
+  {
+   "start": 280.11,
+   "end": 282.53,
+   "text": "Ne gubite nadu Allahovu milost."
+  },
+  {
+   "start": 283.25,
+   "end": 285.65,
+   "text": "Allah će zaista sve grehe oprostiti."
+  },
+  {
+   "start": 286.79,
+   "end": 290.61,
+   "text": "Kako pomiriti ova dva ajeta i kako razumjeti ova dva ajeta?"
+  },
+  {
+   "start": 291.71,
+   "end": 294.65,
+   "text": "U jednom ajetu kaže Allah ne oprašta širk,"
+  },
+  {
+   "start": 296.47,
+   "end": 298.73,
+   "text": "u drugom ajetu kaže Allah oprašta sve grehe."
+  },
+  {
+   "start": 299.37,
+   "end": 301.95,
+   "text": "Kad kaže Allah oprašta sve grehe, oprašta i širk."
+  },
+  {
+   "start": 302.65,
+   "end": 303.57,
+   "text": "Sve grehe."
+  },
+  {
+   "start": 304.17,
+   "end": 305.29,
+   "text": "Kako to razumjeti?"
+  },
+  {
+   "start": 307.94,
+   "end": 309.6,
+   "text": "Kao objašnjenje,"
+  },
+  {
+   "start": 309.6,
+   "end": 314.68,
+   "text": "radi se o različitim stanjima"
+  },
+  {
+   "start": 314.68,
+   "end": 317.08,
+   "text": "tih kuranskih ajeta."
+  },
+  {
+   "start": 317.74,
+   "end": 319.9,
+   "text": "Ako čovjek učini širka"
+  },
+  {
+   "start": 319.9,
+   "end": 325.62,
+   "text": "i ne učini te uboza širk"
+  },
+  {
+   "start": 325.62,
+   "end": 329.26,
+   "text": "ne pokaje se zbog tog širka"
+  },
+  {
+   "start": 329.26,
+   "end": 330.84,
+   "text": "i umre na širku"
+  },
+  {
+   "start": 330.84,
+   "end": 332.52,
+   "text": "čineći širk"
+  },
+  {
+   "start": 332.52,
+   "end": 334.36,
+   "text": "zatekla ga je smrt"
+  },
+  {
+   "start": 334.36,
+   "end": 339.63,
+   "text": "takvom čovjeku koji bude umro na širku"
+  },
+  {
+   "start": 339.63,
+   "end": 341.77,
+   "text": "širk mu neće biti oprošćen."
+  },
+  {
+   "start": 345.77,
+   "end": 346.55,
+   "text": "A s druge strane"
+  },
+  {
+   "start": 346.55,
+   "end": 376.43,
+   "text": "Ovaj drugi ajed kaže, ne gubite nadu, Allahovu milost, Allah će sve grijehe oprostiti. Kako će ona oprostiti sve grijehe? Putem pokajanja. Putem pokajanja. A onda ima hadis u kome poslani kada je sratos nam kaže, islan briše ono što je bilo prije njega, i hiđara briše ono što je bilo prije njega, i hađ briše grijehe ono što je bilo prije njega."
+  },
+  {
+   "start": 376.43,
+   "end": 379.11,
+   "text": "i razumite ovu stvar"
+  },
+  {
+   "start": 379.11,
+   "end": 381.83,
+   "text": "islam briše grijehe prije njega"
+  },
+  {
+   "start": 381.83,
+   "end": 382.83,
+   "text": "prije islama"
+  },
+  {
+   "start": 382.83,
+   "end": 385.79,
+   "text": "muševici su činili"
+  },
+  {
+   "start": 385.79,
+   "end": 387.57,
+   "text": "širka laute varek vaterana"
+  },
+  {
+   "start": 387.57,
+   "end": 388.71,
+   "text": "ali"
+  },
+  {
+   "start": 388.71,
+   "end": 391.27,
+   "text": "vremenom su primili islam"
+  },
+  {
+   "start": 391.27,
+   "end": 393.47,
+   "text": "i od onog vremena"
+  },
+  {
+   "start": 393.47,
+   "end": 395.07,
+   "text": "kada su ljudi primili islam"
+  },
+  {
+   "start": 395.07,
+   "end": 397.03,
+   "text": "Allah im je oprostio ten širk"
+  },
+  {
+   "start": 397.03,
+   "end": 402.65,
+   "text": "jer islam briše sve grijehe"
+  },
+  {
+   "start": 402.65,
+   "end": 403.33,
+   "text": "prije toga"
+  },
+  {
+   "start": 403.33,
+   "end": 407.74,
+   "text": "što si radio? radio si"
+  },
+  {
+   "start": 407.74,
+   "end": 410.58,
+   "text": "sa primanjem islama"
+  },
+  {
+   "start": 410.58,
+   "end": 412.68,
+   "text": "počinje novo poglavne"
+  },
+  {
+   "start": 412.68,
+   "end": 415.06,
+   "text": "u život."
+  },
+  {
+   "start": 417.5,
+   "end": 418.4,
+   "text": "Pa Allah prije toga"
+  },
+  {
+   "start": 418.4,
+   "end": 420.34,
+   "text": "sve što čovjek čini prije Islama,"
+  },
+  {
+   "start": 421.18,
+   "end": 422.2,
+   "text": "to je važilo pravilo,"
+  },
+  {
+   "start": 422.76,
+   "end": 423.98,
+   "text": "dakle, u ono vreme,"
+  },
+  {
+   "start": 424.14,
+   "end": 425.08,
+   "text": "a i važi i sada,"
+  },
+  {
+   "start": 426.02,
+   "end": 428.04,
+   "text": "čovjek može što god da čini"
+  },
+  {
+   "start": 428.04,
+   "end": 428.76,
+   "text": "prije Islama."
+  },
+  {
+   "start": 430.1,
+   "end": 432.34,
+   "text": "Ne znam, neuk, šta ti ja znam,"
+  },
+  {
+   "start": 432.66,
+   "end": 433.86,
+   "text": "vjernik, odnosno"
+  },
+  {
+   "start": 433.86,
+   "end": 435.92,
+   "text": "dvolišnjak, nevernik,"
+  },
+  {
+   "start": 435.92,
+   "end": 438.08,
+   "text": "i tako dalje, nije pravi vjernik."
+  },
+  {
+   "start": 439.3,
+   "end": 439.88,
+   "text": "Ali od onda"
+  },
+  {
+   "start": 439.88,
+   "end": 441.6,
+   "text": "kada smati što je Islam,"
+  },
+  {
+   "start": 442.18,
+   "end": 455.08,
+   "text": "I kada prihvati islam praktično, sve ono što je radio čovjek prije toga, sa njegovim primanjem islama, opraštaju mu se prethodni grijezi."
+  },
+  {
+   "start": 455.08,
+   "end": 460.48,
+   "text": "U tom stanju su bili i predislavski arapi, dok nisu primili islam."
+  },
+  {
+   "start": 462.2,
+   "end": 465.24,
+   "text": "Kad su primili islam, Allah im je oprostio sve grijehe prije toga."
+  },
+  {
+   "start": 466.52,
+   "end": 470.24,
+   "text": "Drugo, drugi primjer jeste, u Korani kjerimu se kaže,"
+  },
+  {
+   "start": 470.24,
+   "end": 472.28,
+   "text": "da ikrahefiddim. Nema"
+  },
+  {
+   "start": 472.28,
+   "end": 473.2,
+   "text": "prisile u veri."
+  },
+  {
+   "start": 474.9,
+   "end": 476.64,
+   "text": "A s druge strane,"
+  },
+  {
+   "start": 477.14,
+   "end": 478.46,
+   "text": "Allah za vršanom kaže"
+  },
+  {
+   "start": 478.46,
+   "end": 479.64,
+   "text": "i borite se protiv"
+  },
+  {
+   "start": 479.64,
+   "end": 481.06,
+   "text": "dakle"
+  },
+  {
+   "start": 481.06,
+   "end": 484.54,
+   "text": "i borite se protiv njih"
+  },
+  {
+   "start": 484.54,
+   "end": 485.82,
+   "text": "sve dok ne nestane"
+  },
+  {
+   "start": 485.82,
+   "end": 487.02,
+   "text": "smutnja."
+  },
+  {
+   "start": 488.1,
+   "end": 490.48,
+   "text": "I sve dok se ne uspostavi Allahova vjera."
+  },
+  {
+   "start": 494.22,
+   "end": 495.18,
+   "text": "S jedne strane kaže"
+  },
+  {
+   "start": 495.18,
+   "end": 497.28,
+   "text": "nema prisile, s druge strane traži"
+  },
+  {
+   "start": 497.28,
+   "end": 497.58,
+   "text": "da se"
+  },
+  {
+   "start": 497.58,
+   "end": 500.34,
+   "text": "da se odvija borba."
+  },
+  {
+   "start": 503.08,
+   "end": 504.1,
+   "text": "A borba znači"
+  },
+  {
+   "start": 504.1,
+   "end": 507.26,
+   "text": "kada se radi"
+  },
+  {
+   "start": 507.26,
+   "end": 509.4,
+   "text": "o oružanoj"
+  },
+  {
+   "start": 509.4,
+   "end": 513.39,
+   "text": "borbi. O oružanoj"
+  },
+  {
+   "start": 513.39,
+   "end": 516.59,
+   "text": "borbi. Sve dok"
+  },
+  {
+   "start": 516.59,
+   "end": 518.67,
+   "text": "se ne uspostavi Allahova vjera."
+  },
+  {
+   "start": 519.23,
+   "end": 520.89,
+   "text": "Sve dok ne ostanu ti muslimani"
+  },
+  {
+   "start": 520.89,
+   "end": 522.19,
+   "text": "koji se bore"
+  },
+  {
+   "start": 522.19,
+   "end": 523.97,
+   "text": "na Allahovom putu."
+  },
+  {
+   "start": 526.57,
+   "end": 530.14,
+   "text": "Ali, ovo ne znači"
+  },
+  {
+   "start": 530.14,
+   "end": 532.08,
+   "text": "ovo ne znači"
+  },
+  {
+   "start": 532.08,
+   "end": 533.76,
+   "text": "da nekoga prisliš"
+  },
+  {
+   "start": 533.76,
+   "end": 536.02,
+   "text": "silom da"
+  },
+  {
+   "start": 536.02,
+   "end": 537.18,
+   "text": "nagoniš u vjeru. Ne."
+  },
+  {
+   "start": 538.92,
+   "end": 539.72,
+   "text": "A je govori"
+  },
+  {
+   "start": 539.72,
+   "end": 542.04,
+   "text": "nema prisjede u vjeri, ne možemo mi"
+  },
+  {
+   "start": 542.04,
+   "end": 544.28,
+   "text": "uzeti čovjeka i prisjeliti ga"
+  },
+  {
+   "start": 544.28,
+   "end": 545.92,
+   "text": "na Islam, i prisjeliti ga"
+  },
+  {
+   "start": 545.92,
+   "end": 547.92,
+   "text": "na šehader, ne, mi nemamo to"
+  },
+  {
+   "start": 547.92,
+   "end": 550.1,
+   "text": "tu obavezu"
+  },
+  {
+   "start": 550.1,
+   "end": 552.02,
+   "text": "ali kad je borba"
+  },
+  {
+   "start": 552.02,
+   "end": 554.22,
+   "text": "onda mora da se borimo"
+  },
+  {
+   "start": 554.22,
+   "end": 555.18,
+   "text": "mora da se branimo"
+  },
+  {
+   "start": 555.18,
+   "end": 557.74,
+   "text": "i te dve stvari su"
+  },
+  {
+   "start": 557.74,
+   "end": 560.54,
+   "text": "dakle nisu kontradiktorne"
+  },
+  {
+   "start": 560.54,
+   "end": 561.76,
+   "text": "nisu kontradiktorne"
+  },
+  {
+   "start": 561.76,
+   "end": 564.84,
+   "text": "sljedeći primjer jeste"
+  },
+  {
+   "start": 564.84,
+   "end": 567.02,
+   "text": "kaže Pekamara"
+  },
+  {
+   "start": 567.02,
+   "end": 573.44,
+   "text": "ko vjeruje u Allaha"
+  },
+  {
+   "start": 573.44,
+   "end": 574.46,
+   "text": "neka govori dobro"
+  },
+  {
+   "start": 574.46,
+   "end": 577.94,
+   "text": "ili neka šuti"
+  },
+  {
+   "start": 577.94,
+   "end": 580.22,
+   "text": "a s druge strane kaže"
+  },
+  {
+   "start": 580.22,
+   "end": 581.66,
+   "text": "ko od vas vidi neko zlo"
+  },
+  {
+   "start": 581.66,
+   "end": 583.74,
+   "text": "neka ga promjeni"
+  },
+  {
+   "start": 583.74,
+   "end": 585.7,
+   "text": "rukom, ako ne može rukom"
+  },
+  {
+   "start": 585.7,
+   "end": 587.58,
+   "text": "neka ga promjeni"
+  },
+  {
+   "start": 587.58,
+   "end": 589.4,
+   "text": "neka ga promjeni jezikom"
+  },
+  {
+   "start": 589.4,
+   "end": 590.88,
+   "text": "pa"
+  },
+  {
+   "start": 590.88,
+   "end": 594.36,
+   "text": "a možemo da pomjerimo ova dva hadisa"
+  },
+  {
+   "start": 594.36,
+   "end": 594.9,
+   "text": "možemo"
+  },
+  {
+   "start": 594.9,
+   "end": 598.96,
+   "text": "pa ćemo u prvom hadisu kazati da je"
+  },
+  {
+   "start": 598.96,
+   "end": 600.54,
+   "text": "pegamber A.S. ratul sram rekao"
+  },
+  {
+   "start": 600.54,
+   "end": 603.16,
+   "text": "ko vjeruje u Allah i sudni dan neka govori dobro"
+  },
+  {
+   "start": 603.16,
+   "end": 604.82,
+   "text": "s druge strane možemo"
+  },
+  {
+   "start": 604.82,
+   "end": 607.24,
+   "text": "razumjeti sve što je"
+  },
+  {
+   "start": 607.24,
+   "end": 607.88,
+   "text": "štetno,"
+  },
+  {
+   "start": 609.96,
+   "end": 610.8,
+   "text": "čovjek treba da"
+  },
+  {
+   "start": 610.8,
+   "end": 613.48,
+   "text": "sačuva svoj jezik od štetnog"
+  },
+  {
+   "start": 613.48,
+   "end": 615.38,
+   "text": "govora jer ćemo zato biti"
+  },
+  {
+   "start": 615.38,
+   "end": 615.82,
+   "text": "pitani."
+  },
+  {
+   "start": 617.26,
+   "end": 619.58,
+   "text": "Ako je šteta veća od koristi,"
+  },
+  {
+   "start": 619.74,
+   "end": 621.42,
+   "text": "onda trebamo, dakle,"
+  },
+  {
+   "start": 621.42,
+   "end": 623.18,
+   "text": "malo stegnuti jezik"
+  },
+  {
+   "start": 623.18,
+   "end": 625.28,
+   "text": "i ne dati mu prostor da govori."
+  },
+  {
+   "start": 626.2,
+   "end": 627.56,
+   "text": "Ako je šteta veća"
+  },
+  {
+   "start": 627.56,
+   "end": 629.62,
+   "text": "od koristi. Međutim,"
+  },
+  {
+   "start": 630.38,
+   "end": 631.32,
+   "text": "u drugom hadisu"
+  },
+  {
+   "start": 631.32,
+   "end": 633.36,
+   "text": "se kaže kada je u pitanju pozivanje"
+  },
+  {
+   "start": 633.36,
+   "end": 634.96,
+   "text": "na dobro i odvraćanje zva,"
+  },
+  {
+   "start": 634.96,
+   "end": 637.5,
+   "text": "tu moramo da govorimo"
+  },
+  {
+   "start": 637.5,
+   "end": 640.28,
+   "text": "tu moramo da pozivamo"
+  },
+  {
+   "start": 640.28,
+   "end": 642.44,
+   "text": "na dobro i da otvrćamo zla"
+  },
+  {
+   "start": 642.44,
+   "end": 644.74,
+   "text": "i tu nema šutnje"
+  },
+  {
+   "start": 644.74,
+   "end": 646.16,
+   "text": "jer kaže"
+  },
+  {
+   "start": 646.16,
+   "end": 647.42,
+   "text": "pegamara nije srotu s vama"
+  },
+  {
+   "start": 647.42,
+   "end": 649.02,
+   "text": "ako ne možeš rukom da promeniš"
+  },
+  {
+   "start": 649.02,
+   "end": 651.36,
+   "text": "onda trebaš da govoriš"
+  },
+  {
+   "start": 651.36,
+   "end": 653.1,
+   "text": "jezikom"
+  },
+  {
+   "start": 653.1,
+   "end": 654.46,
+   "text": "da govoriš"
+  },
+  {
+   "start": 654.46,
+   "end": 657.86,
+   "text": "ako ne mogneš sprečiti to određeno zlo"
+  },
+  {
+   "start": 657.86,
+   "end": 658.76,
+   "text": "i jezikom"
+  },
+  {
+   "start": 658.76,
+   "end": 660.94,
+   "text": "ostaj ti da prezireš srcem"
+  },
+  {
+   "start": 660.94,
+   "end": 663.98,
+   "text": "a ako samo čovjek prezire određeno zlo srcem"
+  },
+  {
+   "start": 663.98,
+   "end": 666.98,
+   "text": "onda mu je to znak najslabijeg imana."
+  },
+  {
+   "start": 671.79,
+   "end": 677.16,
+   "text": "Zatim, ne približavajte se na mazu dok ste pijani."
+  },
+  {
+   "start": 679.68,
+   "end": 685.6,
+   "text": "A u drugom ajetu kaže, isto vezano za alkohol, za vino i za sve ono što opija,"
+  },
+  {
+   "start": 686.02,
+   "end": 688.56,
+   "text": "kaže, vino je haro."
+  },
+  {
+   "start": 690.02,
+   "end": 692.58,
+   "text": "Što je ovdje u pitanju? U pitanju je ovdje,"
+  },
+  {
+   "start": 692.58,
+   "end": 694.08,
+   "text": "dakle"
+  },
+  {
+   "start": 694.08,
+   "end": 695.54,
+   "text": "da se"
+  },
+  {
+   "start": 695.54,
+   "end": 697.36,
+   "text": "da se alkohol"
+  },
+  {
+   "start": 697.36,
+   "end": 699.96,
+   "text": "i alkohol ma pića"
+  },
+  {
+   "start": 699.96,
+   "end": 702.18,
+   "text": "su se bili zabranili"
+  },
+  {
+   "start": 702.18,
+   "end": 704.2,
+   "text": "dakle ne odjednom"
+  },
+  {
+   "start": 704.2,
+   "end": 705.62,
+   "text": "nego postepeno"
+  },
+  {
+   "start": 705.62,
+   "end": 707.32,
+   "text": "postepeno"
+  },
+  {
+   "start": 707.32,
+   "end": 710.18,
+   "text": "zabrana alkohola je išla postepeno"
+  },
+  {
+   "start": 710.18,
+   "end": 713.66,
+   "text": "prvi ajat je bio"
+  },
+  {
+   "start": 713.66,
+   "end": 715.92,
+   "text": "jes elunek an elhamri vol mesir"
+  },
+  {
+   "start": 715.92,
+   "end": 718.2,
+   "text": "pitaju te o vino"
+  },
+  {
+   "start": 718.2,
+   "end": 719.02,
+   "text": "i goski"
+  },
+  {
+   "start": 719.02,
+   "end": 721.44,
+   "text": "kaži u njima ima"
+  },
+  {
+   "start": 721.44,
+   "end": 723.74,
+   "text": "u njima ima korist"
+  },
+  {
+   "start": 723.74,
+   "end": 743.64,
+   "text": "Samo je šteta veća od koristi. Prvi ajet. Drugi ajet kaže, dok ste pijani nemojte klanjati. Ali treći ajet kaže, vino, kocka, strelice za gatanje, kumiri, sve to predstavlja šetanovo dijelo."
+  },
+  {
+   "start": 743.64,
+   "end": 770.84,
+   "text": "I sa ovim ajetom, Allah je sve te navedene stvari i zajeta zabranio. I onda više ti dva, prethodna dva ajeta su derogirani. Oni figuriraju u Koran, ali ne radi se više po tim ajetima, nego važi ovaj ajet."
+  },
+  {
+   "start": 770.84,
+   "end": 781.18,
+   "text": "Ovjernici, vino, kocka, kumiri i strelice za gatanje su otvratne stvari i šetanovo dijelo, zato ih seklo ni tre. To je ajet koji važi dosudnji dal."
+  },
+  {
+   "start": 781.18,
+   "end": 787.45,
+   "text": "onda imamo"
+  },
+  {
+   "start": 787.45,
+   "end": 788.73,
+   "text": "hadis"
+  },
+  {
+   "start": 788.73,
+   "end": 791.15,
+   "text": "s jedne strane pigamber sada"
+  },
+  {
+   "start": 791.15,
+   "end": 794.11,
+   "text": "kaže svaka novotarija je zabluda"
+  },
+  {
+   "start": 794.11,
+   "end": 795.79,
+   "text": "a svaka zabluda"
+  },
+  {
+   "start": 795.79,
+   "end": 796.53,
+   "text": "vodi u džihennem"
+  },
+  {
+   "start": 796.53,
+   "end": 799.13,
+   "text": "a s druge strane kaže"
+  },
+  {
+   "start": 799.13,
+   "end": 801.13,
+   "text": "ko uvede lijepi običaj"
+  },
+  {
+   "start": 801.13,
+   "end": 803.43,
+   "text": "imat će nagradu"
+  },
+  {
+   "start": 803.43,
+   "end": 805.51,
+   "text": "oni koji slijede"
+  },
+  {
+   "start": 805.51,
+   "end": 806.29,
+   "text": "to dobro"
+  },
+  {
+   "start": 806.29,
+   "end": 811.11,
+   "text": "i kako svačiti ovu stvar"
+  },
+  {
+   "start": 811.11,
+   "end": 816.09,
+   "text": "ono kad kaže pigamber"
+  },
+  {
+   "start": 816.09,
+   "end": 818.49,
+   "text": "na svatu stranu ko uvede lijepi običaj"
+  },
+  {
+   "start": 818.49,
+   "end": 820.53,
+   "text": "povod ovoga hadisa"
+  },
+  {
+   "start": 820.53,
+   "end": 823.03,
+   "text": "je bio da je jedan čovjek"
+  },
+  {
+   "start": 823.03,
+   "end": 824.33,
+   "text": "dakle"
+  },
+  {
+   "start": 824.33,
+   "end": 826.43,
+   "text": "donio sadaku"
+  },
+  {
+   "start": 826.43,
+   "end": 828.99,
+   "text": "a pegamber Aleje Sratosram je tražio"
+  },
+  {
+   "start": 828.99,
+   "end": 830.99,
+   "text": "da ljudi udjeluju sadaku"
+  },
+  {
+   "start": 830.99,
+   "end": 834.65,
+   "text": "pa je jedan od ashaba"
+  },
+  {
+   "start": 834.65,
+   "end": 836.89,
+   "text": "pokrenuo tu akciju"
+  },
+  {
+   "start": 836.89,
+   "end": 838.31,
+   "text": "udjelivanja sadake"
+  },
+  {
+   "start": 838.31,
+   "end": 840.49,
+   "text": "pa su se ljudi odazvali"
+  },
+  {
+   "start": 840.49,
+   "end": 841.71,
+   "text": "tom pozivu"
+  },
+  {
+   "start": 841.71,
+   "end": 844.91,
+   "text": "i ljudi su udjelivali sadaku"
+  },
+  {
+   "start": 844.91,
+   "end": 847.41,
+   "text": "tada je pegamber Aleje Sratosram"
+  },
+  {
+   "start": 847.41,
+   "end": 877.56,
+   "text": "Dakle, rekao ovaj hadis. Zašto je? Sadaka ima uporište u Koran i Kerimu. A šta je sa hadisom? Svaka novotarija je zabluda. Svaka novotarija koja nije ima osnove u šerijatu, nije poznato bilo u vrime Rasulullah, s.a.v. nije bilo poznato u vrime sahaba, tabina, tabi, tabina, i ne figurira kao ibadet."
+  },
+  {
+   "start": 877.56,
+   "end": 880.88,
+   "text": "Dakle, zato je"
+  },
+  {
+   "start": 880.88,
+   "end": 881.86,
+   "text": "Pekamber Aleje Sratov"
+  },
+  {
+   "start": 881.86,
+   "end": 884.34,
+   "text": "svaka Novotarija je zabluda"
+  },
+  {
+   "start": 884.34,
+   "end": 890.54,
+   "text": "Zašto? A to i objašnjava"
+  },
+  {
+   "start": 890.54,
+   "end": 891.8,
+   "text": "i Kur'anski ajed, jeo me"
+  },
+  {
+   "start": 891.8,
+   "end": 893.94,
+   "text": "kmev tu lakom dinakom, danas sam vam"
+  },
+  {
+   "start": 893.94,
+   "end": 895.9,
+   "text": "vjeru vašu savršio i blagodat prema"
+  },
+  {
+   "start": 895.9,
+   "end": 897.88,
+   "text": "vama upotpunio i zadovoljan sam"
+  },
+  {
+   "start": 897.88,
+   "end": 898.96,
+   "text": "da vam Islam bude"
+  },
+  {
+   "start": 898.96,
+   "end": 901.02,
+   "text": "da vam Islam bude vjeran"
+  },
+  {
+   "start": 901.02,
+   "end": 908.56,
+   "text": "Sljedeći primer jeste"
+  },
+  {
+   "start": 908.56,
+   "end": 911.24,
+   "text": "da je Pekamber Aleje Sratov"
+  },
+  {
+   "start": 911.24,
+   "end": 913.58,
+   "text": "sam vam rekao, nema zarazi"
+  },
+  {
+   "start": 913.58,
+   "end": 917.45,
+   "text": "nema zarazi i nema"
+  },
+  {
+   "start": 917.45,
+   "end": 919.79,
+   "text": "lošeg predznaka, a s druge strane"
+  },
+  {
+   "start": 919.79,
+   "end": 921.39,
+   "text": "u drugom hadisu kaže, bježi"
+  },
+  {
+   "start": 921.39,
+   "end": 922.89,
+   "text": "od gubavca"
+  },
+  {
+   "start": 922.89,
+   "end": 925.37,
+   "text": "kao što bježiš od lava."
+  },
+  {
+   "start": 928.48,
+   "end": 929.54,
+   "text": "Prvi hadis govori"
+  },
+  {
+   "start": 929.54,
+   "end": 930.98,
+   "text": "da poslanika"
+  },
+  {
+   "start": 930.98,
+   "end": 932.52,
+   "text": "negira"
+  },
+  {
+   "start": 932.52,
+   "end": 935.34,
+   "text": "vjerovanje koje su imali"
+  },
+  {
+   "start": 935.34,
+   "end": 937.4,
+   "text": "ljudi u paganstvu,"
+  },
+  {
+   "start": 939.68,
+   "end": 940.64,
+   "text": "da loše stvari"
+  },
+  {
+   "start": 940.64,
+   "end": 942.54,
+   "text": "se dešavaju"
+  },
+  {
+   "start": 942.54,
+   "end": 944.98,
+   "text": "dakle, bez"
+  },
+  {
+   "start": 944.98,
+   "end": 947.6,
+   "text": "Allahovog znanja,"
+  },
+  {
+   "start": 947.78,
+   "end": 948.78,
+   "text": "da sami od sebe"
+  },
+  {
+   "start": 948.78,
+   "end": 950.9,
+   "text": "su tako vjerovali"
+  },
+  {
+   "start": 950.9,
+   "end": 952.56,
+   "text": "da ima loš preznak."
+  },
+  {
+   "start": 954.87,
+   "end": 955.59,
+   "text": "Loš preznak."
+  },
+  {
+   "start": 955.97,
+   "end": 958.21,
+   "text": "U smislu, kada su ljudi vidjeli"
+  },
+  {
+   "start": 958.21,
+   "end": 959.43,
+   "text": "neku pticu da leti"
+  },
+  {
+   "start": 959.43,
+   "end": 962.35,
+   "text": "na desnu stranu, onda bi išli na posao."
+  },
+  {
+   "start": 962.45,
+   "end": 964.23,
+   "text": "Kada bi vidjeli da ptica leti"
+  },
+  {
+   "start": 964.23,
+   "end": 966.27,
+   "text": "na levu stranu, onda su se vraćali"
+  },
+  {
+   "start": 966.27,
+   "end": 968.19,
+   "text": "i nisu išli na posao."
+  },
+  {
+   "start": 971.66,
+   "end": 971.92,
+   "text": "To"
+  },
+  {
+   "start": 971.92,
+   "end": 973.58,
+   "text": "islam ne prihvata."
+  },
+  {
+   "start": 975.18,
+   "end": 976.16,
+   "text": "To islam ne prihvata."
+  },
+  {
+   "start": 976.28,
+   "end": 977.86,
+   "text": "A s druge strane, kaže,"
+  },
+  {
+   "start": 978.72,
+   "end": 979.94,
+   "text": "ako vidite gubavca,"
+  },
+  {
+   "start": 980.68,
+   "end": 981.8,
+   "text": "kaže, bježite od njega"
+  },
+  {
+   "start": 981.8,
+   "end": 984.36,
+   "text": "kao što bježite od glava."
+  },
+  {
+   "start": 984.96,
+   "end": 988.76,
+   "text": "A to se razumije na sljedeći način."
+  },
+  {
+   "start": 990.26,
+   "end": 1001.4,
+   "text": "Da hadis podučava čovjeka da poduzme dozvoljene mjere zaštite i izbjegava ono što može biti uzrok prenošenja bolesti."
+  },
+  {
+   "start": 1002.48,
+   "end": 1007.42,
+   "text": "Vjerovanje u Allahovu odredbu ne znači napuštanje preventive."
+  },
+  {
+   "start": 1007.42,
+   "end": 1025.02,
+   "text": "I kao posljednji primjer, u jednom kuranskom majetu, u Surijar Rahman, Allah Žalšanu kaže, toga dana ljudi i džini za grijehe svoje neće biti pitan."
+  },
+  {
+   "start": 1025.02,
+   "end": 1028.53,
+   "text": "surer Rahman"
+  },
+  {
+   "start": 1028.53,
+   "end": 1030.95,
+   "text": "ajed 39"
+  },
+  {
+   "start": 1030.95,
+   "end": 1032.59,
+   "text": "a s druge strane"
+  },
+  {
+   "start": 1032.59,
+   "end": 1033.73,
+   "text": "u suri El Hajar"
+  },
+  {
+   "start": 1033.73,
+   "end": 1036.49,
+   "text": "El Hajar kaže"
+  },
+  {
+   "start": 1036.49,
+   "end": 1038.69,
+   "text": "i tako mi gospodara"
+  },
+  {
+   "start": 1038.69,
+   "end": 1041.07,
+   "text": "Tvoga njih ćemo sve na odgovornost"
+  },
+  {
+   "start": 1041.07,
+   "end": 1042.49,
+   "text": "pozvati za ono što su"
+  },
+  {
+   "start": 1042.49,
+   "end": 1043.95,
+   "text": "za ono što su radili"
+  },
+  {
+   "start": 1043.95,
+   "end": 1047.96,
+   "text": "u jednom ajetu kaže neće biti"
+  },
+  {
+   "start": 1047.96,
+   "end": 1049.88,
+   "text": "pitani ni džini ni ljudi"
+  },
+  {
+   "start": 1049.88,
+   "end": 1051.86,
+   "text": "a u drugom ajetu"
+  },
+  {
+   "start": 1051.86,
+   "end": 1053.02,
+   "text": "kaže sve ćemo vas"
+  },
+  {
+   "start": 1053.02,
+   "end": 1055.02,
+   "text": "pozvati na odgovornost"
+  },
+  {
+   "start": 1055.02,
+   "end": 1057.5,
+   "text": "pa onda stoji"
+  },
+  {
+   "start": 1057.5,
+   "end": 1058.5,
+   "text": "u komentaru."
+  },
+  {
+   "start": 1059.56,
+   "end": 1061.26,
+   "text": "Kada ljudi budu proživljeni"
+  },
+  {
+   "start": 1061.26,
+   "end": 1065.36,
+   "text": "svojih grobova, njihova"
+  },
+  {
+   "start": 1065.36,
+   "end": 1067.3,
+   "text": "lica će biti"
+  },
+  {
+   "start": 1067.3,
+   "end": 1068.34,
+   "text": "dakle"
+  },
+  {
+   "start": 1068.34,
+   "end": 1070.42,
+   "text": "tamna"
+  },
+  {
+   "start": 1070.42,
+   "end": 1073.02,
+   "text": "ili svijetla,"
+  },
+  {
+   "start": 1073.1,
+   "end": 1075.12,
+   "text": "zavisi od stanja ljudi,"
+  },
+  {
+   "start": 1075.48,
+   "end": 1076.74,
+   "text": "imanskog stanja ljudi."
+  },
+  {
+   "start": 1077.4,
+   "end": 1079.32,
+   "text": "Pa će to biti dovoljan"
+  },
+  {
+   "start": 1079.32,
+   "end": 1079.94,
+   "text": "dokaz"
+  },
+  {
+   "start": 1079.94,
+   "end": 1082.54,
+   "text": "za nagradu i za kaznu."
+  },
+  {
+   "start": 1082.88,
+   "end": 1085.26,
+   "text": "I u tom segmentu Allah za državno"
+  },
+  {
+   "start": 1085.26,
+   "end": 1086.98,
+   "text": "neće pitati ni ljude ni džine."
+  },
+  {
+   "start": 1087.66,
+   "end": 1088.96,
+   "text": "Sve će biti prepoznatljivo."
+  },
+  {
+   "start": 1089.32,
+   "end": 1099.52,
+   "text": "S druge strane kaže, toga dana ćemo zapečatiti njihova usta, pa će govoriti njihove ruke i svjedočiti njihove noge."
+  },
+  {
+   "start": 1101.02,
+   "end": 1108.98,
+   "text": "I u tom kontekstu se kaže, neće ljudi biti pitani, neće ljudi biti pitani, ni ljudi ni džini."
+  },
+  {
+   "start": 1110.26,
+   "end": 1111.52,
+   "text": "Jer sve je jasno."
+  },
+  {
+   "start": 1113.36,
+   "end": 1118.8,
+   "text": "Kome ćeš da kažeš, Allaho ćeš da kažeš, što si radio ili što nisi radio."
+  },
+  {
+   "start": 1119.32,
+   "end": 1120.08,
+   "text": "Allah se zna."
+  },
+  {
+   "start": 1122.18,
+   "end": 1124.34,
+   "text": "Ali u drugom ajetu kažem"
+  },
+  {
+   "start": 1124.34,
+   "end": 1125.96,
+   "text": "mi ćemo vas sve sakupiti"
+  },
+  {
+   "start": 1125.96,
+   "end": 1127.62,
+   "text": "i svi ćete biti pitani."
+  },
+  {
+   "start": 1128.32,
+   "end": 1129.82,
+   "text": "Svi ćete biti pitani"
+  },
+  {
+   "start": 1129.82,
+   "end": 1131.68,
+   "text": "znači"
+  },
+  {
+   "start": 1131.68,
+   "end": 1133.64,
+   "text": "da će Allah završanu"
+  },
+  {
+   "start": 1133.64,
+   "end": 1136.06,
+   "text": "kroz pitanje. Pitanje znači"
+  },
+  {
+   "start": 1136.06,
+   "end": 1141.23,
+   "text": "uko. I kaže se"
+  },
+  {
+   "start": 1141.23,
+   "end": 1142.63,
+   "text": "u hadisu koje prenosi"
+  },
+  {
+   "start": 1142.63,
+   "end": 1145.03,
+   "text": "Hazreti Aisha. Svi koji"
+  },
+  {
+   "start": 1145.03,
+   "end": 1146.11,
+   "text": "budu pitani"
+  },
+  {
+   "start": 1146.11,
+   "end": 1148.33,
+   "text": "na sudnji dan"
+  },
+  {
+   "start": 1148.33,
+   "end": 1150.71,
+   "text": "bit će kažnjeni."
+  },
+  {
+   "start": 1152.33,
+   "end": 1153.13,
+   "text": "Svi koji budu"
+  },
+  {
+   "start": 1153.13,
+   "end": 1154.41,
+   "text": "upitani na sudnji dan."
+  },
+  {
+   "start": 1155.03,
+   "end": 1156.69,
+   "text": "Ali ono detaljno da te pita"
+  },
+  {
+   "start": 1156.69,
+   "end": 1158.57,
+   "text": "zašto ovo, zašto ono, zašto ovo"
+  },
+  {
+   "start": 1158.57,
+   "end": 1159.89,
+   "text": "detaljno da te pita."
+  },
+  {
+   "start": 1160.47,
+   "end": 1162.05,
+   "text": "O svakoj sitnici da te pita."
+  },
+  {
+   "start": 1164.58,
+   "end": 1165.98,
+   "text": "Ako čovjek bude upitan"
+  },
+  {
+   "start": 1165.98,
+   "end": 1167.26,
+   "text": "o svakoj sitnici,"
+  },
+  {
+   "start": 1168.66,
+   "end": 1170.4,
+   "text": "neminovno mu je da će biti kažnjeno."
+  },
+  {
+   "start": 1172.52,
+   "end": 1173.28,
+   "text": "Da će biti kad ne."
+  },
+  {
+   "start": 1173.82,
+   "end": 1174.14,
+   "text": "A"
+  },
+  {
+   "start": 1174.14,
+   "end": 1177.58,
+   "text": "svi ćemo odgovarati"
+  },
+  {
+   "start": 1177.58,
+   "end": 1179.34,
+   "text": "pred Allahom"
+  },
+  {
+   "start": 1179.34,
+   "end": 1181.46,
+   "text": "Završanohu znači da će"
+  },
+  {
+   "start": 1181.46,
+   "end": 1183.26,
+   "text": "Allah Završanohu na taj način"
+  },
+  {
+   "start": 1183.26,
+   "end": 1184.08,
+   "text": "uspostaviti"
+  },
+  {
+   "start": 1184.08,
+   "end": 1186.78,
+   "text": "uspostaviti svoju pravdu"
+  },
+  {
+   "start": 1186.78,
+   "end": 1188.74,
+   "text": "jer se u Korani kerimu kaže"
+  },
+  {
+   "start": 1188.74,
+   "end": 1190.7,
+   "text": "Allah neće nikome"
+  },
+  {
+   "start": 1190.7,
+   "end": 1192.4,
+   "text": "učiniti nepravdu"
+  },
+  {
+   "start": 1192.4,
+   "end": 1194.72,
+   "text": "neka nasa Allah neće učiniti nepravdu"
+  },
+  {
+   "start": 1194.72,
+   "end": 1205.3,
+   "text": "Alhamdulillah"
+  },
+  {
+   "start": 1205.3,
+   "end": 1206.2,
+   "text": "vasaratu wassalam"
+  },
+  {
+   "start": 1206.2,
+   "end": 1207.28,
+   "text": "Allah rasulina Muhammed"
+  },
+  {
+   "start": 1207.28,
+   "end": 1210.52,
+   "text": "u jednom hadisu poslanika"
+  },
+  {
+   "start": 1210.52,
+   "end": 1213.8,
+   "text": "kaže ostavio sam vam vjeru čistu"
+  },
+  {
+   "start": 1213.8,
+   "end": 1215.06,
+   "text": "bijelu"
+  },
+  {
+   "start": 1215.06,
+   "end": 1217.26,
+   "text": "kaže"
+  },
+  {
+   "start": 1217.26,
+   "end": 1220.0,
+   "text": "bijelu jasnu"
+  },
+  {
+   "start": 1220.0,
+   "end": 1222.54,
+   "text": "kao što se dan prepoznaje"
+  },
+  {
+   "start": 1222.54,
+   "end": 1224.44,
+   "text": "kao dan i noć"
+  },
+  {
+   "start": 1224.44,
+   "end": 1226.68,
+   "text": "kao noć, tako"
+  },
+  {
+   "start": 1226.68,
+   "end": 1228.64,
+   "text": "sam vam vjeru ostavio"
+  },
+  {
+   "start": 1228.64,
+   "end": 1230.06,
+   "text": "ostavio, kaže"
+  },
+  {
+   "start": 1230.06,
+   "end": 1231.32,
+   "text": "jasno"
+  },
+  {
+   "start": 1231.32,
+   "end": 1234.36,
+   "text": "i nema nejasnih stvari"
+  },
+  {
+   "start": 1234.36,
+   "end": 1235.78,
+   "text": "kada je u pitanje"
+  },
+  {
+   "start": 1235.78,
+   "end": 1238.68,
+   "text": "kada je u pitanje vjera, kada je u pitanje"
+  },
+  {
+   "start": 1238.68,
+   "end": 1240.7,
+   "text": "korani kerim i hadis poslanika"
+  },
+  {
+   "start": 1240.7,
+   "end": 1242.66,
+   "text": "salavlahu neva salam, a kaže"
+  },
+  {
+   "start": 1242.66,
+   "end": 1243.96,
+   "text": "bit će mnogo"
+  },
+  {
+   "start": 1243.96,
+   "end": 1246.44,
+   "text": "bit će mnogo razilaženja"
+  },
+  {
+   "start": 1246.44,
+   "end": 1248.92,
+   "text": "dakle prije sudnjega dana"
+  },
+  {
+   "start": 1248.92,
+   "end": 1250.32,
+   "text": "zato se držite"
+  },
+  {
+   "start": 1250.32,
+   "end": 1252.36,
+   "text": "moga sunneta i sunneta"
+  },
+  {
+   "start": 1252.36,
+   "end": 1254.14,
+   "text": "mojih pravednih ladara"
+  },
+  {
+   "start": 1254.14,
+   "end": 1256.32,
+   "text": "i kaže, zagrizite to"
+  },
+  {
+   "start": 1256.32,
+   "end": 1258.42,
+   "text": "svojim zubima. Čvrsto"
+  },
+  {
+   "start": 1258.42,
+   "end": 1259.32,
+   "text": "se toga držite."
+  },
+  {
+   "start": 1260.4,
+   "end": 1262.56,
+   "text": "Jer ćete vidjeti, jer ćete vidjeti"
+  },
+  {
+   "start": 1262.56,
+   "end": 1263.6,
+   "text": "prije sudnjega dana"
+  },
+  {
+   "start": 1263.6,
+   "end": 1265.92,
+   "text": "novo, novo razilaženja."
+  },
+  {
+   "start": 1266.66,
+   "end": 1267.82,
+   "text": "Neka nasala za hršanom"
+  },
+  {
+   "start": 1267.82,
+   "end": 1270.18,
+   "text": "svih nas u puti na pravi put."
+  },
+  {
+   "start": 1280.32,
+   "end": 1282.14,
+   "text": "ولا ذكر الله اكبر"
+  },
+  {
+   "start": 1282.14,
+   "end": 1283.84,
+   "text": "والله يعلم ما تصنعون"
+  },
+  {
+   "start": 1283.84,
+   "end": 1284.58,
+   "text": "اقم الصلاة"
+  }
+ ]
+}
