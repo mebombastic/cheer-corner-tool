@@ -5,8 +5,9 @@ import interiorImg from "@/assets/mosque-recane-interior.jpg";
 import exteriorImg from "@/assets/mosque-recane-exterior.jpg";
 import duskImg from "@/assets/mosque-recane-dusk.jpg";
 import { fetchPrizrenPrayerTimes } from "@/lib/prayer-times";
-import { toHijri, formatHijri } from "@/lib/hijri";
-import { canonical } from "@/lib/utils";
+import { toHijri, formatHijri, MONTHS_SR } from "@/lib/hijri";
+import { canonical, withBase } from "@/lib/utils";
+import hutbe from "@/data/hutbe.json";
 
 const prayerTimesQuery = queryOptions({
   queryKey: ["prayer-times", "prizren", new Date().toDateString()],
@@ -106,6 +107,9 @@ function Home() {
         </div>
       </section>
 
+      {/* Latest džuma hutba, leading to all hutbe */}
+      <LatestHutba />
+
       {/* Welcome */}
       <section className="pb-24">
         <div className="mx-auto max-w-6xl px-6 grid md:grid-cols-[0.9fr_1.1fr] gap-14 items-center" data-reveal-stagger>
@@ -189,6 +193,47 @@ function Home() {
         </div>
       </section>
     </>
+  );
+}
+
+const LATEST_HUTBA = [...hutbe].sort((a, b) => b.date.localeCompare(a.date))[0];
+
+function LatestHutba() {
+  if (!LATEST_HUTBA) return null;
+  const h = LATEST_HUTBA;
+  const [y, m, d] = h.date.split("-").map(Number);
+  return (
+    <section className="pb-20">
+      <div className="mx-auto max-w-6xl px-6" data-reveal>
+        <div className="relative overflow-hidden rounded-3xl bg-primary text-primary-foreground shadow-[var(--shadow-soft)]">
+          <div className="absolute inset-0 overflow-hidden opacity-[0.12]" aria-hidden>
+            <div className="pattern-floor" />
+          </div>
+          <div className="relative grid gap-8 p-7 md:grid-cols-[1fr_auto] md:items-center md:p-12">
+            <div>
+              <p className="text-xs uppercase tracking-[0.25em] text-[color:var(--gold)]">
+                Najnovija hutba · Džuma {d}. {MONTHS_SR[m - 1]} {y}.
+              </p>
+              <h2 className="mt-4 font-display text-3xl leading-tight md:text-5xl">{h.title}</h2>
+              {"subtitle" in h && h.subtitle && (
+                <p className="mt-2 font-display text-xl text-primary-foreground/75 md:text-2xl">{h.subtitle}</p>
+              )}
+              <p className="mt-3 text-sm text-primary-foreground/70">
+                {h.imam}
+                {h.minutes ? ` · ${h.minutes} min` : ""}
+              </p>
+              <audio controls preload="none" src={withBase(h.file)} className="mt-6 w-full max-w-xl" />
+            </div>
+            <Link
+              to="/hutbe"
+              className="inline-flex items-center justify-center gap-2 self-start rounded-full bg-[var(--gold)] px-7 py-3 font-semibold text-primary transition hover:brightness-110 md:self-center"
+            >
+              Sve hutbe ({hutbe.length}) <span aria-hidden>→</span>
+            </Link>
+          </div>
+        </div>
+      </div>
+    </section>
   );
 }
 
