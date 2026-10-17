@@ -64,6 +64,17 @@ function InstallPage() {
             </div>
           ) : (
             <>
+              {install?.inApp && (
+                <div className="mb-8 rounded-2xl border-2 border-[var(--gold)] bg-secondary/60 p-6">
+                  <p className="font-display text-2xl text-primary">Prvo otvorite sajt u pregledniku</p>
+                  <p className="mt-2 leading-relaxed text-muted-foreground">
+                    Otvorili ste sajt iz aplikacije kao što je Facebook, Instagram ili Viber, a u njoj se aplikacija ne može
+                    instalirati. Dodirnite <strong>⋮</strong> ili <strong>⋯</strong> gore desno i izaberite{" "}
+                    <strong>Otvori u pregledniku</strong> (<em>Open in browser</em>, odnosno Chrome ili Safari), pa pratite
+                    korake ispod.
+                  </p>
+                </div>
+              )}
               <div role="tablist" aria-label="Vaš telefon" className="grid grid-cols-3 gap-2">
                 {TABS.map((t) => (
                   <button
