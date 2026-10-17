@@ -77,6 +77,8 @@ self.addEventListener("fetch", (event) => {
   if (request.method !== "GET") return;
   const url = new URL(request.url);
   if (url.origin !== self.location.origin) return;
+  // Audio (hutbe) is streamed in parts and is too big to keep offline: leave it to the browser
+  if (request.headers.has("range") || request.destination === "audio" || url.pathname.includes("/hutbe/")) return;
 
   if (request.mode === "navigate") event.respondWith(networkFirst(request));
   else if (url.pathname.includes("/assets/")) event.respondWith(cacheFirst(request));

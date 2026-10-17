@@ -2,7 +2,9 @@ import { createFileRoute, Link } from "@tanstack/react-router";
 import type { ReactNode } from "react";
 import interiorImg from "@/assets/mosque-recane-interior.jpg";
 import imamImg from "@/assets/imam-masar-fejza.jpg";
-import { canonical } from "@/lib/utils";
+import { canonical, withBase } from "@/lib/utils";
+import { MONTHS_SR } from "@/lib/hijri";
+import hutbe from "@/data/hutbe.json";
 
 export const Route = createFileRoute("/imam")({
   head: () => ({
@@ -24,6 +26,15 @@ export const Route = createFileRoute("/imam")({
 });
 
 const SINCE = 1996;
+
+// The imam's latest džuma hutbe; all of them are on /hutbe.
+const HUTBE = [...hutbe].sort((a, b) => b.date.localeCompare(a.date));
+const LATEST_HUTBE = HUTBE.slice(0, 3);
+
+function formatDate(iso: string) {
+  const [y, m, d] = iso.split("-").map(Number);
+  return `${d}. ${MONTHS_SR[m - 1]} ${y}.`;
+}
 
 function ImamPage() {
   const years = new Date().getFullYear() - SINCE;
@@ -131,7 +142,42 @@ function ImamPage() {
         </div>
       </section>
 
-      <section className="pb-20">
+      {/* His latest hutbe */}
+      <section className="border-t border-border/60 bg-secondary/50 py-16 md:py-20">
+        <div className="mx-auto max-w-3xl px-6">
+          <Chapter title="Hutbe">
+            <p>Poslušajte džuma hutbe Masara ef. Fejze ili ih preuzmite na telefon.</p>
+          </Chapter>
+          <div className="mt-8 space-y-4">
+            {LATEST_HUTBE.map((h) => (
+              <article
+                key={h.id}
+                className="rounded-2xl border border-border/60 bg-card p-5 shadow-sm"
+              >
+                <p className="text-xs uppercase tracking-[0.2em] text-[color:var(--wood)]">
+                  Džuma · {formatDate(h.date)}
+                  {h.minutes ? ` · ${h.minutes} min` : ""}
+                </p>
+                <h3 className="mt-2 font-display text-2xl leading-tight text-primary">{h.title}</h3>
+                {h.subtitle && <p className="mt-1 text-foreground/75">{h.subtitle}</p>}
+                <audio controls preload="none" className="mt-4 w-full" src={withBase(h.file)}>
+                  <a href={withBase(h.file)}>Preuzmi hutbu</a>
+                </audio>
+              </article>
+            ))}
+          </div>
+          <div className="mt-8 text-center">
+            <Link
+              to="/hutbe"
+              className="inline-flex rounded-full border border-primary px-7 py-3 font-semibold text-primary transition hover:bg-primary hover:text-primary-foreground"
+            >
+              Sve hutbe ({HUTBE.length})
+            </Link>
+          </div>
+        </div>
+      </section>
+
+      <section className="py-20">
         <div className="mx-auto max-w-3xl px-6 text-center">
           <p className="font-display text-2xl text-primary">Dobro došli na zajednički namaz u našu džamiju.</p>
           <Link

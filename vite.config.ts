@@ -16,7 +16,13 @@ export default defineConfig({
     tsConfigPaths({ projects: ["./tsconfig.json"] }),
     tailwindcss(),
     tanstackStart({
-      prerender: { enabled: true, crawlLinks: true },
+      prerender: {
+        enabled: true,
+        crawlLinks: true,
+        // Only pages: files linked from pages (e.g. hutbe audio in public/hutbe) are copied
+        // as they are; crawling them would re-save the binary as text and corrupt it.
+        filter: ({ path }) => !/\.[a-z0-9]{2,5}$/i.test(path.split("?")[0]),
+      },
     }),
     viteReact(),
   ],
