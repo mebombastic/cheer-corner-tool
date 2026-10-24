@@ -6,7 +6,7 @@
 // 403 Forbidden. This script moves `dist/client/*` up into `dist/`, drops any
 // server-only leftovers, and adds a `404.html` fallback for client-side routes.
 import { existsSync } from "node:fs";
-import { cp, readdir, rm, copyFile, readFile, writeFile } from "node:fs/promises";
+import { cp, readdir, rm, copyFile, readFile, writeFile, mkdir } from "node:fs/promises";
 import path from "node:path";
 
 const root = process.cwd();
@@ -54,6 +54,7 @@ console.log("[static] dist/ is ready to be served as a static site");
  * the build.
  */
 async function keepPreviousAssets() {
+  await keepFromArchive();
   const site = process.env.KEEP_ASSETS_FROM || (process.env.GITHUB_ACTIONS === "true" ? "https://recanedzamija.com" : "");
   if (!site) return;
   const assetsDir = path.join(dist, "assets");
@@ -68,8 +69,13 @@ async function keepPreviousAssets() {
 
     const queue = [];
     let pagesRead = 0;
+    let failure = "";
     for (const page of pages) {
-      const res = await fetch(new URL(page, site), { signal: AbortSignal.timeout(15000) }).catch(() => null);
+      const res = await fetch(new URL(page, site), { signal: AbortSignal.timeout(15000) }).catch((e) => {
+        failure ||= e?.cause?.code || e?.cause?.message || e?.message || String(e);
+        return null;
+      });
+      if (res && !res.ok) failure ||= `HTTP ${res.status}`;
       if (!res?.ok) continue;
       const html = await res.text();
       pagesRead++;
@@ -94,9 +100,36 @@ async function keepPreviousAssets() {
     }
     console.log(
       `[static] read ${pagesRead}/${pages.size} live pages from ${site}, they use ${seen.size} file(s); ` +
-        `kept ${copied} that the new build no longer has (the rest are unchanged)`,
+        `kept ${copied} that the new build no longer has (the rest are unchanged)` +
+        (failure ? ` [first error: ${failure}]` : ""),
     );
   } catch (e) {
     console.warn("[static] could not keep the previous version's files:", e?.message || e);
+  }
+}
+
+/**
+ * Same idea without the network: KEEP_ASSETS_DIR is a folder the deploy workflow restores
+ * from the Actions cache. Every deploy adds its files to it, and files of earlier deploys
+ * that the new build no longer has are copied back into dist/assets.
+ */
+async function keepFromArchive() {
+  const archive = process.env.KEEP_ASSETS_DIR;
+  if (!archive) return;
+  try {
+    const assetsDir = path.join(dist, "assets");
+    await mkdir(archive, { recursive: true });
+    let restored = 0;
+    for (const name of await readdir(archive)) {
+      const target = path.join(assetsDir, name);
+      if (existsSync(target)) continue;
+      await copyFile(path.join(archive, name), target);
+      restored++;
+    }
+    // Remember this build's files for the next deploys
+    await cp(assetsDir, archive, { recursive: true });
+    console.log(`[static] kept ${restored} file(s) from earlier deploys (${archive})`);
+  } catch (e) {
+    console.warn("[static] could not use the earlier deploys' files:", e?.message || e);
   }
 }
