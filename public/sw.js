@@ -3,7 +3,7 @@
 // Pages are fetched fresh from the network when online (so updates show up right away)
 // and served from the cache when offline. Built files under assets/ never change
 // (their names carry a hash), so they are served from the cache first.
-const CACHE = "recane-v2";
+const CACHE = "recane-v3";
 const scope = self.registration.scope;
 const PRECACHE = ["./", "prayer-times/", "site.webmanifest", "icon-192.png", "favicon.svg"].map((p) => new URL(p, scope).href);
 

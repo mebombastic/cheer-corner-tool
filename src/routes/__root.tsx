@@ -41,6 +41,18 @@ function NotFoundComponent() {
 // Script files that went missing after a new deploy: reloading picks up the new version.
 const CHUNK_ERROR = /dynamically imported module|Importing a module script failed|Failed to fetch|Loading chunk/i;
 const RELOADED_KEY = "reloaded-after-error";
+const FRESH_PARAM = "osvjezeno";
+
+/**
+ * Reloads with a one-off query string, so neither the browser's HTTP cache nor an older
+ * service worker can hand back the page from before the last deploy (which points at
+ * script files that no longer exist). The parameter is removed again once the page loads.
+ */
+function reloadFresh() {
+  const url = new URL(window.location.href);
+  url.searchParams.set(FRESH_PARAM, String(Date.now()));
+  window.location.replace(url.toString());
+}
 
 function ErrorComponent({ error }: ErrorComponentProps) {
   console.error(error);
@@ -56,7 +68,7 @@ function ErrorComponent({ error }: ErrorComponentProps) {
     } catch {
       return;
     }
-    window.location.reload();
+    reloadFresh();
   }, [message]);
 
   return (
@@ -70,7 +82,7 @@ function ErrorComponent({ error }: ErrorComponentProps) {
         </p>
         <div className="mt-6 flex flex-wrap justify-center gap-2">
           <button
-            onClick={() => window.location.reload()}
+            onClick={reloadFresh}
             className="inline-flex items-center justify-center rounded-md bg-primary px-4 py-2 text-sm font-medium text-primary-foreground transition-colors hover:bg-primary/90"
           >
             Pokušaj ponovo
@@ -152,6 +164,13 @@ function RootShell({ children }: { children: ReactNode }) {
 function RootComponent() {
   const { queryClient } = Route.useRouteContext();
   useServiceWorker();
+  // Tidy the address bar after reloadFresh()
+  useEffect(() => {
+    const url = new URL(window.location.href);
+    if (!url.searchParams.has(FRESH_PARAM)) return;
+    url.searchParams.delete(FRESH_PARAM);
+    window.history.replaceState(window.history.state, "", url.toString());
+  }, []);
 
   return (
     <QueryClientProvider client={queryClient}>
