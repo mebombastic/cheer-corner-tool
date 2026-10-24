@@ -1,0 +1,16 @@
+# Diagnostic only: opens the live site in Safari's engine (iPhone) and lists what fails.
+name: Live site check (iPhone)
+on:
+  push:
+    branches: [claude/site-redesign-integration-6lcrvz]
+    paths: [.github/workflows/live-check.yml, scripts/live-check.sh]
+  workflow_dispatch:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: sudo apt-get install -y whois >/dev/null 2>&1; bash scripts/live-check.sh
