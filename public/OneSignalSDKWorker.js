@@ -6,4 +6,6 @@ try {
 } catch (e) {
   // ignore
 }
-importScripts("sw.js");
+// The version number makes every phone fetch the new sw.js (Safari doesn't check imported scripts
+// for changes on its own). Raising it clears the old offline cache on all phones.
+importScripts("sw.js?v=3");
