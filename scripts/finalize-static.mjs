@@ -6,7 +6,7 @@
 // 403 Forbidden. This script moves `dist/client/*` up into `dist/`, drops any
 // server-only leftovers, and adds a `404.html` fallback for client-side routes.
 import { existsSync } from "node:fs";
-import { cp, readdir, rm, copyFile } from "node:fs/promises";
+import { cp, readdir, rm, copyFile, readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 
 const root = process.cwd();
@@ -39,4 +39,59 @@ if (!existsSync(indexHtml)) {
 // SPA-style fallback so unknown paths still boot the app instead of 404ing hard.
 await copyFile(indexHtml, path.join(dist, "404.html"));
 
+await keepPreviousAssets();
+
 console.log("[static] dist/ is ready to be served as a static site");
+
+/**
+ * Copies the script, style and font files of the version that is live right now into
+ * dist/assets, next to the new ones. Every deploy renames these files, and a phone or
+ * cache that still has a page from before the deploy asks for the old names; without
+ * them it shows "Importing a module script failed". Keeping the previous version's files
+ * for one deploy makes such pages keep working until they are reloaded.
+ *
+ * Runs only on GitHub Actions (or when KEEP_ASSETS_FROM is set); a failure never fails
+ * the build.
+ */
+async function keepPreviousAssets() {
+  const site = process.env.KEEP_ASSETS_FROM || (process.env.GITHUB_ACTIONS === "true" ? "https://recanedzamija.com" : "");
+  if (!site) return;
+  const assetsDir = path.join(dist, "assets");
+  const ASSET = /(?:^|[/"'`(\s,])((?:[\w.-]+-)?[\w-]{8}\.(?:js|css|woff2?|jpg|png|svg|webp))(?=[?"'`)\s,]|$)/g;
+  const names = (text) => [...text.matchAll(ASSET)].map((m) => m[1]);
+
+  try {
+    // Pages listed in the sitemap, plus the home page
+    const sitemap = await readFile(path.join(dist, "sitemap.xml"), "utf8").catch(() => "");
+    const pages = new Set(["/"]);
+    for (const m of sitemap.matchAll(/<loc>https?:\/\/[^/]+(\/[^<]*)<\/loc>/g)) pages.add(m[1]);
+
+    const queue = [];
+    for (const page of pages) {
+      const res = await fetch(new URL(page, site), { signal: AbortSignal.timeout(15000) }).catch(() => null);
+      if (!res?.ok) continue;
+      const html = await res.text();
+      for (const m of html.matchAll(/\/assets\/([\w.-]+)/g)) queue.push(m[1]);
+    }
+
+    const seen = new Set();
+    let copied = 0;
+    while (queue.length) {
+      const name = queue.shift();
+      if (seen.has(name)) continue;
+      seen.add(name);
+      const target = path.join(assetsDir, name);
+      if (existsSync(target)) continue; // unchanged since the last deploy
+      const res = await fetch(new URL(`/assets/${name}`, site), { signal: AbortSignal.timeout(15000) }).catch(() => null);
+      if (!res?.ok) continue;
+      const body = Buffer.from(await res.arrayBuffer());
+      await writeFile(target, body);
+      copied++;
+      // Scripts and styles load further files (lazy pages, fonts): keep those too
+      if (/\.(js|css)$/.test(name)) for (const n of names(body.toString("utf8"))) queue.push(n);
+    }
+    console.log(`[static] kept ${copied} file(s) from the live version for pages cached before this deploy`);
+  } catch (e) {
+    console.warn("[static] could not keep the previous version's files:", e?.message || e);
+  }
+}
