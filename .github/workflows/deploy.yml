@@ -26,16 +26,9 @@ jobs:
       - run: npm ci
       - id: pages
         uses: actions/configure-pages@v5
-      # Files of earlier deploys, so pages a phone still has cached keep finding their scripts
-      - uses: actions/cache@v4
-        with:
-          path: .assets-archive
-          key: site-assets-${{ github.run_id }}
-          restore-keys: site-assets-
       - run: npm run build
         env:
           BASE_PATH: ${{ steps.pages.outputs.base_path }}/
-          KEEP_ASSETS_DIR: .assets-archive
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
