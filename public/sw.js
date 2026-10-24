@@ -3,7 +3,7 @@
 // Pages are fetched fresh from the network when online (so updates show up right away)
 // and served from the cache when offline. Built files under assets/ never change
 // (their names carry a hash), so they are served from the cache first.
-const CACHE = "recane-v3";
+const CACHE = "recane-v4";
 const scope = self.registration.scope;
 const PRECACHE = ["./", "prayer-times/", "site.webmanifest", "icon-192.png", "favicon.svg"].map((p) => new URL(p, scope).href);
 
@@ -78,7 +78,8 @@ self.addEventListener("fetch", (event) => {
   const url = new URL(request.url);
   if (url.origin !== self.location.origin) return;
   // Audio (hutbe) is streamed in parts and is too big to keep offline: leave it to the browser
-  if (request.headers.has("range") || request.destination === "audio" || url.pathname.includes("/hutbe/")) return;
+  // (only the audio files themselves: the /hutbe/ page must still go through networkFirst)
+  if (request.headers.has("range") || request.destination === "audio" || /\.(m4a|mp3|aac|ogg)$/i.test(url.pathname)) return;
 
   if (request.mode === "navigate") event.respondWith(networkFirst(request));
   else if (url.pathname.includes("/assets/")) event.respondWith(cacheFirst(request));

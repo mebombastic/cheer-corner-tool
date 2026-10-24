@@ -173,7 +173,7 @@ export function SiteHeader() {
       </div>
 
       {mobile && (
-        <nav id="mobilni-meni" aria-label="Glavni meni" className="lg:hidden max-h-[calc(100dvh-5rem)] overflow-y-auto border-t border-white/10 px-6 pb-6 pt-2">
+        <nav id="mobilni-meni" aria-label="Glavni meni" className="lg:hidden max-h-[calc(100dvh-5rem)] overflow-y-auto border-t border-white/10 px-6 pb-28 pt-2">
           <Link
             to="/"
             activeOptions={{ exact: true }}
