@@ -67,10 +67,12 @@ async function keepPreviousAssets() {
     for (const m of sitemap.matchAll(/<loc>https?:\/\/[^/]+(\/[^<]*)<\/loc>/g)) pages.add(m[1]);
 
     const queue = [];
+    let pagesRead = 0;
     for (const page of pages) {
       const res = await fetch(new URL(page, site), { signal: AbortSignal.timeout(15000) }).catch(() => null);
       if (!res?.ok) continue;
       const html = await res.text();
+      pagesRead++;
       for (const m of html.matchAll(/\/assets\/([\w.-]+)/g)) queue.push(m[1]);
     }
 
@@ -90,7 +92,10 @@ async function keepPreviousAssets() {
       // Scripts and styles load further files (lazy pages, fonts): keep those too
       if (/\.(js|css)$/.test(name)) for (const n of names(body.toString("utf8"))) queue.push(n);
     }
-    console.log(`[static] kept ${copied} file(s) from the live version for pages cached before this deploy`);
+    console.log(
+      `[static] read ${pagesRead}/${pages.size} live pages from ${site}, they use ${seen.size} file(s); ` +
+        `kept ${copied} that the new build no longer has (the rest are unchanged)`,
+    );
   } catch (e) {
     console.warn("[static] could not keep the previous version's files:", e?.message || e);
   }
