@@ -1,0 +1,17 @@
+# Diagnostic only: opens the live site in Safari's engine (iPhone) and lists what fails.
+name: Live site check (iPhone)
+on:
+  push:
+    branches: [claude/site-redesign-integration-6lcrvz]
+    paths: [.github/workflows/live-check.yml, scripts/live-check.mjs]
+  workflow_dispatch:
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm i --no-save playwright@1.56.1 && npx playwright install --with-deps webkit chromium
+      - run: node scripts/live-check.mjs
