@@ -6,7 +6,4 @@ try {
 } catch (e) {
   // ignore
 }
-// The version is part of the URL so that every change to sw.js also changes this file:
-// Safari only checks the registered worker file for updates, not the scripts it imports.
-// Bump it whenever sw.js changes.
-importScripts("sw.js?v=4");
+importScripts("sw.js");
