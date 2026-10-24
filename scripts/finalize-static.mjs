@@ -36,6 +36,8 @@ if (!existsSync(indexHtml)) {
   process.exit(1);
 }
 
+await inlineStyles();
+
 // SPA-style fallback so unknown paths still boot the app instead of 404ing hard.
 await copyFile(indexHtml, path.join(dist, "404.html"));
 
@@ -132,4 +134,32 @@ async function keepFromArchive() {
   } catch (e) {
     console.warn("[static] could not use the earlier deploys' files:", e?.message || e);
   }
+}
+
+/**
+ * Puts the site's stylesheet inside every page as well, just before its <link>. If a phone
+ * can't load the separate .css file (bad connection, an old cached copy, a deploy in
+ * progress), the page still looks right instead of showing unstyled buttons and text.
+ */
+async function inlineStyles() {
+  const LINK = /<link rel="stylesheet" href="\/assets\/([\w.-]+\.css)"[^>]*>/g;
+  const css = new Map();
+  let pages = 0;
+  for (const entry of await readdir(dist, { recursive: true })) {
+    if (!entry.endsWith(".html")) continue;
+    const file = path.join(dist, entry);
+    const html = await readFile(file, "utf8");
+    let out = "";
+    let last = 0;
+    for (const m of html.matchAll(LINK)) {
+      if (!css.has(m[1])) css.set(m[1], await readFile(path.join(dist, "assets", m[1]), "utf8").catch(() => ""));
+      const text = css.get(m[1]).replace(/<\/style/gi, "<\\/style");
+      out += html.slice(last, m.index) + (text ? `<style>${text}</style>` : "") + m[0];
+      last = m.index + m[0].length;
+    }
+    if (!last) continue;
+    await writeFile(file, out + html.slice(last));
+    pages++;
+  }
+  console.log(`[static] put the stylesheet inside ${pages} page(s)`);
 }
