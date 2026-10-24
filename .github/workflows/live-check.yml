@@ -1,0 +1,21 @@
+# Temporary diagnostic: what does the live site serve right now?
+name: Live site check
+on:
+  push:
+    branches: [claude/site-redesign-integration-6lcrvz]
+    paths: [.github/workflows/live-check.yml]
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          for p in / /hutbe/ /imam/; do
+            echo "===== $p"
+            curl -sS -D - -o page.html "https://recanedzamija.com$p" | grep -iE "^(HTTP|last-modified|age|cache-control|x-cache|date)"
+            echo "contains 23.10 hutba: $(grep -c 'Tri poučne' page.html)"
+            grep -o 'Feraid[^<"]*' page.html | head -1
+          done
+          echo "===== audio"
+          curl -sSI https://recanedzamija.com/hutbe/2026-10-23-tri-poucne-price-o-akaidu.m4a | grep -iE "^(HTTP|content-length|content-type)"
+          echo "===== sitemap"; curl -sS https://recanedzamija.com/sitemap.xml | head -5
+          echo "===== dns"; dig +short A recanedzamija.com; dig +short NS recanedzamija.com
