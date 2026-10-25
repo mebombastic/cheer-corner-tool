@@ -1,4 +1,5 @@
 {
   "sabahMinutesBeforeSunrise": 35,
-  "podne": "13:00"
+  "podne": "13:00",
+  "podneZimi": "12:00"
 }

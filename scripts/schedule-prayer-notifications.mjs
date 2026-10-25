@@ -31,6 +31,12 @@ const toMin = (hhmm) => {
 };
 const fmt = (min) => `${String(Math.floor(min / 60)).padStart(2, "0")}:${String(min % 60).padStart(2, "0")}`;
 
+/** Podne in Džamija Rečane: 13:00 in summer time, 12:00 in winter time (as on the website). */
+function podneFor(iso) {
+  const { dst_start, dst_end } = takvim.metadata.timezone;
+  return iso >= dst_start.slice(0, 10) && iso < dst_end.slice(0, 10) ? recane.podne : recane.podneZimi;
+}
+
 /** The five prayers for a local date, the same way the website shows them. */
 export function prayersFor(year, month, day) {
   const entry = takvim.prayer_times[MONTHS[month - 1]]?.find((d) => d.day === day);
@@ -38,7 +44,7 @@ export function prayersFor(year, month, day) {
   const offset = takvim.metadata.city_offsets_minutes?.Prizren ?? 0;
   return [
     { key: "sabah", name: "Sabah", min: toMin(entry.sunrise) + offset - recane.sabahMinutesBeforeSunrise, mosque: true },
-    { key: "podne", name: "Podne", min: toMin(recane.podne), mosque: true },
+    { key: "podne", name: "Podne", min: toMin(podneFor(entry.date)), mosque: true },
     { key: "ikindija", name: "Ikindija", min: toMin(entry.asr) + offset },
     { key: "aksam", name: "Akšam", min: toMin(entry.maghrib) + offset },
     { key: "jacija", name: "Jacija", min: toMin(entry.isha) + offset },
@@ -92,7 +98,7 @@ async function schedule(p, date) {
     ttl: 3600,
     // A newer prayer notification replaces the previous one instead of piling up
     web_push_topic: "namaz",
-    idempotency_key: idempotencyKey(`recane:${y}-${m}-${d}:${p.key}`),
+    idempotency_key: idempotencyKey(`recane:${y}-${m}-${d}:${p.key}:${p.time}`),
   };
   const label = `${y}-${String(m).padStart(2, "0")}-${String(d).padStart(2, "0")} ${p.name.padEnd(8)} ${p.time} -> ${payload.send_after}`;
   if (dryRun) return console.log("[dry-run]", label, "|", title, "|", body);
@@ -116,17 +122,42 @@ if (!dryRun && !process.env.ONESIGNAL_REST_API_KEY) {
 
 const now = Date.now();
 let failed = 0;
+const expected = new Set(); // "send time|title" of every prayer notification that should be queued
 for (const add of [0, 1]) {
   const date = localDate(add);
   for (const p of prayersFor(...date)) {
     // Only prayers still at least a minute ahead
-    if (zonedToUtc(...date, p.min - MINUTES_BEFORE).getTime() < now + 60_000) continue;
+    const at = zonedToUtc(...date, p.min - MINUTES_BEFORE).getTime();
+    if (at < now + 60_000) continue;
+    expected.add(`${Math.round(at / 1000)}|${message(p).title}`);
     try {
       await schedule(p, date);
     } catch (e) {
       failed++;
       console.error(String(e.message || e));
     }
+  }
+}
+
+// Cancel queued prayer notifications whose time is no longer right (e.g. podne moved when the
+// clocks changed). Only notifications titled like "<prayer> namaz u HH:MM" are touched, never
+// announcements sent from the OneSignal dashboard.
+if (!dryRun) {
+  try {
+    const auth = { Authorization: `Key ${process.env.ONESIGNAL_REST_API_KEY}` };
+    const res = await fetch(`https://api.onesignal.com/notifications?app_id=${APP_ID}&limit=50`, { headers: auth });
+    const list = (await res.json()).notifications ?? [];
+    for (const n of list) {
+      const title = n.headings?.en ?? "";
+      const sendAfter = Number(n.send_after);
+      if (!/^(Sabah|Podne|Ikindija|Akšam|Jacija) namaz u \d\d:\d\d$/.test(title)) continue;
+      if (n.canceled || n.completed_at || !(sendAfter * 1000 > now)) continue;
+      if (expected.has(`${sendAfter}|${title}`)) continue;
+      const del = await fetch(`https://api.onesignal.com/notifications/${n.id}?app_id=${APP_ID}`, { method: "DELETE", headers: auth });
+      console.log(`canceled ${title} at ${new Date(sendAfter * 1000).toISOString()}: ${del.status}`);
+    }
+  } catch (e) {
+    console.warn("could not check queued notifications:", String(e.message || e));
   }
 }
 if (failed) process.exit(1);
