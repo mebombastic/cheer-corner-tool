@@ -72,8 +72,16 @@ function addMinutes(hhmm: string, offset: number): string {
  */
 export const SABAH_MINUTES_BEFORE_SUNRISE = recane.sabahMinutesBeforeSunrise;
 
-/** Podne namaz in Džamija Rečane is prayed at this fixed time every day. */
-export const PODNE_TIME = recane.podne;
+/**
+ * Podne namaz in Džamija Rečane is prayed at a fixed time: 13:00 in summer time and 12:00
+ * in winter time, so it moves with the clocks (the takvim's dates for the change).
+ */
+export function podneFor(iso: string): string {
+  const { dst_start, dst_end } = (data as { metadata: { timezone: { dst_start: string; dst_end: string } } }).metadata
+    .timezone;
+  const summer = iso >= dst_start.slice(0, 10) && iso < dst_end.slice(0, 10);
+  return summer ? recane.podne : recane.podneZimi;
+}
 
 export async function fetchPrizrenPrayerTimes(date = new Date()): Promise<PrayerData> {
   const city = "Prizren";
@@ -90,7 +98,7 @@ export async function fetchPrizrenPrayerTimes(date = new Date()): Promise<Prayer
     Imsak: addMinutes(entry.imsak, offset),
     Fajr: addMinutes(entry.sunrise, offset - SABAH_MINUTES_BEFORE_SUNRISE),
     Sunrise: addMinutes(entry.sunrise, offset),
-    Dhuhr: PODNE_TIME,
+    Dhuhr: podneFor(entry.date),
     Asr: addMinutes(entry.asr, offset),
     Maghrib: addMinutes(entry.maghrib, offset),
     Isha: addMinutes(entry.isha, offset),
